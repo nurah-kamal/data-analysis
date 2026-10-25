@@ -1,0 +1,7 @@
+supplier_id,origin,promised_lead_days,min_order_qty
+S01,Local,7,40
+S02,Local,10,10
+S03,Local,14,12
+S04,Local,7,20
+S05,Imported,21,24
+S06,Local,10,20

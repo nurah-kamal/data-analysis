@@ -1,0 +1,49 @@
+product_id,description,category,supplier_id,unit_cost,list_price
+P01,Wood screws 4x40 (box of 200),Fasteners,S01,51.43,97.9
+P02,Drywall screws 3.5x35 (box of 500),Fasteners,S01,60.91,116.9
+P03,Coach bolts M10x100 (pack of 10),Fasteners,S01,43.92,82.9
+P04,Wall plugs 6 mm (pack of 100),Fasteners,S01,38.75,72.9
+P05,Hex nuts M8 (pack of 100),Fasteners,S04,66.15,120.9
+P06,Washers M10 (pack of 100),Fasteners,S04,39.37,76.9
+P07,Wire nails 75 mm (1 kg),Fasteners,S04,78.57,148.9
+P08,Pop rivets 4 mm (pack of 50),Fasteners,S04,93.68,170.9
+P09,Claw hammer 450 g,Hand tools,S02,97.25,153.9
+P10,Tape measure 8 m,Hand tools,S02,112.93,175.9
+P11,Spirit level 600 mm,Hand tools,S02,147.2,240.9
+P12,Screwdriver set (6 piece),Hand tools,S02,96.45,163.9
+P13,Utility knife,Hand tools,S01,240.82,393.9
+P14,Hacksaw 300 mm,Hand tools,S01,89.26,136.9
+P15,Adjustable spanner 250 mm,Hand tools,S01,208.64,331.9
+P16,Pliers set (3 piece),Hand tools,S01,188.8,320.9
+P17,Cordless drill 18 V,Power tools,S05,1139.61,1544.9
+P18,Angle grinder 115 mm,Power tools,S05,2236.18,2968.9
+P19,Jigsaw 650 W,Power tools,S05,1524.77,2051.9
+P20,Orbital sander,Power tools,S05,1628.2,2168.9
+P21,Impact driver 18 V,Power tools,S05,1735.17,2227.9
+P22,Circular saw 1400 W,Power tools,S05,1923.96,2408.9
+P23,Battery pack 18 V 4 Ah,Power tools,S05,1288.22,1733.9
+P24,Drill bit set (19 piece),Power tools,S05,1288.85,1613.9
+P25,Interior PVA white 20 L,Paint,S03,412.56,613.9
+P26,Interior PVA white 5 L,Paint,S03,774.67,1098.9
+P27,Exterior acrylic 20 L,Paint,S03,233.28,344.9
+P28,Primer 5 L,Paint,S03,872.94,1361.9
+P29,Enamel gloss 1 L,Paint,S06,356.29,520.9
+P30,Wood varnish 1 L,Paint,S06,689.63,1009.9
+P31,Roof paint 20 L,Paint,S06,637.26,971.9
+P32,Paint roller kit 230 mm,Paint,S06,110.23,168.9
+P33,PVC pipe 50 mm x 6 m,Plumbing,S04,532.51,836.9
+P34,Ball valve 15 mm,Plumbing,S04,51.25,83.9
+P35,Copper elbow 15 mm (pack of 10),Plumbing,S04,306.72,461.9
+P36,Basin mixer tap,Plumbing,S04,112.15,180.9
+P37,Toilet cistern kit,Plumbing,S02,141.34,208.9
+P38,Thread seal tape (pack of 10),Plumbing,S02,39.07,62.9
+P39,Flexible hose 300 mm,Plumbing,S02,149.91,236.9
+P40,Pipe clamp 50 mm (pack of 10),Plumbing,S02,584.53,895.9
+P41,Extension lead 5 m,Electrical,S06,177.38,255.9
+P42,LED bulb 9 W (pack of 4),Electrical,S06,927.8,1259.9
+P43,Twin and earth cable 2.5 mm x 100 m,Electrical,S06,635.25,917.9
+P44,Double wall socket,Electrical,S06,1015.32,1503.9
+P45,Light switch 1 lever,Electrical,S03,254.91,367.9
+P46,Circuit breaker 20 A,Electrical,S03,549.37,797.9
+P47,Insulation tape (pack of 10),Electrical,S03,452.09,654.9
+P48,Distribution board 12 way,Electrical,S03,179.46,256.9
