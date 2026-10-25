@@ -4,8 +4,8 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [sql-ops](sql-ops/) | Business questions about a made-up wholesaler's orders and stock, answered in plain SQL on a seeded synthetic database, with tests for every answer. | SQL, SQLite, Node |
-| [hr-data-generator](hr-data-generator/) | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. | Python |
+| [Stock and Orders](sql-ops/) | Thirteen business questions about a made-up wholesaler's orders and stock, answered in plain SQL on a seeded synthetic database, with tests for every answer. It traces customers' missing units back to one supplier that started delivering late. | SQL, SQLite, Node |
+| [HR data generator](hr-data-generator/) | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. | Python |
 
 More projects join as they ship, starting with reconcile, a tool that reports where two datasets disagree.
 
