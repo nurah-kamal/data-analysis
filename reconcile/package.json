@@ -1,0 +1,17 @@
+{
+  "name": "reconcile",
+  "version": "1.0.0",
+  "description": "Matches records across two or more datasets and reports what matches, what conflicts, and both values for every conflict.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "reconcile": "node bin/reconcile.js",
+    "example": "node bin/reconcile.js examples/countries/reconcile.json --out results/countries.md && node bin/reconcile.js examples/countries/reconcile.json --out results/countries.html",
+    "fetch": "node scripts/fetch-countries.js",
+    "test": "node --test"
+  }
+}

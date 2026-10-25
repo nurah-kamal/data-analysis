@@ -6,8 +6,9 @@
 | --- | --- | --- |
 | [Stock and Orders](sql-ops/) | Thirteen business questions about a made-up wholesaler's orders and stock, answered in plain SQL on a seeded synthetic database, with tests for every answer. It traces customers' missing units back to one supplier that started delivering late. | SQL, SQLite, Node |
 | [HR data generator](hr-data-generator/) | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. | Python |
+| [reconcile](reconcile/) | Matches records across two or more datasets and shows every disagreement with both values side by side, never picking a winner. The example compares the World Bank's country list with Wikidata's: 195 countries in both, 127 of them disagreeing on a name, a capital or a population. | Node |
 
-More projects join as they ship, starting with reconcile, a tool that reports where two datasets disagree.
+More projects join as they ship.
 
 ## How this repo is organised
 
@@ -17,7 +18,7 @@ More projects join as they ship, starting with reconcile, a tool that reports wh
 
 ## Data
 
-All data here is invented or public. No person is in it, not even made-up names.
+All data here is invented or public. No person is in it, not even made-up names. reconcile's example is open data from the World Bank (CC BY 4.0) and Wikidata (CC0), with the details in its README.
 
 ## Licence
 

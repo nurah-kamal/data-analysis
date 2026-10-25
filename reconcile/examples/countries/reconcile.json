@@ -1,0 +1,14 @@
+{
+  "title": "Countries: World Bank and Wikidata",
+  "sources": [
+    { "name": "World Bank", "file": "world-bank.csv" },
+    { "name": "Wikidata", "file": "wikidata.csv" }
+  ],
+  "key": "iso3",
+  "fallback": { "field": "name", "minScore": 0.6 },
+  "compare": [
+    { "field": "capital", "loose": true },
+    { "field": "population", "tolerance": 0.02, "context": { "World Bank": "population_year", "Wikidata": "population_date" } },
+    { "field": "name", "loose": true }
+  ]
+}
