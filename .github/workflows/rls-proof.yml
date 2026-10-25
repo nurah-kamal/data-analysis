@@ -1,0 +1,49 @@
+name: rls-proof
+
+on:
+  push:
+    branches: [main]
+    paths: ['rls-proof/**', '.github/workflows/rls-proof.yml']
+  pull_request:
+    branches: [main]
+    paths: ['rls-proof/**', '.github/workflows/rls-proof.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        # postgres:18, pinned to the image digest
+        image: postgres@sha256:edb0c08dc33befd0262ab3b5cf1c4f3f8cfd8b09e88c05b45adee29d6761ddb6
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      PGHOST: localhost
+      PGPORT: 5432
+      PGUSER: postgres
+      PGPASSWORD: postgres
+    defaults:
+      run:
+        working-directory: rls-proof
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+      - run: npm ci
+      - run: npm test
+      - name: The committed results still come out of the code
+        run: |
+          npm run report
+          git diff --exit-code -- results/

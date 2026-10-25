@@ -1,0 +1,17 @@
+{
+  "name": "rls-proof",
+  "private": true,
+  "type": "module",
+  "description": "Proves PostgreSQL row-level security keeps two tenants apart, and that the tests catch it when it doesn't.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test --test-concurrency=1",
+    "report": "node scripts/report.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.23.1"
+  }
+}
