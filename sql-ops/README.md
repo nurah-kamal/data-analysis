@@ -1,5 +1,7 @@
 # Stock and Orders
 
+[![sql-ops](https://github.com/nurah-kamal/data-analysis/actions/workflows/sql-ops.yml/badge.svg?branch=main&event=push)](https://github.com/nurah-kamal/data-analysis/actions/workflows/sql-ops.yml) 13 tests
+
 **Thirteen business questions about a made-up wholesaler's orders and stock, each answered in one plain SQL file. The tests check the answers, including three patterns planted in the data on purpose and then found.**
 
 The headline finding, from [06_fill_rate_by_supplier.sql](sql/questions/06_fill_rate_by_supplier.sql) and [05_supplier_lead_times.sql](sql/questions/05_supplier_lead_times.sql): one supplier started delivering late in March 2025, and by the second half of the year customers were going without about one in six of the units they ordered from its range.

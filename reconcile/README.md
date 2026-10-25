@@ -1,5 +1,7 @@
 # reconcile
 
+[![reconcile](https://github.com/nurah-kamal/data-analysis/actions/workflows/reconcile.yml/badge.svg?branch=main&event=push)](https://github.com/nurah-kamal/data-analysis/actions/workflows/reconcile.yml) 13 tests
+
 **Matches records across two or more datasets and reports what matches, what is missing from each, and every field where they disagree, with each source's value side by side. It never decides which source is right. The example compares the World Bank's country list with Wikidata's: 195 countries are in both, and 127 of those disagree on a name, a capital or a population.**
 
 From [results/countries.md](results/countries.md) (also as [HTML](results/countries.html)):

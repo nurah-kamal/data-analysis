@@ -4,9 +4,9 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [Stock and Orders](sql-ops/) | Thirteen business questions about a made-up wholesaler's orders and stock, answered in plain SQL on a seeded synthetic database, with tests for every answer. It traces customers' missing units back to one supplier that started delivering late. | SQL, SQLite, Node |
+| [Stock and Orders](sql-ops/)<br>[![sql-ops](https://github.com/nurah-kamal/data-analysis/actions/workflows/sql-ops.yml/badge.svg?branch=main&event=push)](https://github.com/nurah-kamal/data-analysis/actions/workflows/sql-ops.yml) 13 tests | Thirteen business questions about a made-up wholesaler's orders and stock, answered in plain SQL on a seeded synthetic database, with tests for every answer. It traces customers' missing units back to one supplier that started delivering late. | SQL, SQLite, Node |
 | [HR data generator](hr-data-generator/) | Makes an invented South African workforce of 8,950 employees for practising HR analytics, with a fixed seed so the output repeats. | Python |
-| [reconcile](reconcile/) | Matches records across two or more datasets and shows every disagreement with both values side by side, never picking a winner. The example compares the World Bank's country list with Wikidata's: 195 countries in both, 127 of them disagreeing on a name, a capital or a population. | Node |
+| [reconcile](reconcile/)<br>[![reconcile](https://github.com/nurah-kamal/data-analysis/actions/workflows/reconcile.yml/badge.svg?branch=main&event=push)](https://github.com/nurah-kamal/data-analysis/actions/workflows/reconcile.yml) 13 tests | Matches records across two or more datasets and shows every disagreement with both values side by side, never picking a winner. The example compares the World Bank's country list with Wikidata's: 195 countries in both, 127 of them disagreeing on a name, a capital or a population. | Node |
 
 More projects join as they ship.
 
