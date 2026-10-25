@@ -2,7 +2,7 @@
 
 A Python script that makes an invented South African workforce for practising HR analytics: 8,950 employees with departments, job titles, provinces, cities, education levels, salaries in rands and performance ratings. Nobody in it is real; names come from Faker's South African locale.
 
-I used it to build the [HR dashboard](https://github.com/nurah-kamal/reporting-and-bi/tree/main/tableau/HR%20Data) in Tableau.
+I used it to build the [HR dashboard](https://github.com/nurah-kamal/business-intelligence/tree/main/tableau/HR%20Data) in Tableau.
 
 ## How it generates each column
 
