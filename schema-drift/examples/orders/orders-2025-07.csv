@@ -1,0 +1,1605 @@
+order_id,order_date,province,channel,category,quantity,unit_price,amount,discount_pct,status,courier,delivered_on
+O010208,01/07/2025,KwaZulu-Natal,Web,Electrical,1,1327.90,132790,0,Delivered,Road,2025-07-04
+O010209,01/07/2025,Gauteng,Web,Paint,1,987.90,98790,0,Delivered,Road,2025-07-05
+O010210,01/07/2025,Western Cape,Web,Hardware,3,220.90,66270,,Delivered,Road,2025-07-03
+O010211,01/07/2025,Free State,Web,Plumbing,3,777.90,233370,5,Delivered,Air,2025-07-05
+O010212,01/07/2025,Western Cape,Web,Paint,3,1170.90,351270,0,Delivered,Road,2025-07-02
+O010213,01/07/2025,Gauteng,Web,Garden,4,668.90,267560,10,Delivered,Road,2025-07-04
+O010214,01/07/2025,KwaZulu-Natal,Phone,Paint,6,1080.90,648540,5,Delivered,Road,2025-07-05
+O010215,01/07/2025,Western Cape,Store,Paint,3,662.90,198870,0,Delivered,Collect,2025-07-02
+O010216,01/07/2025,Gauteng,Web,Hardware,3,177.90,53370,0,Delivered,Road,2025-07-03
+O010217,01/07/2025,Gauteng,Web,Hardware,1,26.90,2690,5,Delivered,Road,2025-07-02
+O010218,01/07/2025,KwaZulu-Natal,Web,Hardware,4,116.90,46760,10,Delivered,Road,2025-07-06
+O010219,01/07/2025,Free State,Store,Hardware,2,367.90,73580,0,Delivered,Collect,2025-07-06
+O010220,01/07/2025,Western Cape,Store,Garden,3,497.90,149370,0,Delivered,Collect,2025-07-05
+O010221,01/07/2025,Free State,App,Paint,5,627.90,313950,0,Delivered,Road,2025-07-06
+O010222,01/07/2025,Eastern Cape,Web,Paint,1,1201.90,120190,10,Delivered,Road,2025-07-06
+O010223,01/07/2025,Gauteng,Phone,Electrical,5,984.90,492450,,Delivered,Road,2025-07-03
+O010224,01/07/2025,Eastern Cape,Store,Electrical,2,1200.90,240180,10,Returned,Collect,
+O010225,01/07/2025,Gauteng,Store,Plumbing,6,542.90,325740,10,Delivered,Collect,2025-07-02
+O010226,01/07/2025,KwaZulu-Natal,Web,Electrical,2,487.90,97580,0,Delivered,Road,2025-07-02
+O010227,01/07/2025,Gauteng,Web,Hardware,5,212.90,106450,0,Delivered,Road,2025-07-02
+O010228,01/07/2025,Gauteng,Web,Electrical,1,391.90,39190,0,Delivered,Road,2025-07-03
+O010229,01/07/2025,Western Cape,Web,Electrical,2,1501.90,300380,5,Delivered,Road,2025-07-04
+O010230,01/07/2025,Gauteng,Web,Plumbing,4,143.90,57560,10,Returned,Road,
+O010231,01/07/2025,Western Cape,Web,Paint,3,996.90,299070,5,Delivered,Road,2025-07-06
+O010232,01/07/2025,Gauteng,Phone,Hardware,4,283.90,113560,10,Cancelled,Road,
+O010233,01/07/2025,Western Cape,Store,Paint,2,432.90,86580,5,Delivered,Collect,2025-07-03
+O010234,01/07/2025,Eastern Cape,Web,Electrical,2,1329.90,265980,0,Delivered,Road,2025-07-06
+O010235,01/07/2025,Gauteng,Store,Hardware,5,181.90,90950,0,Returned,Collect,
+O010236,01/07/2025,Gauteng,App,Electrical,3,453.90,136170,0,Delivered,Road,2025-07-05
+O010237,01/07/2025,KwaZulu-Natal,Store,Paint,3,768.90,230670,15,Delivered,Collect,2025-07-05
+O010238,01/07/2025,Western Cape,App,Garden,3,779.90,233970,0,Delivered,Air,2025-07-06
+O010239,01/07/2025,KwaZulu-Natal,Web,Paint,3,1063.90,319170,0,Delivered,Road,2025-07-02
+O010240,01/07/2025,Gauteng,Web,Garden,2,398.90,79780,0,Returned,Road,
+O010241,01/07/2025,Gauteng,Web,Tools,1,2089.90,208990,0,Cancelled,Road,
+O010242,01/07/2025,Western Cape,Store,Garden,3,143.90,43170,15,Delivered,Collect,2025-07-06
+O010243,01/07/2025,Eastern Cape,Store,Hardware,2,250.90,50180,0,Delivered,Collect,2025-07-03
+O010244,01/07/2025,Western Cape,Phone,Garden,3,390.90,117270,0,Delivered,Road,2025-07-06
+O010245,01/07/2025,Free State,Store,Electrical,6,1377.90,826740,5,Delivered,Collect,2025-07-03
+O010246,01/07/2025,Western Cape,Web,Electrical,4,1345.90,538360,0,Cancelled,Road,
+O010247,01/07/2025,KwaZulu-Natal,Web,Electrical,3,133.90,40170,5,Delivered,Road,2025-07-03
+O010248,01/07/2025,KwaZulu-Natal,Store,Paint,3,839.90,251970,0,Returned,Collect,
+O010249,01/07/2025,Gauteng,Phone,Hardware,1,135.90,13590,,Delivered,Road,2025-07-06
+O010250,01/07/2025,KwaZulu-Natal,Store,Tools,2,3065.90,613180,10,Delivered,Collect,2025-07-02
+O010251,01/07/2025,Western Cape,Web,Garden,6,364.90,218940,10,Delivered,Air,2025-07-02
+O010252,01/07/2025,Gauteng,Phone,Electrical,4,1262.90,505160,0,Delivered,Road,2025-07-04
+O010253,01/07/2025,Gauteng,Web,Hardware,3,238.90,71670,0,Delivered,Road,2025-07-02
+O010254,01/07/2025,Gauteng,Web,Electrical,3,527.90,158370,5,Delivered,Road,2025-07-03
+O010255,01/07/2025,KwaZulu-Natal,Phone,Tools,3,666.90,200070,0,Returned,Road,
+O010256,01/07/2025,KwaZulu-Natal,Store,Garden,3,775.90,232770,5,Returned,Collect,
+O010257,02/07/2025,Gauteng,Store,Hardware,5,218.90,109450,10,Delivered,Collect,2025-07-03
+O010258,02/07/2025,KwaZulu-Natal,Web,Paint,1,816.90,81690,5,Delivered,Air,2025-07-07
+O010259,02/07/2025,Gauteng,Web,Garden,2,401.90,80380,,Delivered,Road,2025-07-04
+O010260,02/07/2025,Gauteng,Phone,Garden,6,47.90,28740,0,Delivered,Road,2025-07-04
+O010261,02/07/2025,Gauteng,Phone,Garden,3,357.90,107370,5,Delivered,Road,2025-07-06
+O010262,02/07/2025,Western Cape,Phone,Paint,1,99.90,9990,10,Returned,Road,
+O010263,02/07/2025,Western Cape,Web,Plumbing,5,525.90,262950,20,Delivered,Air,2025-07-06
+O010264,02/07/2025,Eastern Cape,App,Hardware,1,300.90,30090,0,Delivered,Road,2025-07-03
+O010265,02/07/2025,Eastern Cape,Store,Tools,1,2631.90,263190,0,Delivered,Collect,2025-07-04
+O010266,02/07/2025,Gauteng,Phone,Paint,2,248.90,49780,5,Delivered,Road,2025-07-05
+O010267,02/07/2025,KwaZulu-Natal,Web,Hardware,3,173.90,52170,0,Delivered,Road,2025-07-03
+O010268,02/07/2025,KwaZulu-Natal,Web,Plumbing,3,326.90,98070,10,Delivered,Road,2025-07-04
+O010269,02/07/2025,KwaZulu-Natal,Store,Plumbing,2,835.90,167180,0,Delivered,Collect,2025-07-07
+O010270,02/07/2025,KwaZulu-Natal,Phone,Paint,6,989.90,593940,0,Delivered,Road,2025-07-06
+O010271,02/07/2025,Western Cape,Web,Tools,2,846.90,169380,5,Delivered,Road,2025-07-05
+O010272,02/07/2025,Western Cape,Web,Electrical,6,123.90,74340,10,Cancelled,Road,
+O010273,02/07/2025,Western Cape,Web,Paint,4,253.90,101560,0,Delivered,Road,2025-07-04
+O010274,02/07/2025,Gauteng,Web,Garden,3,507.90,152370,0,Delivered,Road,2025-07-03
+O010275,02/07/2025,Western Cape,App,Hardware,1,293.90,29390,10,Delivered,Road,2025-07-04
+O010276,02/07/2025,Free State,Web,Hardware,6,196.90,118140,5,Delivered,Air,2025-07-05
+O010277,02/07/2025,Gauteng,Store,Hardware,2,338.90,67780,,Returned,Collect,
+O010278,02/07/2025,Gauteng,Store,Hardware,3,389.90,116970,10,Delivered,Collect,2025-07-03
+O010279,02/07/2025,Western Cape,Store,Hardware,4,210.90,84360,0,Delivered,Collect,2025-07-05
+O010280,02/07/2025,Gauteng,Web,Garden,1,663.90,66390,5,Delivered,Road,2025-07-05
+O010281,02/07/2025,KwaZulu-Natal,Web,Electrical,1,914.90,91490,0,Delivered,Road,2025-07-07
+O010282,02/07/2025,Gauteng,Web,Hardware,1,62.90,6290,0,Delivered,Road,2025-07-07
+O010283,02/07/2025,Gauteng,Web,Hardware,1,103.90,10390,0,Delivered,Road,2025-07-05
+O010284,02/07/2025,KwaZulu-Natal,Store,Garden,1,561.90,56190,0,Delivered,Collect,2025-07-03
+O010285,02/07/2025,KwaZulu-Natal,Web,Hardware,3,131.90,39570,0,Delivered,Road,2025-07-07
+O010286,02/07/2025,Western Cape,Web,Paint,3,1213.90,364170,0,Delivered,Road,2025-07-03
+O010287,02/07/2025,Western Cape,Web,Paint,3,271.90,81570,0,Delivered,Air,2025-07-07
+O010288,02/07/2025,Western Cape,Phone,Electrical,1,261.90,26190,15,Returned,Road,
+O010289,02/07/2025,Gauteng,Web,Hardware,2,310.90,62180,0,Delivered,Road,2025-07-07
+O010290,02/07/2025,Gauteng,Web,Paint,4,1085.90,434360,5,Delivered,Air,2025-07-06
+O010291,02/07/2025,Free State,Phone,Paint,1,218.90,21890,0,Delivered,Road,2025-07-06
+O010292,02/07/2025,Western Cape,App,Hardware,2,151.90,30380,0,Delivered,Road,2025-07-05
+O010293,02/07/2025,Gauteng,Store,Hardware,4,89.90,35960,0,Delivered,Collect,2025-07-03
+O010294,02/07/2025,Gauteng,Phone,Hardware,1,75.90,7590,10,Delivered,Road,2025-07-07
+O010295,02/07/2025,Gauteng,Web,Hardware,1,75.90,7590,,Delivered,Road,2025-07-07
+O010296,02/07/2025,KwaZulu-Natal,Phone,Electrical,2,244.90,48980,15,Delivered,Road,2025-07-03
+O010297,02/07/2025,Western Cape,Store,Plumbing,2,638.90,127780,0,Delivered,Collect,2025-07-05
+O010298,02/07/2025,Western Cape,Store,Hardware,2,363.90,72780,5,Delivered,Collect,2025-07-04
+O010299,02/07/2025,KwaZulu-Natal,Store,Paint,1,534.90,53490,0,Delivered,Collect,2025-07-05
+O010300,02/07/2025,KwaZulu-Natal,App,Hardware,1,191.90,19190,0,Delivered,Road,2025-07-06
+O010301,02/07/2025,KwaZulu-Natal,Web,Hardware,3,346.90,104070,0,Delivered,Road,2025-07-06
+O010302,03/07/2025,Western Cape,Web,Paint,1,676.90,67690,0,Cancelled,Road,
+O010303,03/07/2025,Western Cape,Phone,Paint,2,800.90,160180,0,Returned,Road,
+O010304,03/07/2025,Western Cape,Store,Tools,2,2129.90,425980,0,Delivered,Collect,2025-07-04
+O010305,03/07/2025,Western Cape,Store,Paint,2,1161.90,232380,5,Delivered,Collect,2025-07-04
+O010306,03/07/2025,Gauteng,Web,Paint,5,573.90,286950,0,Delivered,Road,2025-07-07
+O010307,03/07/2025,Eastern Cape,Store,Tools,1,385.90,38590,20,Delivered,Collect,2025-07-07
+O010308,03/07/2025,Gauteng,Phone,Hardware,3,282.90,84870,0,Delivered,Road,2025-07-04
+O010309,03/07/2025,Gauteng,App,Paint,2,907.90,181580,0,Delivered,Road,2025-07-06
+O010310,03/07/2025,Gauteng,App,Plumbing,4,772.90,309160,0,Delivered,Road,2025-07-06
+O010311,03/07/2025,Gauteng,Store,Garden,3,876.90,263070,0,Delivered,Collect,2025-07-04
+O010312,03/07/2025,KwaZulu-Natal,Phone,Paint,3,103.90,31170,5,Returned,Road,
+O010313,03/07/2025,Gauteng,Web,Hardware,1,118.90,11890,0,Delivered,Road,2025-07-07
+O010314,03/07/2025,Western Cape,Web,Paint,3,299.90,89970,0,Delivered,Road,2025-07-07
+O010315,03/07/2025,Free State,App,Hardware,5,178.90,89450,5,Returned,Road,
+O010316,03/07/2025,KwaZulu-Natal,Web,Hardware,5,295.90,147950,5,Delivered,Road,2025-07-08
+O010317,03/07/2025,Gauteng,App,Hardware,4,187.90,75160,20,Cancelled,Road,
+O010318,03/07/2025,Western Cape,Web,Hardware,3,329.90,98970,0,Delivered,Road,2025-07-06
+O010319,03/07/2025,Gauteng,Web,Hardware,1,65.90,6590,0,Delivered,Road,2025-07-07
+O010320,03/07/2025,Gauteng,Store,Hardware,1,210.90,21090,0,Delivered,Collect,2025-07-04
+O010321,03/07/2025,Gauteng,Store,Hardware,1,163.90,16390,0,Returned,Collect,
+O010322,03/07/2025,Gauteng,Web,Plumbing,3,376.90,113070,0,Delivered,Road,2025-07-06
+O010323,03/07/2025,Gauteng,App,Plumbing,6,197.90,118740,0,Delivered,Road,2025-07-05
+O010324,03/07/2025,KwaZulu-Natal,Phone,Hardware,2,264.90,52980,0,Delivered,Road,2025-07-08
+O010325,03/07/2025,Eastern Cape,Web,Garden,3,595.90,178770,0,Delivered,Road,2025-07-04
+O010326,03/07/2025,Eastern Cape,Store,Plumbing,4,563.90,225560,10,Delivered,Collect,2025-07-08
+O010327,03/07/2025,KwaZulu-Natal,Web,Paint,1,1252.90,125290,0,Delivered,Road,2025-07-08
+O010328,03/07/2025,Gauteng,Web,Electrical,2,1200.90,240180,0,Delivered,Road,2025-07-05
+O010329,03/07/2025,Western Cape,App,Hardware,1,150.90,15090,0,Delivered,Road,2025-07-06
+O010330,03/07/2025,KwaZulu-Natal,Store,Tools,2,1062.90,212580,0,Delivered,Collect,2025-07-08
+O010331,03/07/2025,Gauteng,Phone,Hardware,2,66.90,13380,0,Returned,Road,
+O010332,03/07/2025,Western Cape,Web,Garden,5,873.90,436950,,Delivered,Road,2025-07-06
+O010333,03/07/2025,Gauteng,Store,Paint,1,1149.90,114990,0,Delivered,Collect,2025-07-08
+O010334,03/07/2025,Western Cape,Web,Hardware,2,62.90,12580,5,Delivered,Road,2025-07-07
+O010335,03/07/2025,Gauteng,Phone,Hardware,3,175.90,52770,5,Delivered,Road,2025-07-08
+O010336,03/07/2025,Free State,Web,Electrical,5,1236.90,618450,,Delivered,Air,2025-07-05
+O010337,03/07/2025,Gauteng,Phone,Tools,1,734.90,73490,0,Delivered,Road,2025-07-05
+O010338,03/07/2025,Western Cape,Store,Paint,5,736.90,368450,,Delivered,Collect,2025-07-07
+O010339,03/07/2025,Western Cape,Store,Plumbing,5,855.90,427950,10,Delivered,Collect,2025-07-04
+O010340,03/07/2025,KwaZulu-Natal,Web,Hardware,1,148.90,14890,0,Delivered,Road,2025-07-04
+O010341,03/07/2025,Western Cape,Web,Garden,2,880.90,176180,0,Delivered,Road,2025-07-05
+O010342,03/07/2025,Eastern Cape,Phone,Garden,1,671.90,67190,0,Delivered,Road,2025-07-05
+O010343,03/07/2025,Gauteng,Web,Hardware,3,27.90,8370,0,Delivered,Road,2025-07-05
+O010344,03/07/2025,Western Cape,Web,Electrical,3,956.90,287070,15,Delivered,Air,2025-07-05
+O010345,03/07/2025,Free State,Web,Plumbing,2,478.90,95780,0,Delivered,Road,2025-07-08
+O010346,03/07/2025,Western Cape,Store,Hardware,1,339.90,33990,0,Delivered,Collect,2025-07-04
+O010347,03/07/2025,KwaZulu-Natal,Web,Tools,3,1476.90,443070,5,Delivered,Road,2025-07-06
+O010348,03/07/2025,Gauteng,Phone,Garden,5,276.90,138450,5,Delivered,Road,2025-07-04
+O010349,03/07/2025,Gauteng,App,Paint,2,275.90,55180,0,Cancelled,Road,
+O010350,03/07/2025,KwaZulu-Natal,Web,Garden,1,810.90,81090,5,Delivered,Road,2025-07-07
+O010351,03/07/2025,Western Cape,Web,Plumbing,1,260.90,26090,0,Delivered,Road,2025-07-05
+O010352,03/07/2025,Western Cape,Web,Electrical,5,294.90,147450,10,Delivered,Road,2025-07-05
+O010353,04/07/2025,Free State,Phone,Hardware,1,375.90,37590,0,Delivered,Road,2025-07-05
+O010354,04/07/2025,Eastern Cape,Web,Garden,5,711.90,355950,10,Delivered,Road,2025-07-08
+O010355,04/07/2025,Western Cape,App,Paint,2,323.90,64780,10,Delivered,Road,2025-07-06
+O010356,04/07/2025,Western Cape,Store,Hardware,2,232.90,46580,0,Delivered,Collect,2025-07-05
+O010357,04/07/2025,Gauteng,Phone,Hardware,6,82.90,49740,0,Delivered,Road,2025-07-06
+O010358,04/07/2025,Eastern Cape,Web,Plumbing,3,460.90,138270,0,Delivered,Road,2025-07-06
+O010359,04/07/2025,Gauteng,Store,Hardware,2,64.90,12980,10,Delivered,Collect,2025-07-09
+O010360,04/07/2025,Eastern Cape,Store,Hardware,4,104.90,41960,0,Delivered,Collect,2025-07-09
+O010361,04/07/2025,Eastern Cape,Store,Garden,1,326.90,32690,0,Delivered,Collect,2025-07-05
+O010362,04/07/2025,KwaZulu-Natal,Store,Paint,2,1296.90,259380,5,Cancelled,Collect,
+O010363,04/07/2025,Free State,Web,Paint,5,467.90,233950,0,Delivered,Road,2025-07-06
+O010364,04/07/2025,Gauteng,Web,Electrical,3,1169.90,350970,15,Delivered,Road,2025-07-07
+O010365,04/07/2025,Free State,Web,Hardware,5,102.90,51450,0,Delivered,Road,2025-07-07
+O010366,04/07/2025,Western Cape,Phone,Hardware,3,238.90,71670,0,Delivered,Air,2025-07-06
+O010367,04/07/2025,Gauteng,Web,Hardware,3,227.90,68370,0,Delivered,Road,2025-07-06
+O010368,04/07/2025,Western Cape,Phone,Tools,2,2465.90,493180,0,Delivered,Road,2025-07-05
+O010369,04/07/2025,Western Cape,Phone,Hardware,4,20.90,8360,5,Delivered,Road,2025-07-05
+O010370,04/07/2025,Gauteng,Store,Paint,2,1046.90,209380,10,Cancelled,Collect,
+O010371,04/07/2025,Gauteng,Web,Electrical,2,98.90,19780,,Cancelled,Air,
+O010372,04/07/2025,Gauteng,Web,Hardware,1,81.90,8190,0,Delivered,Road,2025-07-05
+O010373,04/07/2025,Gauteng,Store,Hardware,2,106.90,21380,0,Delivered,Collect,2025-07-05
+O010374,04/07/2025,Gauteng,Web,Paint,5,966.90,483450,0,Delivered,Road,2025-07-05
+O010375,04/07/2025,KwaZulu-Natal,Phone,Paint,2,89.90,17980,10,Returned,Road,
+O010376,04/07/2025,Gauteng,App,Hardware,1,221.90,22190,20,Delivered,Road,2025-07-05
+O010377,04/07/2025,Western Cape,Web,Hardware,4,165.90,66360,0,Delivered,Road,2025-07-09
+O010378,04/07/2025,Western Cape,Store,Hardware,2,169.90,33980,0,Delivered,Collect,2025-07-07
+O010379,04/07/2025,Gauteng,Store,Hardware,3,58.90,17670,5,Delivered,Collect,2025-07-06
+O010380,04/07/2025,Western Cape,Phone,Hardware,1,117.90,11790,0,Delivered,Road,2025-07-09
+O010381,04/07/2025,Eastern Cape,Store,Plumbing,2,652.90,130580,10,Delivered,Collect,2025-07-07
+O010382,04/07/2025,Gauteng,Web,Plumbing,2,687.90,137580,0,Delivered,Road,2025-07-05
+O010383,04/07/2025,Western Cape,Web,Paint,4,1349.90,539960,0,Delivered,Road,2025-07-05
+O010384,04/07/2025,Western Cape,Web,Hardware,3,285.90,85770,0,Delivered,Road,2025-07-06
+O010385,04/07/2025,Free State,Store,Electrical,2,863.90,172780,15,Delivered,Collect,2025-07-08
+O010386,04/07/2025,Gauteng,Store,Electrical,1,1089.90,108990,5,Delivered,Collect,2025-07-09
+O010387,04/07/2025,Western Cape,App,Electrical,1,961.90,96190,0,Delivered,Road,2025-07-06
+O010388,04/07/2025,Gauteng,Store,Tools,1,474.90,47490,5,Delivered,Collect,2025-07-07
+O010389,04/07/2025,Western Cape,Web,Garden,3,496.90,149070,0,Delivered,Road,2025-07-07
+O010390,04/07/2025,KwaZulu-Natal,Phone,Electrical,5,1407.90,703950,5,Delivered,Road,2025-07-08
+O010391,04/07/2025,Gauteng,Phone,Electrical,2,66.90,13380,20,Delivered,Road,2025-07-08
+O010392,04/07/2025,KwaZulu-Natal,Store,Paint,1,101.90,10190,0,Delivered,Collect,2025-07-07
+O010393,04/07/2025,KwaZulu-Natal,Web,Tools,1,2034.90,203490,10,Delivered,Road,2025-07-05
+O010394,04/07/2025,Western Cape,Web,Electrical,6,1703.90,1022340,0,Delivered,Road,2025-07-08
+O010395,04/07/2025,Gauteng,Web,Plumbing,1,742.90,74290,0,Delivered,Road,2025-07-07
+O010396,04/07/2025,Western Cape,Store,Hardware,6,152.90,91740,0,Delivered,Collect,2025-07-07
+O010397,04/07/2025,Gauteng,Phone,Hardware,2,219.90,43980,10,Delivered,Road,2025-07-08
+O010398,04/07/2025,KwaZulu-Natal,Phone,Paint,6,730.90,438540,,Delivered,Road,2025-07-09
+O010399,04/07/2025,Eastern Cape,Store,Garden,1,639.90,63990,10,Delivered,Collect,2025-07-06
+O010400,04/07/2025,KwaZulu-Natal,Store,Plumbing,3,694.90,208470,5,Delivered,Collect,2025-07-07
+O010401,04/07/2025,Eastern Cape,Web,Garden,2,107.90,21580,5,Delivered,Road,2025-07-05
+O010402,04/07/2025,KwaZulu-Natal,Phone,Hardware,5,299.90,149950,0,Delivered,Road,2025-07-07
+O010403,04/07/2025,Western Cape,App,Electrical,4,1794.90,717960,5,Cancelled,Road,
+O010404,04/07/2025,Gauteng,Phone,Garden,2,793.90,158780,0,Delivered,Road,2025-07-06
+O010405,04/07/2025,Western Cape,App,Paint,2,1290.90,258180,5,Delivered,Road,2025-07-05
+O010406,04/07/2025,Gauteng,Web,Hardware,3,34.90,10470,15,Delivered,Road,2025-07-08
+O010407,04/07/2025,Gauteng,Web,Paint,3,832.90,249870,0,Delivered,Air,2025-07-07
+O010408,04/07/2025,Gauteng,Web,Tools,5,539.90,269950,20,Delivered,Road,2025-07-09
+O010409,04/07/2025,Western Cape,Store,Hardware,1,324.90,32490,0,Delivered,Collect,2025-07-05
+O010410,04/07/2025,KwaZulu-Natal,Web,Paint,1,1147.90,114790,,Delivered,Road,2025-07-08
+O010411,04/07/2025,Gauteng,Web,Paint,6,200.90,120540,5,Delivered,Road,2025-07-05
+O010412,04/07/2025,KwaZulu-Natal,Web,Plumbing,2,816.90,163380,5,Delivered,Road,2025-07-07
+O010413,04/07/2025,Eastern Cape,Web,Electrical,2,521.90,104380,0,Delivered,Air,2025-07-08
+O010414,04/07/2025,Gauteng,Web,Hardware,3,113.90,34170,0,Delivered,Road,2025-07-06
+O010415,04/07/2025,Gauteng,Web,Hardware,3,20.90,6270,10,Delivered,Road,2025-07-09
+O010416,04/07/2025,Western Cape,Store,Paint,1,100.90,10090,0,Delivered,Collect,2025-07-07
+O010417,04/07/2025,Gauteng,Web,Hardware,2,130.90,26180,5,Delivered,Road,2025-07-09
+O010418,04/07/2025,Western Cape,Web,Garden,2,690.90,138180,0,Delivered,Road,2025-07-08
+O010419,05/07/2025,Gauteng,App,Paint,1,1282.90,128290,10,Returned,Air,
+O010420,05/07/2025,Western Cape,Phone,Plumbing,1,835.90,83590,0,Delivered,Road,2025-07-06
+O010421,05/07/2025,Western Cape,Web,Paint,3,1216.90,365070,10,Delivered,Air,2025-07-10
+O010422,05/07/2025,KwaZulu-Natal,Web,Tools,5,1816.90,908450,,Delivered,Road,2025-07-09
+O010423,05/07/2025,Gauteng,Web,Paint,1,1114.90,111490,10,Delivered,Road,2025-07-06
+O010424,05/07/2025,Eastern Cape,Store,Plumbing,3,727.90,218370,0,Delivered,Collect,2025-07-10
+O010425,05/07/2025,Gauteng,Phone,Paint,2,1098.90,219780,0,Delivered,Road,2025-07-08
+O010426,05/07/2025,Western Cape,Web,Paint,2,742.90,148580,5,Delivered,Air,2025-07-10
+O010427,05/07/2025,Eastern Cape,Web,Garden,6,93.90,56340,5,Delivered,Road,2025-07-10
+O010428,05/07/2025,Western Cape,Web,Hardware,1,184.90,18490,5,Delivered,Road,2025-07-06
+O010429,05/07/2025,Western Cape,Store,Electrical,5,1208.90,604450,0,Delivered,Collect,2025-07-10
+O010430,05/07/2025,Gauteng,Store,Paint,1,1103.90,110390,0,Delivered,Collect,2025-07-08
+O010431,05/07/2025,Western Cape,Web,Hardware,3,272.90,81870,10,Delivered,Road,2025-07-06
+O010432,05/07/2025,Western Cape,Web,Electrical,3,476.90,143070,0,Returned,Road,
+O010433,05/07/2025,Gauteng,Phone,Hardware,4,203.90,81560,10,Delivered,Road,2025-07-06
+O010434,05/07/2025,Gauteng,App,Electrical,1,1564.90,156490,0,Delivered,Road,2025-07-09
+O010435,05/07/2025,Western Cape,Store,Electrical,5,889.90,444950,15,Delivered,Collect,2025-07-06
+O010436,05/07/2025,KwaZulu-Natal,Phone,Hardware,2,393.90,78780,0,Delivered,Road,2025-07-09
+O010437,05/07/2025,Gauteng,Store,Plumbing,2,376.90,75380,0,Delivered,Collect,2025-07-10
+O010438,05/07/2025,Eastern Cape,Web,Paint,1,549.90,54990,15,Returned,Road,
+O010439,05/07/2025,Eastern Cape,Web,Hardware,1,390.90,39090,0,Delivered,Road,2025-07-08
+O010440,05/07/2025,Free State,Store,Tools,1,3017.90,301790,0,Delivered,Collect,2025-07-09
+O010441,05/07/2025,Western Cape,Web,Garden,1,301.90,30190,0,Delivered,Air,2025-07-06
+O010442,05/07/2025,Gauteng,Store,Hardware,4,338.90,135560,0,Delivered,Collect,2025-07-10
+O010443,05/07/2025,Free State,Web,Hardware,1,292.90,29290,20,Returned,Air,
+O010444,05/07/2025,Western Cape,Web,Hardware,3,215.90,64770,0,Delivered,Road,2025-07-06
+O010445,05/07/2025,Gauteng,App,Garden,1,765.90,76590,0,Delivered,Road,2025-07-08
+O010446,05/07/2025,Western Cape,Web,Electrical,1,1447.90,144790,0,Delivered,Road,2025-07-09
+O010447,05/07/2025,KwaZulu-Natal,Web,Hardware,1,63.90,6390,5,Delivered,Road,2025-07-07
+O010448,05/07/2025,Eastern Cape,App,Hardware,6,20.90,12540,20,Returned,Air,
+O010449,05/07/2025,Eastern Cape,Web,Tools,1,3184.90,318490,0,Delivered,Road,2025-07-08
+O010450,05/07/2025,KwaZulu-Natal,Web,Paint,3,888.90,266670,0,Delivered,Road,2025-07-09
+O010451,05/07/2025,Gauteng,Web,Hardware,4,187.90,75160,10,Delivered,Road,2025-07-07
+O010452,05/07/2025,Western Cape,Web,Hardware,6,193.90,116340,0,Delivered,Road,2025-07-10
+O010453,05/07/2025,Gauteng,Web,Hardware,4,162.90,65160,0,Delivered,Road,2025-07-06
+O010454,05/07/2025,Gauteng,Store,Garden,4,288.90,115560,0,Delivered,Collect,2025-07-08
+O010455,05/07/2025,Western Cape,Web,Garden,3,292.90,87870,10,Delivered,Road,2025-07-10
+O010456,05/07/2025,KwaZulu-Natal,App,Electrical,3,1291.90,387570,0,Delivered,Air,2025-07-10
+O010457,05/07/2025,Western Cape,Store,Tools,4,1032.90,413160,0,Delivered,Collect,2025-07-07
+O010458,05/07/2025,Western Cape,Store,Electrical,2,1758.90,351780,5,Delivered,Collect,2025-07-08
+O010459,05/07/2025,Gauteng,Store,Hardware,2,300.90,60180,5,Delivered,Collect,2025-07-10
+O010460,05/07/2025,Gauteng,Phone,Electrical,3,1006.90,302070,0,Cancelled,Road,
+O010461,05/07/2025,KwaZulu-Natal,Phone,Plumbing,2,124.90,24980,0,Delivered,Road,2025-07-07
+O010462,05/07/2025,KwaZulu-Natal,App,Hardware,2,181.90,36380,5,Delivered,Road,2025-07-09
+O010463,05/07/2025,Gauteng,Web,Paint,1,1293.90,129390,0,Delivered,Road,2025-07-07
+O010464,05/07/2025,Western Cape,Phone,Paint,5,1268.90,634450,0,Delivered,Road,2025-07-06
+O010465,05/07/2025,KwaZulu-Natal,Phone,Paint,2,1040.90,208180,15,Delivered,Road,2025-07-06
+O010466,06/07/2025,Western Cape,App,Garden,1,863.90,86390,0,Delivered,Air,2025-07-08
+O010467,06/07/2025,KwaZulu-Natal,Store,Paint,4,946.90,378760,0,Delivered,Collect,2025-07-09
+O010468,06/07/2025,Gauteng,Store,Paint,2,965.90,193180,0,Delivered,Collect,2025-07-09
+O010469,06/07/2025,KwaZulu-Natal,Store,Electrical,2,1756.90,351380,0,Delivered,Collect,2025-07-09
+O010470,06/07/2025,Western Cape,Store,Tools,1,2426.90,242690,0,Delivered,Collect,2025-07-11
+O010471,06/07/2025,Western Cape,Phone,Electrical,2,424.90,84980,0,Delivered,Road,2025-07-10
+O010472,06/07/2025,Gauteng,Web,Tools,5,2489.90,1244950,0,Delivered,Air,2025-07-07
+O010473,06/07/2025,Western Cape,Web,Garden,4,429.90,171960,0,Delivered,Road,2025-07-10
+O010474,06/07/2025,Gauteng,App,Garden,1,275.90,27590,5,Delivered,Road,2025-07-10
+O010475,06/07/2025,Western Cape,Store,Electrical,5,67.90,33950,0,Delivered,Collect,2025-07-08
+O010476,06/07/2025,Western Cape,Phone,Electrical,4,1569.90,627960,5,Delivered,Road,2025-07-07
+O010477,06/07/2025,Western Cape,App,Paint,2,472.90,94580,10,Delivered,Road,2025-07-09
+O010478,06/07/2025,Western Cape,Phone,Electrical,2,1572.90,314580,0,Returned,Road,
+O010479,06/07/2025,Eastern Cape,Web,Hardware,6,116.90,70140,5,Delivered,Road,2025-07-08
+O010480,06/07/2025,Western Cape,Web,Garden,3,781.90,234570,10,Delivered,Road,2025-07-11
+O010481,06/07/2025,Western Cape,Store,Tools,1,1985.90,198590,5,Delivered,Collect,2025-07-11
+O010482,06/07/2025,Gauteng,Phone,Hardware,4,24.90,9960,0,Returned,Air,
+O010483,06/07/2025,Eastern Cape,Store,Hardware,6,50.90,30540,0,Delivered,Collect,2025-07-07
+O010484,06/07/2025,Free State,Web,Hardware,2,145.90,29180,5,Delivered,Road,2025-07-09
+O010485,06/07/2025,Western Cape,App,Paint,1,604.90,60490,10,Delivered,Road,2025-07-09
+O010486,06/07/2025,Gauteng,App,Garden,2,151.90,30380,0,Delivered,Road,2025-07-10
+O010487,06/07/2025,KwaZulu-Natal,Store,Plumbing,3,220.90,66270,0,Delivered,Collect,2025-07-11
+O010488,06/07/2025,Western Cape,Store,Electrical,2,843.90,168780,0,Delivered,Collect,2025-07-07
+O010489,06/07/2025,KwaZulu-Natal,Store,Hardware,6,383.90,230340,0,Delivered,Collect,2025-07-11
+O010490,06/07/2025,KwaZulu-Natal,Web,Hardware,2,62.90,12580,0,Delivered,Road,2025-07-10
+O010491,06/07/2025,Eastern Cape,Phone,Paint,1,467.90,46790,0,Delivered,Road,2025-07-08
+O010492,06/07/2025,KwaZulu-Natal,Web,Electrical,5,1071.90,535950,5,Delivered,Road,2025-07-08
+O010493,06/07/2025,Gauteng,Phone,Garden,1,804.90,80490,0,Delivered,Road,2025-07-09
+O010494,06/07/2025,Western Cape,Web,Hardware,2,271.90,54380,5,Delivered,Road,2025-07-11
+O010495,06/07/2025,Western Cape,Store,Garden,1,666.90,66690,0,Delivered,Collect,2025-07-07
+O010496,06/07/2025,KwaZulu-Natal,Web,Plumbing,2,748.90,149780,5,Delivered,Road,2025-07-09
+O010497,06/07/2025,Gauteng,Web,Paint,1,1383.90,138390,0,Delivered,Air,2025-07-07
+O010498,06/07/2025,Western Cape,Web,Hardware,5,193.90,96950,,Delivered,Road,2025-07-07
+O010499,06/07/2025,Gauteng,App,Hardware,3,123.90,37170,10,Delivered,Road,2025-07-08
+O010500,06/07/2025,Western Cape,Web,Hardware,6,152.90,91740,,Delivered,Road,2025-07-07
+O010501,06/07/2025,Eastern Cape,Store,Paint,1,201.90,20190,,Delivered,Collect,2025-07-09
+O010502,06/07/2025,KwaZulu-Natal,Web,Paint,4,394.90,157960,5,Delivered,Road,2025-07-07
+O010503,06/07/2025,Eastern Cape,Web,Hardware,4,233.90,93560,10,Delivered,Road,2025-07-11
+O010504,06/07/2025,Gauteng,Store,Tools,2,737.90,147580,0,Delivered,Collect,2025-07-07
+O010505,06/07/2025,Eastern Cape,Web,Garden,1,44.90,4490,10,Delivered,Road,2025-07-09
+O010506,06/07/2025,Gauteng,Web,Plumbing,1,282.90,28290,5,Delivered,Road,2025-07-07
+O010507,06/07/2025,Western Cape,Web,Garden,2,556.90,111380,5,Delivered,Road,2025-07-11
+O010508,06/07/2025,Gauteng,Web,Electrical,5,940.90,470450,0,Delivered,Road,2025-07-10
+O010509,06/07/2025,Gauteng,Store,Paint,3,1368.90,410670,0,Delivered,Collect,2025-07-11
+O010510,06/07/2025,Western Cape,Phone,Electrical,6,1485.90,891540,,Returned,Road,
+O010511,06/07/2025,Western Cape,Store,Garden,6,747.90,448740,5,Delivered,Collect,2025-07-10
+O010512,06/07/2025,Western Cape,Web,Hardware,5,338.90,169450,5,Delivered,Road,2025-07-10
+O010513,06/07/2025,Western Cape,Phone,Plumbing,1,634.90,63490,0,Delivered,Road,2025-07-10
+O010514,06/07/2025,KwaZulu-Natal,Phone,Electrical,1,676.90,67690,,Delivered,Road,2025-07-08
+O010515,06/07/2025,Gauteng,Web,Hardware,2,110.90,22180,0,Delivered,Road,2025-07-11
+O010516,06/07/2025,KwaZulu-Natal,Web,Paint,2,944.90,188980,20,Delivered,Road,2025-07-08
+O010517,06/07/2025,Gauteng,Web,Hardware,2,238.90,47780,0,Delivered,Road,2025-07-09
+O010518,06/07/2025,KwaZulu-Natal,Web,Electrical,3,519.90,155970,0,Delivered,Road,2025-07-08
+O010519,06/07/2025,KwaZulu-Natal,Store,Electrical,1,289.90,28990,0,Delivered,Collect,2025-07-08
+O010520,06/07/2025,KwaZulu-Natal,Store,Electrical,1,1660.90,166090,0,Delivered,Collect,2025-07-09
+O010521,06/07/2025,Western Cape,Web,Garden,3,225.90,67770,15,Delivered,Road,2025-07-08
+O010522,06/07/2025,KwaZulu-Natal,Web,Electrical,2,1062.90,212580,0,Delivered,Road,2025-07-08
+O010523,06/07/2025,Western Cape,Web,Hardware,2,31.90,6380,10,Delivered,Road,2025-07-10
+O010524,06/07/2025,Eastern Cape,Web,Plumbing,2,141.90,28380,5,Delivered,Road,2025-07-07
+O010525,06/07/2025,Eastern Cape,Store,Paint,2,842.90,168580,,Delivered,Collect,2025-07-11
+O010526,07/07/2025,Western Cape,Web,Hardware,2,321.90,64380,0,Delivered,Road,2025-07-12
+O010527,07/07/2025,KwaZulu-Natal,Phone,Electrical,4,624.90,249960,15,Delivered,Air,2025-07-08
+O010528,07/07/2025,Eastern Cape,App,Paint,2,1153.90,230780,20,Delivered,Road,2025-07-11
+O010529,07/07/2025,Western Cape,Web,Hardware,3,334.90,100470,0,Delivered,Road,2025-07-09
+O010530,07/07/2025,KwaZulu-Natal,Store,Garden,4,861.90,344760,0,Delivered,Collect,2025-07-12
+O010531,07/07/2025,Eastern Cape,Web,Garden,6,254.90,152940,5,Delivered,Road,2025-07-09
+O010532,07/07/2025,KwaZulu-Natal,Web,Electrical,2,222.90,44580,5,Delivered,Road,2025-07-08
+O010533,07/07/2025,Free State,Web,Garden,3,870.90,261270,5,Delivered,Road,2025-07-12
+O010534,07/07/2025,Gauteng,App,Paint,1,1336.90,133690,10,Delivered,Road,2025-07-11
+O010535,07/07/2025,Western Cape,Web,Paint,4,188.90,75560,0,Delivered,Road,2025-07-12
+O010536,07/07/2025,KwaZulu-Natal,App,Hardware,1,259.90,25990,0,Delivered,Air,2025-07-11
+O010537,07/07/2025,Western Cape,Store,Garden,2,50.90,10180,10,Cancelled,Collect,
+O010538,07/07/2025,Western Cape,Store,Garden,3,390.90,117270,0,Delivered,Collect,2025-07-09
+O010539,07/07/2025,Western Cape,Phone,Electrical,2,667.90,133580,0,Delivered,Road,2025-07-09
+O010540,07/07/2025,KwaZulu-Natal,Store,Hardware,2,183.90,36780,0,Delivered,Collect,2025-07-08
+O010541,07/07/2025,Gauteng,App,Hardware,1,378.90,37890,,Delivered,Road,2025-07-09
+O010542,07/07/2025,Gauteng,Store,Plumbing,2,413.90,82780,0,Delivered,Collect,2025-07-09
+O010543,07/07/2025,KwaZulu-Natal,Store,Electrical,4,1653.90,661560,10,Delivered,Collect,2025-07-09
+O010544,07/07/2025,Gauteng,Web,Tools,5,169.90,84950,0,Delivered,Road,2025-07-10
+O010545,07/07/2025,KwaZulu-Natal,Store,Electrical,5,1352.90,676450,0,Delivered,Collect,2025-07-10
+O010546,07/07/2025,Gauteng,Store,Hardware,4,35.90,14360,10,Returned,Collect,
+O010547,07/07/2025,Eastern Cape,Store,Hardware,2,265.90,53180,10,Cancelled,Collect,
+O010548,07/07/2025,Gauteng,Store,Electrical,5,1673.90,836950,0,Delivered,Collect,2025-07-10
+O010549,07/07/2025,Eastern Cape,Phone,Garden,1,539.90,53990,,Delivered,Road,2025-07-10
+O010550,07/07/2025,KwaZulu-Natal,Web,Electrical,5,1579.90,789950,5,Delivered,Road,2025-07-12
+O010551,07/07/2025,Gauteng,Web,Electrical,3,713.90,214170,10,Cancelled,Road,
+O010552,07/07/2025,Gauteng,Phone,Garden,1,134.90,13490,0,Delivered,Road,2025-07-11
+O010553,07/07/2025,KwaZulu-Natal,Store,Hardware,5,58.90,29450,10,Delivered,Collect,2025-07-11
+O010554,07/07/2025,Gauteng,Phone,Electrical,2,367.90,73580,0,Delivered,Road,2025-07-12
+O010555,07/07/2025,Western Cape,Web,Electrical,1,454.90,45490,0,Delivered,Road,2025-07-12
+O010556,07/07/2025,Eastern Cape,Web,Plumbing,2,123.90,24780,,Returned,Road,
+O010557,07/07/2025,Western Cape,Web,Tools,6,2562.90,1537740,10,Delivered,Road,2025-07-08
+O010558,07/07/2025,KwaZulu-Natal,Web,Hardware,1,117.90,11790,5,Delivered,Road,2025-07-10
+O010559,07/07/2025,Free State,App,Garden,2,605.90,121180,10,Delivered,Road,2025-07-10
+O010560,07/07/2025,Eastern Cape,Store,Hardware,2,243.90,48780,20,Delivered,Collect,2025-07-12
+O010561,07/07/2025,KwaZulu-Natal,Web,Electrical,2,460.90,92180,0,Delivered,Road,2025-07-12
+O010562,07/07/2025,Gauteng,Web,Garden,5,114.90,57450,0,Delivered,Road,2025-07-08
+O010563,07/07/2025,KwaZulu-Natal,Web,Paint,1,1305.90,130590,5,Delivered,Road,2025-07-11
+O010564,07/07/2025,Western Cape,Web,Hardware,6,307.90,184740,5,Delivered,Air,2025-07-11
+O010565,07/07/2025,Western Cape,Store,Electrical,6,653.90,392340,0,Delivered,Collect,2025-07-10
+O010566,07/07/2025,KwaZulu-Natal,Web,Garden,1,204.90,20490,0,Delivered,Road,2025-07-09
+O010567,07/07/2025,Eastern Cape,Web,Paint,5,130.90,65450,5,Delivered,Road,2025-07-12
+O010568,07/07/2025,Gauteng,Store,Plumbing,4,443.90,177560,0,Delivered,Collect,2025-07-12
+O010569,07/07/2025,Gauteng,Web,Hardware,1,303.90,30390,10,Delivered,Air,2025-07-12
+O010570,07/07/2025,Gauteng,Store,Hardware,2,302.90,60580,10,Cancelled,Collect,
+O010571,07/07/2025,Gauteng,Web,Tools,1,813.90,81390,0,Delivered,Road,2025-07-11
+O010572,07/07/2025,KwaZulu-Natal,Web,Garden,1,631.90,63190,10,Delivered,Road,2025-07-12
+O010573,07/07/2025,KwaZulu-Natal,Web,Hardware,4,232.90,93160,0,Delivered,Road,2025-07-12
+O010574,07/07/2025,Gauteng,Web,Hardware,5,114.90,57450,0,Delivered,Road,2025-07-08
+O010575,07/07/2025,Western Cape,Store,Plumbing,1,785.90,78590,0,Delivered,Collect,2025-07-12
+O010576,07/07/2025,KwaZulu-Natal,App,Paint,2,689.90,137980,10,Delivered,Road,2025-07-09
+O010577,07/07/2025,KwaZulu-Natal,Web,Garden,3,683.90,205170,15,Returned,Road,
+O010578,07/07/2025,KwaZulu-Natal,Store,Hardware,4,129.90,51960,10,Delivered,Collect,2025-07-09
+O010579,07/07/2025,Gauteng,App,Plumbing,2,613.90,122780,0,Delivered,Road,2025-07-08
+O010580,07/07/2025,Eastern Cape,Phone,Hardware,1,151.90,15190,10,Delivered,Road,2025-07-09
+O010581,08/07/2025,Gauteng,Web,Tools,1,2082.90,208290,0,Delivered,Road,2025-07-09
+O010582,08/07/2025,Western Cape,Web,Tools,1,1370.90,137090,10,Delivered,Road,2025-07-13
+O010583,08/07/2025,Western Cape,Web,Tools,2,962.90,192580,0,Delivered,Road,2025-07-13
+O010584,08/07/2025,Gauteng,Store,Electrical,1,756.90,75690,0,Delivered,Collect,2025-07-10
+O010585,08/07/2025,Gauteng,Phone,Hardware,1,179.90,17990,,Delivered,Road,2025-07-12
+O010586,08/07/2025,Western Cape,Web,Garden,2,651.90,130380,5,Delivered,Air,2025-07-13
+O010587,08/07/2025,KwaZulu-Natal,Web,Hardware,3,221.90,66570,0,Delivered,Road,2025-07-10
+O010588,08/07/2025,Free State,Store,Electrical,3,1778.90,533670,0,Delivered,Collect,2025-07-09
+O010589,08/07/2025,KwaZulu-Natal,App,Paint,1,1184.90,118490,0,Delivered,Road,2025-07-10
+O010590,08/07/2025,Gauteng,Web,Garden,4,687.90,275160,10,Delivered,Road,2025-07-11
+O010591,08/07/2025,Eastern Cape,Web,Hardware,5,52.90,26450,0,Returned,Road,
+O010592,08/07/2025,Gauteng,Web,Tools,4,357.90,143160,0,Returned,Road,
+O010593,08/07/2025,Western Cape,Web,Paint,4,1055.90,422360,5,Cancelled,Road,
+O010594,08/07/2025,Gauteng,App,Tools,2,2253.90,450780,0,Delivered,Road,2025-07-12
+O010595,08/07/2025,Gauteng,App,Electrical,6,1751.90,1051140,10,Delivered,Road,2025-07-10
+O010596,08/07/2025,Gauteng,Phone,Electrical,3,330.90,99270,0,Delivered,Road,2025-07-09
+O010597,08/07/2025,Gauteng,App,Hardware,2,342.90,68580,5,Delivered,Road,2025-07-10
+O010598,08/07/2025,Western Cape,Phone,Paint,6,406.90,244140,0,Delivered,Road,2025-07-12
+O010599,08/07/2025,Gauteng,Web,Hardware,6,382.90,229740,10,Delivered,Road,2025-07-09
+O010600,08/07/2025,Gauteng,Web,Electrical,3,344.90,103470,10,Delivered,Road,2025-07-12
+O010601,08/07/2025,Gauteng,App,Plumbing,6,189.90,113940,0,Delivered,Road,2025-07-13
+O010602,08/07/2025,Eastern Cape,Web,Garden,5,446.90,223450,0,Cancelled,Road,
+O010603,08/07/2025,Gauteng,Web,Tools,2,1606.90,321380,10,Delivered,Road,2025-07-11
+O010604,08/07/2025,Gauteng,App,Hardware,5,376.90,188450,10,Delivered,Road,2025-07-13
+O010605,08/07/2025,Eastern Cape,Web,Garden,6,282.90,169740,10,Delivered,Air,2025-07-10
+O010606,08/07/2025,Gauteng,Web,Tools,3,3040.90,912270,10,Delivered,Road,2025-07-12
+O010607,08/07/2025,Western Cape,Web,Garden,1,377.90,37790,0,Delivered,Road,2025-07-11
+O010608,08/07/2025,Western Cape,Store,Paint,1,1214.90,121490,5,Delivered,Collect,2025-07-13
+O010609,08/07/2025,Gauteng,App,Paint,5,645.90,322950,0,Delivered,Road,2025-07-11
+O010610,08/07/2025,KwaZulu-Natal,Web,Garden,3,741.90,222570,0,Delivered,Road,2025-07-13
+O010611,08/07/2025,Western Cape,Web,Tools,1,1709.90,170990,0,Cancelled,Road,
+O010612,08/07/2025,KwaZulu-Natal,App,Tools,5,405.90,202950,0,Delivered,Air,2025-07-09
+O010613,08/07/2025,Eastern Cape,App,Electrical,1,1713.90,171390,0,Delivered,Road,2025-07-12
+O010614,08/07/2025,Gauteng,Web,Electrical,1,265.90,26590,15,Delivered,Road,2025-07-10
+O010615,08/07/2025,Western Cape,App,Paint,5,472.90,236450,0,Delivered,Road,2025-07-11
+O010616,08/07/2025,Western Cape,App,Plumbing,6,165.90,99540,0,Delivered,Road,2025-07-11
+O010617,08/07/2025,Eastern Cape,Web,Hardware,2,58.90,11780,5,Delivered,Road,2025-07-10
+O010618,08/07/2025,Gauteng,Web,Paint,1,90.90,9090,15,Delivered,Road,2025-07-09
+O010619,08/07/2025,Western Cape,Web,Electrical,1,1790.90,179090,15,Delivered,Road,2025-07-12
+O010620,08/07/2025,Western Cape,Store,Hardware,1,293.90,29390,0,Delivered,Collect,2025-07-13
+O010621,08/07/2025,KwaZulu-Natal,Web,Electrical,1,238.90,23890,0,Delivered,Road,2025-07-09
+O010622,08/07/2025,Free State,Phone,Plumbing,3,827.90,248370,10,Delivered,Road,2025-07-11
+O010623,08/07/2025,Gauteng,Web,Plumbing,1,634.90,63490,0,Returned,Road,
+O010624,08/07/2025,KwaZulu-Natal,Store,Paint,6,1188.90,713340,10,Delivered,Collect,2025-07-09
+O010625,08/07/2025,Gauteng,Store,Electrical,2,1199.90,239980,10,Delivered,Collect,2025-07-11
+O010626,08/07/2025,Western Cape,Phone,Electrical,3,954.90,286470,0,Delivered,Road,2025-07-09
+O010627,08/07/2025,Gauteng,App,Plumbing,4,427.90,171160,0,Delivered,Road,2025-07-09
+O010628,08/07/2025,Gauteng,Phone,Electrical,3,1031.90,309570,0,Cancelled,Road,
+O010629,08/07/2025,Western Cape,Store,Hardware,1,240.90,24090,0,Delivered,Collect,2025-07-12
+O010630,08/07/2025,Western Cape,Web,Hardware,1,312.90,31290,0,Returned,Air,
+O010631,08/07/2025,KwaZulu-Natal,Web,Electrical,2,1758.90,351780,0,Delivered,Road,2025-07-10
+O010632,08/07/2025,Western Cape,Web,Hardware,1,249.90,24990,0,Delivered,Road,2025-07-12
+O010633,08/07/2025,Gauteng,Store,Hardware,2,225.90,45180,0,Delivered,Collect,2025-07-09
+O010634,08/07/2025,Free State,App,Garden,5,685.90,342950,10,Delivered,Road,2025-07-09
+O010635,08/07/2025,Western Cape,Web,Paint,1,559.90,55990,0,Returned,Road,
+O010636,08/07/2025,Gauteng,Web,Hardware,2,201.90,40380,5,Delivered,Road,2025-07-11
+O010637,09/07/2025,Gauteng,Web,Garden,3,325.90,97770,0,Delivered,Road,2025-07-13
+O010638,09/07/2025,Gauteng,Web,Plumbing,3,542.90,162870,0,Delivered,Road,2025-07-12
+O010639,09/07/2025,Western Cape,Phone,Electrical,3,294.90,88470,0,Delivered,Road,2025-07-11
+O010640,09/07/2025,Western Cape,App,Hardware,3,30.90,9270,5,Delivered,Road,2025-07-13
+O010641,09/07/2025,Eastern Cape,Web,Hardware,2,181.90,36380,0,Delivered,Road,2025-07-10
+O010642,09/07/2025,Western Cape,Store,Garden,2,246.90,49380,0,Delivered,Collect,2025-07-13
+O010643,09/07/2025,Gauteng,Phone,Paint,2,653.90,130780,10,Delivered,Road,2025-07-14
+O010644,09/07/2025,Gauteng,Store,Garden,3,581.90,174570,15,Delivered,Collect,2025-07-10
+O010645,09/07/2025,KwaZulu-Natal,App,Tools,1,1560.90,156090,20,Delivered,Air,2025-07-10
+O010646,09/07/2025,Western Cape,Web,Plumbing,6,159.90,95940,0,Delivered,Air,2025-07-12
+O010647,09/07/2025,Western Cape,Phone,Hardware,2,33.90,6780,15,Delivered,Road,2025-07-10
+O010648,09/07/2025,Gauteng,Web,Hardware,4,36.90,14760,0,Delivered,Road,2025-07-10
+O010649,09/07/2025,Gauteng,Store,Hardware,3,23.90,7170,5,Delivered,Collect,2025-07-11
+O010650,09/07/2025,Gauteng,Web,Tools,6,2308.90,1385340,0,Delivered,Air,2025-07-10
+O010651,09/07/2025,Gauteng,Web,Paint,2,321.90,64380,5,Delivered,Road,2025-07-11
+O010652,09/07/2025,Western Cape,Store,Hardware,2,300.90,60180,0,Delivered,Collect,2025-07-11
+O010653,09/07/2025,Gauteng,Web,Paint,5,846.90,423450,0,Delivered,Road,2025-07-10
+O010654,09/07/2025,KwaZulu-Natal,Web,Hardware,3,84.90,25470,0,Delivered,Road,2025-07-12
+O010655,09/07/2025,KwaZulu-Natal,Store,Hardware,6,235.90,141540,0,Cancelled,Collect,
+O010656,09/07/2025,KwaZulu-Natal,Web,Hardware,1,367.90,36790,5,Delivered,Road,2025-07-10
+O010657,09/07/2025,Western Cape,App,Electrical,2,1366.90,273380,0,Delivered,Road,2025-07-10
+O010658,09/07/2025,KwaZulu-Natal,Web,Garden,5,879.90,439950,0,Delivered,Road,2025-07-13
+O010659,09/07/2025,Free State,Phone,Hardware,5,41.90,20950,0,Delivered,Road,2025-07-14
+O010660,09/07/2025,Gauteng,Phone,Hardware,3,203.90,61170,5,Cancelled,Road,
+O010661,09/07/2025,Eastern Cape,Store,Garden,1,261.90,26190,0,Delivered,Collect,2025-07-10
+O010662,09/07/2025,Gauteng,Phone,Garden,2,220.90,44180,0,Delivered,Road,2025-07-10
+O010663,09/07/2025,Free State,Web,Paint,6,413.90,248340,0,Delivered,Road,2025-07-12
+O010664,09/07/2025,Western Cape,Web,Hardware,3,22.90,6870,0,Delivered,Road,2025-07-11
+O010665,09/07/2025,Gauteng,Phone,Hardware,4,297.90,119160,10,Delivered,Road,2025-07-12
+O010666,09/07/2025,Western Cape,App,Tools,1,1238.90,123890,5,Delivered,Road,2025-07-14
+O010667,09/07/2025,Free State,Store,Hardware,2,346.90,69380,0,Delivered,Collect,2025-07-14
+O010668,09/07/2025,Western Cape,Web,Tools,3,2643.90,793170,0,Delivered,Air,2025-07-12
+O010669,09/07/2025,Western Cape,Web,Hardware,3,151.90,45570,10,Delivered,Road,2025-07-13
+O010670,09/07/2025,Eastern Cape,Web,Electrical,1,114.90,11490,0,Delivered,Road,2025-07-11
+O010671,09/07/2025,Western Cape,Web,Plumbing,2,311.90,62380,0,Delivered,Road,2025-07-10
+O010672,09/07/2025,KwaZulu-Natal,App,Paint,1,360.90,36090,5,Cancelled,Road,
+O010673,09/07/2025,KwaZulu-Natal,Store,Tools,1,1867.90,186790,0,Returned,Collect,
+O010674,09/07/2025,KwaZulu-Natal,Phone,Paint,1,1111.90,111190,10,Delivered,Air,2025-07-14
+O010675,09/07/2025,Gauteng,Web,Electrical,5,41.90,20950,15,Delivered,Road,2025-07-11
+O010676,09/07/2025,Gauteng,Store,Electrical,2,1757.90,351580,0,Delivered,Collect,2025-07-11
+O010677,09/07/2025,KwaZulu-Natal,Store,Paint,1,799.90,79990,0,Delivered,Collect,2025-07-11
+O010678,09/07/2025,KwaZulu-Natal,Web,Electrical,3,1734.90,520470,,Delivered,Road,2025-07-10
+O010679,09/07/2025,Gauteng,Web,Tools,2,2054.90,410980,5,Delivered,Road,2025-07-13
+O010680,09/07/2025,Western Cape,Web,Garden,2,519.90,103980,0,Delivered,Road,2025-07-11
+O010681,09/07/2025,Gauteng,Store,Tools,1,1647.90,164790,0,Delivered,Collect,2025-07-12
+O010682,09/07/2025,Gauteng,Phone,Tools,2,1342.90,268580,5,Delivered,Road,2025-07-12
+O010683,09/07/2025,Eastern Cape,Web,Hardware,1,76.90,7690,5,Delivered,Air,2025-07-14
+O010684,09/07/2025,Western Cape,Web,Plumbing,1,132.90,13290,0,Delivered,Air,2025-07-10
+O010685,09/07/2025,Gauteng,Web,Garden,4,333.90,133560,0,Delivered,Road,2025-07-11
+O010686,09/07/2025,Gauteng,Phone,Hardware,1,396.90,39690,0,Delivered,Road,2025-07-12
+O010687,09/07/2025,KwaZulu-Natal,Phone,Hardware,6,239.90,143940,0,Delivered,Road,2025-07-14
+O010688,09/07/2025,Gauteng,Phone,Paint,2,751.90,150380,15,Delivered,Road,2025-07-11
+O010689,09/07/2025,KwaZulu-Natal,Store,Hardware,2,194.90,38980,5,Delivered,Collect,2025-07-14
+O010690,09/07/2025,Eastern Cape,Web,Tools,2,1566.90,313380,15,Delivered,Road,2025-07-11
+O010691,09/07/2025,Western Cape,Web,Electrical,4,1186.90,474760,15,Delivered,Road,2025-07-13
+O010692,09/07/2025,KwaZulu-Natal,App,Paint,3,856.90,257070,10,Delivered,Road,2025-07-13
+O010693,09/07/2025,Gauteng,App,Electrical,3,937.90,281370,0,Delivered,Road,2025-07-12
+O010694,09/07/2025,KwaZulu-Natal,Web,Paint,2,1087.90,217580,0,Delivered,Road,2025-07-14
+O010695,09/07/2025,Eastern Cape,Web,Plumbing,1,787.90,78790,0,Delivered,Road,2025-07-14
+O010696,09/07/2025,Gauteng,Phone,Electrical,2,1317.90,263580,0,Delivered,Road,2025-07-14
+O010697,09/07/2025,Western Cape,Phone,Tools,6,2464.90,1478940,10,Delivered,Road,2025-07-11
+O010698,09/07/2025,Gauteng,Web,Hardware,4,347.90,139160,10,Delivered,Road,2025-07-10
+O010699,09/07/2025,Western Cape,Web,Plumbing,6,432.90,259740,5,Delivered,Road,2025-07-11
+O010700,09/07/2025,KwaZulu-Natal,App,Tools,3,2948.90,884670,0,Delivered,Road,2025-07-12
+O010701,09/07/2025,Western Cape,Web,Electrical,1,1354.90,135490,0,Delivered,Air,2025-07-10
+O010702,10/07/2025,Western Cape,Web,Paint,2,1012.90,202580,0,Delivered,Road,2025-07-12
+O010703,10/07/2025,KwaZulu-Natal,Phone,Tools,1,2913.90,291390,0,Delivered,Road,2025-07-13
+O010704,10/07/2025,Gauteng,Web,Hardware,1,226.90,22690,0,Delivered,Air,2025-07-13
+O010705,10/07/2025,Gauteng,Store,Tools,1,1201.90,120190,0,Delivered,Collect,2025-07-11
+O010706,10/07/2025,Western Cape,Web,Garden,2,251.90,50380,0,Delivered,Road,2025-07-15
+O010707,10/07/2025,Western Cape,Store,Hardware,5,386.90,193450,10,Delivered,Collect,2025-07-13
+O010708,10/07/2025,Gauteng,Web,Hardware,6,290.90,174540,20,Delivered,Road,2025-07-15
+O010709,10/07/2025,Gauteng,Phone,Electrical,3,1398.90,419670,0,Delivered,Road,2025-07-15
+O010710,10/07/2025,KwaZulu-Natal,Store,Paint,2,495.90,99180,0,Delivered,Collect,2025-07-15
+O010711,10/07/2025,Eastern Cape,Web,Tools,1,1064.90,106490,0,Delivered,Road,2025-07-14
+O010712,10/07/2025,Eastern Cape,Store,Tools,1,370.90,37090,10,Delivered,Collect,2025-07-11
+O010713,10/07/2025,Free State,Web,Paint,1,1337.90,133790,0,Delivered,Road,2025-07-11
+O010714,10/07/2025,KwaZulu-Natal,App,Garden,5,501.90,250950,0,Delivered,Road,2025-07-12
+O010715,10/07/2025,Free State,Web,Tools,1,476.90,47690,0,Delivered,Air,2025-07-12
+O010716,10/07/2025,KwaZulu-Natal,App,Hardware,4,329.90,131960,0,Returned,Road,
+O010717,10/07/2025,Eastern Cape,Web,Electrical,4,719.90,287960,0,Delivered,Road,2025-07-12
+O010718,10/07/2025,KwaZulu-Natal,Web,Plumbing,1,97.90,9790,10,Delivered,Road,2025-07-15
+O010719,10/07/2025,Gauteng,App,Hardware,5,45.90,22950,0,Delivered,Road,2025-07-14
+O010720,10/07/2025,Gauteng,Store,Paint,1,895.90,89590,5,Delivered,Collect,2025-07-15
+O010721,10/07/2025,KwaZulu-Natal,Web,Electrical,4,1170.90,468360,0,Delivered,Road,2025-07-13
+O010722,10/07/2025,KwaZulu-Natal,App,Paint,1,1217.90,121790,0,Delivered,Air,2025-07-12
+O010723,10/07/2025,Western Cape,Store,Plumbing,4,506.90,202760,0,Delivered,Collect,2025-07-11
+O010724,10/07/2025,Free State,Store,Plumbing,1,503.90,50390,0,Cancelled,Collect,
+O010725,10/07/2025,Gauteng,Web,Tools,6,353.90,212340,0,Delivered,Road,2025-07-12
+O010726,10/07/2025,KwaZulu-Natal,Web,Hardware,3,316.90,95070,,Delivered,Air,2025-07-15
+O010727,10/07/2025,Eastern Cape,Web,Garden,1,596.90,59690,0,Delivered,Road,2025-07-14
+O010728,10/07/2025,Gauteng,Store,Plumbing,5,90.90,45450,0,Delivered,Collect,2025-07-13
+O010729,10/07/2025,Western Cape,Store,Paint,3,1192.90,357870,10,Delivered,Collect,2025-07-13
+O010730,10/07/2025,KwaZulu-Natal,Store,Electrical,1,1736.90,173690,0,Delivered,Collect,2025-07-15
+O010731,10/07/2025,Gauteng,Web,Plumbing,1,294.90,29490,20,Delivered,Road,2025-07-15
+O010732,10/07/2025,Gauteng,Phone,Hardware,1,361.90,36190,0,Delivered,Road,2025-07-13
+O010733,10/07/2025,Gauteng,Store,Plumbing,1,302.90,30290,0,Cancelled,Collect,
+O010734,10/07/2025,Free State,Store,Paint,4,1018.90,407560,0,Delivered,Collect,2025-07-15
+O010735,10/07/2025,Western Cape,Store,Hardware,2,143.90,28780,10,Delivered,Collect,2025-07-11
+O010736,10/07/2025,Western Cape,Web,Electrical,3,1626.90,488070,15,Returned,Road,
+O010737,10/07/2025,Western Cape,Web,Hardware,5,140.90,70450,0,Cancelled,Road,
+O010738,10/07/2025,Western Cape,Phone,Tools,2,1831.90,366380,0,Delivered,Road,2025-07-13
+O010739,10/07/2025,Western Cape,App,Garden,4,315.90,126360,0,Delivered,Road,2025-07-14
+O010740,10/07/2025,Western Cape,Web,Garden,4,129.90,51960,,Delivered,Road,2025-07-12
+O010741,10/07/2025,Western Cape,Web,Electrical,2,1240.90,248180,5,Delivered,Road,2025-07-11
+O010742,10/07/2025,KwaZulu-Natal,Store,Tools,3,1199.90,359970,5,Cancelled,Collect,
+O010743,10/07/2025,KwaZulu-Natal,Web,Hardware,1,182.90,18290,5,Delivered,Air,2025-07-12
+O010744,10/07/2025,Gauteng,Web,Plumbing,1,471.90,47190,20,Cancelled,Road,
+O010745,10/07/2025,Western Cape,Web,Electrical,2,361.90,72380,5,Delivered,Road,2025-07-15
+O010746,10/07/2025,Gauteng,Phone,Paint,6,494.90,296940,10,Delivered,Road,2025-07-11
+O010747,10/07/2025,Gauteng,Web,Paint,3,777.90,233370,10,Delivered,Road,2025-07-15
+O010748,10/07/2025,KwaZulu-Natal,App,Hardware,2,278.90,55780,0,Delivered,Road,2025-07-12
+O010749,10/07/2025,Western Cape,Web,Hardware,2,369.90,73980,0,Delivered,Road,2025-07-14
+O010750,10/07/2025,Gauteng,Phone,Hardware,4,378.90,151560,5,Delivered,Road,2025-07-11
+O010751,10/07/2025,Eastern Cape,Web,Hardware,2,178.90,35780,0,Delivered,Road,2025-07-14
+O010752,11/07/2025,Western Cape,App,Garden,5,677.90,338950,0,Delivered,Road,2025-07-14
+O010753,11/07/2025,Gauteng,Web,Electrical,3,700.90,210270,0,Delivered,Road,2025-07-14
+O010754,11/07/2025,Free State,Store,Hardware,2,260.90,52180,0,Delivered,Collect,2025-07-16
+O010755,11/07/2025,Western Cape,Phone,Tools,3,3059.90,917970,5,Delivered,Road,2025-07-14
+O010756,11/07/2025,Gauteng,Store,Electrical,3,221.90,66570,5,Delivered,Collect,2025-07-13
+O010757,11/07/2025,Western Cape,Store,Hardware,3,200.90,60270,0,Delivered,Collect,2025-07-12
+O010758,11/07/2025,Eastern Cape,Web,Paint,6,1192.90,715740,0,Returned,Air,
+O010759,11/07/2025,Gauteng,Phone,Hardware,5,392.90,196450,0,Delivered,Road,2025-07-14
+O010760,11/07/2025,Gauteng,Web,Garden,6,324.90,194940,0,Returned,Road,
+O010761,11/07/2025,Gauteng,Web,Garden,3,331.90,99570,0,Delivered,Road,2025-07-16
+O010762,11/07/2025,Gauteng,Web,Paint,6,1260.90,756540,0,Delivered,Road,2025-07-14
+O010763,11/07/2025,KwaZulu-Natal,Web,Tools,5,2477.90,1238950,0,Delivered,Air,2025-07-13
+O010764,11/07/2025,Gauteng,Phone,Electrical,1,102.90,10290,0,Delivered,Road,2025-07-16
+O010765,11/07/2025,Western Cape,App,Hardware,5,48.90,24450,0,Delivered,Road,2025-07-12
+O010766,11/07/2025,Western Cape,Web,Plumbing,2,896.90,179380,10,Delivered,Road,2025-07-12
+O010767,11/07/2025,Gauteng,Web,Paint,4,458.90,183560,0,Delivered,Road,2025-07-16
+O010768,11/07/2025,Eastern Cape,Phone,Plumbing,3,851.90,255570,10,Delivered,Road,2025-07-14
+O010769,11/07/2025,Free State,Web,Garden,1,675.90,67590,0,Delivered,Road,2025-07-12
+O010770,11/07/2025,Free State,Phone,Hardware,2,292.90,58580,0,Delivered,Air,2025-07-14
+O010771,11/07/2025,Eastern Cape,Store,Tools,1,1899.90,189990,5,Delivered,Collect,2025-07-12
+O010772,11/07/2025,Gauteng,App,Paint,1,438.90,43890,0,Delivered,Road,2025-07-12
+O010773,11/07/2025,Free State,Web,Paint,2,92.90,18580,0,Delivered,Road,2025-07-12
+O010774,11/07/2025,Gauteng,App,Hardware,1,127.90,12790,0,Delivered,Road,2025-07-15
+O010775,11/07/2025,Gauteng,Web,Electrical,1,224.90,22490,0,Delivered,Road,2025-07-16
+O010776,11/07/2025,Gauteng,Store,Electrical,2,1273.90,254780,0,Delivered,Collect,2025-07-14
+O010777,11/07/2025,Free State,Web,Paint,4,970.90,388360,0,Delivered,Road,2025-07-16
+O010778,11/07/2025,Eastern Cape,Web,Hardware,4,66.90,26760,5,Delivered,Air,2025-07-12
+O010779,11/07/2025,Gauteng,Store,Hardware,1,35.90,3590,0,Delivered,Collect,2025-07-16
+O010780,11/07/2025,Gauteng,App,Plumbing,2,833.90,166780,5,Delivered,Road,2025-07-16
+O010781,11/07/2025,Western Cape,Web,Hardware,2,384.90,76980,0,Delivered,Road,2025-07-12
+O010782,11/07/2025,Free State,Web,Paint,2,571.90,114380,0,Delivered,Road,2025-07-15
+O010783,11/07/2025,Gauteng,Phone,Garden,2,472.90,94580,0,Delivered,Road,2025-07-12
+O010784,11/07/2025,Free State,App,Paint,2,195.90,39180,0,Delivered,Air,2025-07-14
+O010785,11/07/2025,Gauteng,Web,Garden,3,262.90,78870,0,Delivered,Road,2025-07-15
+O010786,11/07/2025,KwaZulu-Natal,Web,Plumbing,5,759.90,379950,0,Delivered,Road,2025-07-15
+O010787,11/07/2025,Eastern Cape,Web,Hardware,1,209.90,20990,5,Delivered,Road,2025-07-14
+O010788,11/07/2025,Western Cape,Store,Electrical,2,1279.90,255980,5,Delivered,Collect,2025-07-12
+O010789,11/07/2025,Western Cape,Store,Hardware,2,248.90,49780,0,Delivered,Collect,2025-07-12
+O010790,11/07/2025,Free State,Web,Hardware,2,138.90,27780,10,Delivered,Road,2025-07-14
+O010791,11/07/2025,Western Cape,Store,Hardware,1,206.90,20690,15,Delivered,Collect,2025-07-13
+O010792,11/07/2025,KwaZulu-Natal,Store,Tools,2,1476.90,295380,5,Delivered,Collect,2025-07-16
+O010793,11/07/2025,Gauteng,Store,Hardware,3,162.90,48870,15,Delivered,Collect,2025-07-16
+O010794,11/07/2025,KwaZulu-Natal,Phone,Hardware,2,122.90,24580,0,Delivered,Road,2025-07-13
+O010795,11/07/2025,Gauteng,App,Plumbing,1,813.90,81390,15,Cancelled,Road,
+O010796,11/07/2025,Gauteng,Web,Hardware,4,390.90,156360,20,Delivered,Road,2025-07-15
+O010797,11/07/2025,KwaZulu-Natal,App,Plumbing,1,574.90,57490,10,Cancelled,Road,
+O010798,11/07/2025,Gauteng,Web,Paint,3,426.90,128070,10,Delivered,Road,2025-07-15
+O010799,11/07/2025,Gauteng,Store,Garden,3,244.90,73470,0,Delivered,Collect,2025-07-13
+O010800,11/07/2025,Western Cape,Web,Hardware,6,335.90,201540,0,Delivered,Road,2025-07-15
+O010801,11/07/2025,Western Cape,Phone,Paint,5,1117.90,558950,5,Delivered,Road,2025-07-12
+O010802,11/07/2025,Western Cape,Web,Hardware,1,57.90,5790,15,Delivered,Road,2025-07-12
+O010803,11/07/2025,Western Cape,Store,Paint,6,118.90,71340,0,Delivered,Collect,2025-07-14
+O010804,11/07/2025,Western Cape,Web,Hardware,1,85.90,8590,0,Delivered,Road,2025-07-15
+O010805,11/07/2025,Western Cape,Web,Paint,2,216.90,43380,0,Delivered,Road,2025-07-14
+O010806,11/07/2025,Eastern Cape,Web,Hardware,1,373.90,37390,0,Delivered,Road,2025-07-15
+O010807,11/07/2025,Western Cape,Web,Garden,1,419.90,41990,0,Delivered,Air,2025-07-12
+O010808,11/07/2025,Western Cape,Web,Hardware,6,277.90,166740,0,Delivered,Road,2025-07-16
+O010809,11/07/2025,KwaZulu-Natal,Web,Hardware,1,361.90,36190,5,Delivered,Road,2025-07-12
+O010810,11/07/2025,KwaZulu-Natal,Web,Hardware,6,231.90,139140,0,Delivered,Road,2025-07-12
+O010811,11/07/2025,Western Cape,Web,Electrical,5,1310.90,655450,5,Delivered,Road,2025-07-15
+O010812,12/07/2025,Gauteng,App,Plumbing,3,123.90,37170,5,Delivered,Air,2025-07-14
+O010813,12/07/2025,Western Cape,Phone,Hardware,4,92.90,37160,5,Delivered,Road,2025-07-13
+O010814,12/07/2025,Western Cape,App,Tools,3,529.90,158970,5,Delivered,Road,2025-07-13
+O010815,12/07/2025,KwaZulu-Natal,Web,Paint,3,722.90,216870,10,Delivered,Road,2025-07-13
+O010816,12/07/2025,Western Cape,Web,Hardware,2,250.90,50180,10,Delivered,Road,2025-07-17
+O010817,12/07/2025,Eastern Cape,Phone,Plumbing,4,357.90,143160,5,Delivered,Road,2025-07-16
+O010818,12/07/2025,Gauteng,Store,Plumbing,3,120.90,36270,0,Delivered,Collect,2025-07-16
+O010819,12/07/2025,Western Cape,Store,Hardware,5,237.90,118950,5,Delivered,Collect,2025-07-15
+O010820,12/07/2025,KwaZulu-Natal,Store,Garden,4,553.90,221560,5,Delivered,Collect,2025-07-14
+O010821,12/07/2025,KwaZulu-Natal,Web,Tools,4,1539.90,615960,5,Delivered,Road,2025-07-17
+O010822,12/07/2025,Gauteng,Web,Electrical,2,739.90,147980,0,Delivered,Road,2025-07-15
+O010823,12/07/2025,Free State,App,Hardware,1,228.90,22890,10,Delivered,Road,2025-07-17
+O010824,12/07/2025,Eastern Cape,Phone,Garden,5,805.90,402950,0,Delivered,Road,2025-07-14
+O010825,12/07/2025,Gauteng,App,Hardware,6,25.90,15540,5,Delivered,Road,2025-07-15
+O010826,12/07/2025,Western Cape,Store,Electrical,2,1619.90,323980,0,Delivered,Collect,2025-07-14
+O010827,12/07/2025,KwaZulu-Natal,Phone,Hardware,3,26.90,8070,0,Delivered,Road,2025-07-13
+O010828,12/07/2025,Gauteng,Web,Tools,1,1140.90,114090,0,Delivered,Road,2025-07-17
+O010829,12/07/2025,KwaZulu-Natal,Phone,Plumbing,3,669.90,200970,0,Delivered,Road,2025-07-13
+O010830,12/07/2025,Western Cape,Store,Garden,3,893.90,268170,0,Cancelled,Collect,
+O010831,12/07/2025,Gauteng,Phone,Hardware,1,213.90,21390,0,Delivered,Road,2025-07-16
+O010832,12/07/2025,Eastern Cape,Web,Tools,1,349.90,34990,0,Delivered,Road,2025-07-13
+O010833,12/07/2025,Eastern Cape,Store,Hardware,3,372.90,111870,15,Delivered,Collect,2025-07-13
+O010834,12/07/2025,Eastern Cape,Phone,Hardware,2,51.90,10380,,Delivered,Road,2025-07-16
+O010835,12/07/2025,Gauteng,Store,Plumbing,5,509.90,254950,5,Delivered,Collect,2025-07-17
+O010836,12/07/2025,Western Cape,Web,Garden,4,382.90,153160,5,Delivered,Road,2025-07-13
+O010837,12/07/2025,Gauteng,Web,Plumbing,2,712.90,142580,0,Delivered,Road,2025-07-15
+O010838,12/07/2025,Gauteng,Store,Tools,2,1911.90,382380,5,Delivered,Collect,2025-07-17
+O010839,12/07/2025,Eastern Cape,Phone,Paint,1,536.90,53690,0,Delivered,Road,2025-07-14
+O010840,12/07/2025,Western Cape,Store,Garden,3,78.90,23670,0,Delivered,Collect,2025-07-17
+O010841,12/07/2025,Gauteng,Phone,Paint,4,1110.90,444360,5,Delivered,Air,2025-07-15
+O010842,12/07/2025,Gauteng,Store,Electrical,3,508.90,152670,,Delivered,Collect,2025-07-15
+O010843,12/07/2025,Western Cape,Store,Hardware,1,199.90,19990,5,Delivered,Collect,2025-07-13
+O010844,12/07/2025,Free State,Web,Hardware,2,396.90,79380,0,Delivered,Road,2025-07-14
+O010845,12/07/2025,Western Cape,Store,Hardware,4,119.90,47960,10,Returned,Collect,
+O010846,12/07/2025,Gauteng,Store,Paint,4,911.90,364760,0,Delivered,Collect,2025-07-13
+O010847,12/07/2025,Gauteng,Web,Hardware,5,288.90,144450,15,Delivered,Road,2025-07-15
+O010848,12/07/2025,Western Cape,Phone,Plumbing,3,847.90,254370,0,Delivered,Road,2025-07-14
+O010849,12/07/2025,KwaZulu-Natal,Store,Hardware,2,176.90,35380,0,Returned,Collect,
+O010850,12/07/2025,Free State,Web,Garden,2,661.90,132380,0,Delivered,Air,2025-07-15
+O010851,12/07/2025,Gauteng,Web,Plumbing,4,672.90,269160,10,Delivered,Road,2025-07-16
+O010852,12/07/2025,Gauteng,Web,Hardware,5,221.90,110950,10,Delivered,Road,2025-07-16
+O010853,12/07/2025,Gauteng,Store,Garden,1,180.90,18090,0,Delivered,Collect,2025-07-13
+O010854,12/07/2025,KwaZulu-Natal,App,Hardware,2,388.90,77780,0,Delivered,Road,2025-07-14
+O010855,12/07/2025,Western Cape,Phone,Paint,3,1311.90,393570,0,Delivered,Road,2025-07-16
+O010856,12/07/2025,Western Cape,Store,Garden,6,333.90,200340,0,Delivered,Collect,2025-07-13
+O010857,12/07/2025,Western Cape,Store,Paint,6,91.90,55140,10,Delivered,Collect,2025-07-15
+O010858,12/07/2025,Gauteng,Phone,Plumbing,1,334.90,33490,10,Delivered,Air,2025-07-14
+O010859,12/07/2025,Gauteng,Phone,Electrical,6,1341.90,805140,0,Cancelled,Road,
+O010860,12/07/2025,Eastern Cape,Web,Plumbing,1,177.90,17790,0,Delivered,Road,2025-07-14
+O010861,12/07/2025,Gauteng,Store,Hardware,4,89.90,35960,5,Delivered,Collect,2025-07-15
+O010862,12/07/2025,Gauteng,Phone,Electrical,4,1494.90,597960,5,Delivered,Road,2025-07-14
+O010863,12/07/2025,Western Cape,Web,Electrical,6,1146.90,688140,10,Delivered,Road,2025-07-15
+O010864,12/07/2025,Western Cape,App,Tools,1,2259.90,225990,0,Delivered,Road,2025-07-17
+O010865,12/07/2025,Free State,Web,Plumbing,3,467.90,140370,0,Delivered,Air,2025-07-13
+O010866,12/07/2025,KwaZulu-Natal,Phone,Electrical,5,169.90,84950,0,Delivered,Air,2025-07-14
+O010867,12/07/2025,Eastern Cape,Phone,Plumbing,1,553.90,55390,20,Cancelled,Road,
+O010868,12/07/2025,Western Cape,App,Hardware,1,87.90,8790,0,Returned,Road,
+O010869,12/07/2025,KwaZulu-Natal,App,Garden,1,376.90,37690,15,Delivered,Road,2025-07-13
+O010870,12/07/2025,Western Cape,App,Paint,4,935.90,374360,0,Delivered,Road,2025-07-14
+O010871,12/07/2025,Eastern Cape,Web,Hardware,1,205.90,20590,0,Delivered,Road,2025-07-17
+O010872,12/07/2025,Western Cape,App,Garden,1,295.90,29590,10,Delivered,Air,2025-07-15
+O010873,12/07/2025,Western Cape,Web,Hardware,2,52.90,10580,0,Delivered,Road,2025-07-13
+O010874,12/07/2025,Eastern Cape,Web,Garden,1,292.90,29290,0,Cancelled,Road,
+O010875,12/07/2025,Western Cape,Store,Plumbing,3,65.90,19770,0,Returned,Collect,
+O010876,12/07/2025,Western Cape,Phone,Electrical,2,834.90,166980,0,Delivered,Air,2025-07-15
+O010877,12/07/2025,Western Cape,Web,Electrical,1,172.90,17290,10,Delivered,Air,2025-07-13
+O010878,12/07/2025,Gauteng,Store,Paint,2,1369.90,273980,20,Delivered,Collect,2025-07-13
+O010879,12/07/2025,Western Cape,Store,Hardware,2,55.90,11180,10,Delivered,Collect,2025-07-13
+O010880,12/07/2025,Gauteng,Web,Electrical,1,1722.90,172290,0,Cancelled,Road,
+O010881,12/07/2025,Western Cape,Store,Paint,3,179.90,53970,0,Delivered,Collect,2025-07-16
+O010882,13/07/2025,Western Cape,Web,Electrical,2,1790.90,358180,5,Delivered,Road,2025-07-16
+O010883,13/07/2025,Gauteng,Web,Hardware,3,396.90,119070,0,Delivered,Road,2025-07-15
+O010884,13/07/2025,Gauteng,Store,Hardware,1,31.90,3190,0,Delivered,Collect,2025-07-17
+O010885,13/07/2025,Free State,Web,Hardware,1,328.90,32890,0,Delivered,Air,2025-07-17
+O010886,13/07/2025,KwaZulu-Natal,Phone,Paint,3,1365.90,409770,0,Cancelled,Road,
+O010887,13/07/2025,Gauteng,Web,Hardware,2,150.90,30180,0,Delivered,Road,2025-07-17
+O010888,13/07/2025,Gauteng,App,Tools,6,1688.90,1013340,10,Delivered,Road,2025-07-18
+O010889,13/07/2025,Western Cape,Store,Hardware,6,55.90,33540,5,Delivered,Collect,2025-07-18
+O010890,13/07/2025,KwaZulu-Natal,Store,Hardware,2,43.90,8780,5,Delivered,Collect,2025-07-15
+O010891,13/07/2025,KwaZulu-Natal,Store,Hardware,1,207.90,20790,0,Delivered,Collect,2025-07-18
+O010892,13/07/2025,Western Cape,Web,Garden,2,674.90,134980,10,Cancelled,Road,
+O010893,13/07/2025,Western Cape,Web,Hardware,2,315.90,63180,0,Delivered,Road,2025-07-14
+O010894,13/07/2025,Gauteng,Phone,Electrical,1,1708.90,170890,0,Delivered,Road,2025-07-18
+O010895,13/07/2025,Gauteng,Web,Electrical,4,652.90,261160,0,Delivered,Road,2025-07-15
+O010896,13/07/2025,Gauteng,Store,Garden,5,450.90,225450,5,Delivered,Collect,2025-07-16
+O010897,13/07/2025,Gauteng,Phone,Garden,2,347.90,69580,20,Returned,Road,
+O010898,13/07/2025,Gauteng,Phone,Plumbing,2,228.90,45780,5,Delivered,Road,2025-07-18
+O010899,13/07/2025,KwaZulu-Natal,App,Paint,3,1080.90,324270,0,Delivered,Road,2025-07-14
+O010900,13/07/2025,Eastern Cape,Web,Paint,1,773.90,77390,0,Delivered,Road,2025-07-15
+O010901,13/07/2025,Western Cape,Store,Tools,2,312.90,62580,0,Delivered,Collect,2025-07-15
+O010902,13/07/2025,Western Cape,App,Paint,3,103.90,31170,5,Delivered,Road,2025-07-14
+O010903,13/07/2025,Gauteng,Store,Electrical,5,1673.90,836950,0,Delivered,Collect,2025-07-15
+O010904,13/07/2025,Western Cape,Web,Electrical,4,1606.90,642760,0,Delivered,Road,2025-07-16
+O010905,13/07/2025,Gauteng,Phone,Electrical,3,1370.90,411270,0,Delivered,Road,2025-07-17
+O010906,13/07/2025,Western Cape,Store,Paint,2,983.90,196780,0,Delivered,Collect,2025-07-14
+O010907,13/07/2025,KwaZulu-Natal,App,Garden,3,782.90,234870,0,Delivered,Road,2025-07-14
+O010908,13/07/2025,Western Cape,Web,Hardware,2,298.90,59780,20,Delivered,Air,2025-07-14
+O010909,13/07/2025,KwaZulu-Natal,Phone,Electrical,1,665.90,66590,0,Delivered,Road,2025-07-18
+O010910,13/07/2025,Western Cape,Store,Garden,4,237.90,95160,0,Delivered,Collect,2025-07-17
+O010911,13/07/2025,Gauteng,Store,Plumbing,1,677.90,67790,0,Delivered,Collect,2025-07-17
+O010912,13/07/2025,Western Cape,Store,Plumbing,4,600.90,240360,0,Delivered,Collect,2025-07-18
+O010913,13/07/2025,Free State,Phone,Plumbing,1,606.90,60690,0,Delivered,Road,2025-07-16
+O010914,13/07/2025,Gauteng,Phone,Paint,1,531.90,53190,10,Delivered,Road,2025-07-18
+O010915,13/07/2025,Gauteng,Store,Paint,1,1093.90,109390,10,Delivered,Collect,2025-07-15
+O010916,13/07/2025,Western Cape,Phone,Garden,1,724.90,72490,5,Delivered,Air,2025-07-16
+O010917,13/07/2025,KwaZulu-Natal,Phone,Hardware,1,76.90,7690,15,Delivered,Road,2025-07-17
+O010918,13/07/2025,KwaZulu-Natal,Store,Hardware,4,183.90,73560,0,Delivered,Collect,2025-07-17
+O010919,13/07/2025,KwaZulu-Natal,Web,Hardware,3,283.90,85170,20,Cancelled,Road,
+O010920,13/07/2025,Western Cape,Web,Hardware,1,390.90,39090,0,Delivered,Road,2025-07-17
+O010921,13/07/2025,Gauteng,Store,Hardware,6,53.90,32340,0,Delivered,Collect,2025-07-18
+O010922,13/07/2025,Western Cape,Web,Garden,2,328.90,65780,0,Delivered,Road,2025-07-15
+O010923,13/07/2025,Eastern Cape,App,Electrical,2,330.90,66180,0,Delivered,Air,2025-07-18
+O010924,13/07/2025,KwaZulu-Natal,Web,Hardware,6,311.90,187140,10,Delivered,Road,2025-07-18
+O010925,13/07/2025,Gauteng,Web,Hardware,3,47.90,14370,5,Delivered,Road,2025-07-18
+O010926,13/07/2025,Gauteng,Web,Paint,2,1243.90,248780,0,Delivered,Road,2025-07-17
+O010927,13/07/2025,Gauteng,Web,Paint,6,928.90,557340,0,Delivered,Road,2025-07-17
+O010928,13/07/2025,Gauteng,Phone,Paint,2,921.90,184380,0,Delivered,Road,2025-07-18
+O010929,13/07/2025,Western Cape,Phone,Garden,6,55.90,33540,0,Delivered,Road,2025-07-18
+O010930,13/07/2025,Gauteng,Phone,Paint,1,390.90,39090,0,Delivered,Road,2025-07-14
+O010931,13/07/2025,Gauteng,Web,Hardware,2,81.90,16380,0,Cancelled,Road,
+O010932,13/07/2025,Western Cape,Web,Garden,2,39.90,7980,0,Delivered,Road,2025-07-15
+O010933,13/07/2025,Western Cape,Web,Paint,1,381.90,38190,0,Delivered,Road,2025-07-14
+O010934,13/07/2025,Gauteng,Web,Paint,6,921.90,553140,0,Delivered,Road,2025-07-14
+O010935,14/07/2025,Western Cape,App,Tools,3,2858.90,857670,10,Delivered,Road,2025-07-16
+O010936,14/07/2025,KwaZulu-Natal,Store,Hardware,1,231.90,23190,0,Delivered,Collect,2025-07-17
+O010937,14/07/2025,Western Cape,Store,Hardware,6,21.90,13140,10,Delivered,Collect,2025-07-16
+O010938,14/07/2025,KwaZulu-Natal,Store,Plumbing,2,533.90,106780,0,Delivered,Collect,2025-07-17
+O010939,14/07/2025,Western Cape,App,Electrical,2,1482.90,296580,15,Delivered,Road,2025-07-19
+O010940,14/07/2025,Gauteng,Store,Plumbing,5,464.90,232450,20,Delivered,Collect,2025-07-19
+O010941,14/07/2025,Gauteng,Phone,Hardware,3,156.90,47070,,Delivered,Road,2025-07-19
+O010942,14/07/2025,KwaZulu-Natal,Web,Hardware,4,274.90,109960,15,Delivered,Air,2025-07-18
+O010943,14/07/2025,Eastern Cape,Web,Electrical,1,627.90,62790,0,Delivered,Road,2025-07-18
+O010944,14/07/2025,KwaZulu-Natal,Web,Paint,5,1223.90,611950,10,Delivered,Road,2025-07-19
+O010945,14/07/2025,Gauteng,Web,Paint,3,702.90,210870,15,Returned,Road,
+O010946,14/07/2025,KwaZulu-Natal,Web,Paint,2,912.90,182580,15,Delivered,Road,2025-07-15
+O010947,14/07/2025,Western Cape,Web,Paint,6,1246.90,748140,0,Delivered,Road,2025-07-15
+O010948,14/07/2025,Eastern Cape,Web,Hardware,2,373.90,74780,5,Delivered,Air,2025-07-16
+O010949,14/07/2025,Western Cape,Web,Paint,1,1235.90,123590,0,Delivered,Road,2025-07-19
+O010950,14/07/2025,Gauteng,Web,Hardware,2,386.90,77380,0,Delivered,Air,2025-07-19
+O010951,14/07/2025,Gauteng,Web,Paint,4,1128.90,451560,0,Delivered,Road,2025-07-17
+O010952,14/07/2025,Western Cape,Store,Electrical,1,740.90,74090,5,Delivered,Collect,2025-07-18
+O010953,14/07/2025,Gauteng,Web,Hardware,6,26.90,16140,5,Delivered,Road,2025-07-18
+O010954,14/07/2025,Gauteng,Store,Plumbing,4,651.90,260760,5,Delivered,Collect,2025-07-17
+O010955,14/07/2025,Western Cape,Phone,Paint,6,1238.90,743340,10,Delivered,Road,2025-07-17
+O010956,14/07/2025,Gauteng,Store,Paint,2,1175.90,235180,0,Delivered,Collect,2025-07-19
+O010957,14/07/2025,Western Cape,Store,Plumbing,1,802.90,80290,15,Delivered,Collect,2025-07-18
+O010958,14/07/2025,Gauteng,Web,Hardware,4,381.90,152760,5,Delivered,Road,2025-07-19
+O010959,14/07/2025,Eastern Cape,Web,Electrical,1,92.90,9290,0,Delivered,Road,2025-07-16
+O010960,14/07/2025,Free State,Store,Paint,6,779.90,467940,0,Returned,Collect,
+O010961,14/07/2025,KwaZulu-Natal,Phone,Hardware,1,105.90,10590,20,Delivered,Air,2025-07-18
+O010962,14/07/2025,Western Cape,Store,Hardware,5,185.90,92950,0,Delivered,Collect,2025-07-15
+O010963,14/07/2025,Western Cape,Phone,Paint,6,1319.90,791940,0,Delivered,Road,2025-07-17
+O010964,14/07/2025,Western Cape,Store,Hardware,1,380.90,38090,0,Delivered,Collect,2025-07-15
+O010965,14/07/2025,Free State,Web,Electrical,1,614.90,61490,0,Delivered,Air,2025-07-18
+O010966,14/07/2025,Western Cape,Phone,Hardware,3,291.90,87570,15,Delivered,Road,2025-07-19
+O010967,14/07/2025,Free State,Store,Garden,4,379.90,151960,5,Delivered,Collect,2025-07-19
+O010968,14/07/2025,Gauteng,Store,Paint,6,1203.90,722340,0,Delivered,Collect,2025-07-19
+O010969,14/07/2025,Gauteng,Web,Hardware,2,253.90,50780,5,Delivered,Road,2025-07-18
+O010970,14/07/2025,Western Cape,Web,Garden,5,54.90,27450,5,Delivered,Road,2025-07-15
+O010971,14/07/2025,Gauteng,Web,Hardware,2,377.90,75580,5,Delivered,Road,2025-07-19
+O010972,14/07/2025,Western Cape,Web,Tools,1,224.90,22490,10,Delivered,Road,2025-07-19
+O010973,14/07/2025,Gauteng,Web,Paint,2,234.90,46980,0,Delivered,Road,2025-07-15
+O010974,14/07/2025,Western Cape,Phone,Hardware,6,150.90,90540,,Returned,Air,
+O010975,14/07/2025,Gauteng,Phone,Hardware,3,75.90,22770,0,Delivered,Road,2025-07-19
+O010976,14/07/2025,Western Cape,Web,Plumbing,2,817.90,163580,15,Delivered,Road,2025-07-16
+O010977,14/07/2025,Gauteng,Web,Hardware,1,70.90,7090,10,Delivered,Road,2025-07-16
+O010978,14/07/2025,Gauteng,Web,Garden,2,538.90,107780,0,Delivered,Air,2025-07-19
+O010979,14/07/2025,Gauteng,Web,Garden,3,140.90,42270,0,Delivered,Road,2025-07-19
+O010980,14/07/2025,Western Cape,Web,Garden,3,518.90,155670,5,Delivered,Road,2025-07-19
+O010981,14/07/2025,KwaZulu-Natal,Store,Hardware,1,269.90,26990,20,Delivered,Collect,2025-07-15
+O010982,14/07/2025,Gauteng,Store,Electrical,3,1529.90,458970,20,Delivered,Collect,2025-07-17
+O010983,14/07/2025,Eastern Cape,Web,Garden,2,772.90,154580,0,Returned,Road,
+O010984,14/07/2025,Eastern Cape,Phone,Hardware,2,108.90,21780,0,Delivered,Road,2025-07-15
+O010985,14/07/2025,Gauteng,Store,Tools,6,285.90,171540,,Delivered,Collect,2025-07-18
+O010986,14/07/2025,KwaZulu-Natal,App,Hardware,2,280.90,56180,10,Delivered,Road,2025-07-18
+O010987,14/07/2025,KwaZulu-Natal,Web,Paint,6,767.90,460740,10,Delivered,Road,2025-07-16
+O010988,15/07/2025,Eastern Cape,Store,Garden,2,191.90,38380,20,Delivered,Collect,2025-07-20
+O010989,15/07/2025,KwaZulu-Natal,Web,Plumbing,4,573.90,229560,15,Delivered,Road,2025-07-18
+O010990,15/07/2025,Gauteng,Phone,Garden,5,650.90,325450,5,Delivered,Road,2025-07-19
+O010991,15/07/2025,Gauteng,Store,Garden,3,689.90,206970,0,Delivered,Collect,2025-07-19
+O010992,15/07/2025,Western Cape,Web,Hardware,3,280.90,84270,10,Delivered,Air,2025-07-17
+O010993,15/07/2025,KwaZulu-Natal,Web,Hardware,3,372.90,111870,0,Delivered,Road,2025-07-18
+O010994,15/07/2025,Western Cape,Web,Hardware,5,351.90,175950,0,Delivered,Road,2025-07-16
+O010995,15/07/2025,KwaZulu-Natal,App,Hardware,1,350.90,35090,10,Delivered,Air,2025-07-16
+O010996,15/07/2025,Western Cape,Store,Garden,1,371.90,37190,0,Delivered,Collect,2025-07-19
+O010997,15/07/2025,Western Cape,Web,Paint,1,1091.90,109190,0,Delivered,Road,2025-07-16
+O010998,15/07/2025,Gauteng,Store,Electrical,3,194.90,58470,0,Delivered,Collect,2025-07-20
+O010999,15/07/2025,Gauteng,Store,Garden,1,822.90,82290,5,Delivered,Collect,2025-07-17
+O011000,15/07/2025,Gauteng,Web,Electrical,3,358.90,107670,0,Delivered,Road,2025-07-16
+O011001,15/07/2025,Eastern Cape,Store,Paint,1,654.90,65490,0,Returned,Collect,
+O011002,15/07/2025,KwaZulu-Natal,Web,Paint,2,1074.90,214980,0,Delivered,Road,2025-07-18
+O011003,15/07/2025,Gauteng,App,Electrical,3,867.90,260370,0,Delivered,Road,2025-07-19
+O011004,15/07/2025,Gauteng,Web,Hardware,1,43.90,4390,0,Delivered,Air,2025-07-20
+O011005,15/07/2025,KwaZulu-Natal,Web,Tools,3,2326.90,698070,0,Delivered,Road,2025-07-18
+O011006,15/07/2025,Eastern Cape,Store,Plumbing,1,798.90,79890,0,Delivered,Collect,2025-07-20
+O011007,15/07/2025,Western Cape,Web,Garden,3,146.90,44070,10,Delivered,Road,2025-07-16
+O011008,15/07/2025,Gauteng,Store,Hardware,6,284.90,170940,0,Delivered,Collect,2025-07-16
+O011009,15/07/2025,Western Cape,Store,Plumbing,1,107.90,10790,0,Delivered,Collect,2025-07-18
+O011010,15/07/2025,Gauteng,Phone,Tools,2,1783.90,356780,0,Delivered,Road,2025-07-16
+O011011,15/07/2025,Eastern Cape,Store,Hardware,4,49.90,19960,0,Delivered,Collect,2025-07-20
+O011012,15/07/2025,Eastern Cape,Web,Plumbing,4,737.90,295160,5,Delivered,Road,2025-07-19
+O011013,15/07/2025,KwaZulu-Natal,Web,Garden,1,203.90,20390,,Cancelled,Road,
+O011014,15/07/2025,Western Cape,Web,Hardware,3,293.90,88170,0,Delivered,Air,2025-07-16
+O011015,15/07/2025,Gauteng,Phone,Hardware,3,298.90,89670,0,Delivered,Road,2025-07-17
+O011016,15/07/2025,Gauteng,Web,Paint,2,397.90,79580,0,Delivered,Road,2025-07-19
+O011017,15/07/2025,Eastern Cape,Store,Hardware,4,351.90,140760,10,Delivered,Collect,2025-07-16
+O011018,15/07/2025,KwaZulu-Natal,App,Hardware,1,91.90,9190,5,Delivered,Road,2025-07-18
+O011019,15/07/2025,Gauteng,Store,Hardware,5,184.90,92450,20,Delivered,Collect,2025-07-18
+O011020,15/07/2025,Eastern Cape,Store,Hardware,2,125.90,25180,15,Delivered,Collect,2025-07-19
+O011021,15/07/2025,Gauteng,Store,Paint,1,1288.90,128890,0,Delivered,Collect,2025-07-20
+O011022,15/07/2025,Gauteng,Phone,Electrical,3,549.90,164970,0,Delivered,Air,2025-07-19
+O011023,15/07/2025,Western Cape,Store,Paint,2,211.90,42380,5,Delivered,Collect,2025-07-17
+O011024,15/07/2025,KwaZulu-Natal,Store,Paint,2,330.90,66180,10,Delivered,Collect,2025-07-16
+O011025,15/07/2025,KwaZulu-Natal,Web,Paint,1,998.90,99890,20,Delivered,Road,2025-07-17
+O011026,15/07/2025,Western Cape,Web,Tools,2,2849.90,569980,,Delivered,Road,2025-07-18
+O011027,15/07/2025,Gauteng,Web,Hardware,4,334.90,133960,0,Delivered,Road,2025-07-17
+O011028,15/07/2025,Eastern Cape,Phone,Tools,3,388.90,116670,20,Delivered,Road,2025-07-17
+O011029,15/07/2025,Western Cape,Phone,Hardware,4,162.90,65160,5,Returned,Road,
+O011030,16/07/2025,Western Cape,Store,Hardware,5,101.90,50950,5,Returned,Collect,
+O011031,16/07/2025,KwaZulu-Natal,Phone,Electrical,3,954.90,286470,0,Delivered,Air,2025-07-19
+O011032,16/07/2025,KwaZulu-Natal,Web,Electrical,2,269.90,53980,,Delivered,Road,2025-07-18
+O011033,16/07/2025,KwaZulu-Natal,Store,Hardware,1,140.90,14090,0,Delivered,Collect,2025-07-21
+O011034,16/07/2025,KwaZulu-Natal,Web,Hardware,2,259.90,51980,0,Delivered,Air,2025-07-18
+O011035,16/07/2025,Western Cape,Web,Hardware,4,378.90,151560,10,Cancelled,Road,
+O011036,16/07/2025,KwaZulu-Natal,Web,Electrical,1,1456.90,145690,5,Delivered,Road,2025-07-21
+O011037,16/07/2025,Gauteng,Web,Electrical,1,823.90,82390,5,Delivered,Road,2025-07-19
+O011038,16/07/2025,Eastern Cape,Web,Tools,5,1331.90,665950,0,Delivered,Road,2025-07-20
+O011039,16/07/2025,Western Cape,Web,Tools,1,657.90,65790,0,Delivered,Road,2025-07-20
+O011040,16/07/2025,Eastern Cape,Web,Tools,6,381.90,229140,0,Delivered,Road,2025-07-17
+O011041,16/07/2025,Western Cape,Phone,Tools,6,2739.90,1643940,0,Delivered,Road,2025-07-17
+O011042,16/07/2025,Gauteng,Web,Plumbing,2,725.90,145180,0,Delivered,Road,2025-07-17
+O011043,16/07/2025,KwaZulu-Natal,Store,Electrical,2,1398.90,279780,5,Delivered,Collect,2025-07-20
+O011044,16/07/2025,Gauteng,Store,Plumbing,1,649.90,64990,0,Delivered,Collect,2025-07-21
+O011045,16/07/2025,Gauteng,Store,Paint,2,910.90,182180,5,Delivered,Collect,2025-07-17
+O011046,16/07/2025,Gauteng,Web,Paint,6,991.90,595140,10,Delivered,Road,2025-07-18
+O011047,16/07/2025,Western Cape,Web,Garden,5,274.90,137450,0,Returned,Road,
+O011048,16/07/2025,KwaZulu-Natal,Web,Electrical,4,680.90,272360,10,Delivered,Road,2025-07-17
+O011049,16/07/2025,Western Cape,App,Garden,3,97.90,29370,0,Cancelled,Road,
+O011050,16/07/2025,Gauteng,Web,Hardware,2,194.90,38980,0,Delivered,Air,2025-07-20
+O011051,16/07/2025,KwaZulu-Natal,Web,Paint,4,1307.90,523160,0,Delivered,Road,2025-07-21
+O011052,16/07/2025,Western Cape,Web,Paint,2,914.90,182980,0,Delivered,Road,2025-07-21
+O011053,16/07/2025,Gauteng,Web,Garden,4,152.90,61160,0,Delivered,Road,2025-07-18
+O011054,16/07/2025,Gauteng,Phone,Garden,4,264.90,105960,0,Delivered,Air,2025-07-21
+O011055,16/07/2025,KwaZulu-Natal,Web,Electrical,5,1638.90,819450,0,Delivered,Road,2025-07-18
+O011056,16/07/2025,KwaZulu-Natal,Web,Hardware,3,308.90,92670,,Delivered,Road,2025-07-20
+O011057,16/07/2025,Gauteng,Phone,Hardware,1,362.90,36290,0,Delivered,Road,2025-07-21
+O011058,16/07/2025,Free State,Web,Paint,1,1284.90,128490,0,Delivered,Road,2025-07-18
+O011059,16/07/2025,Free State,Web,Hardware,2,302.90,60580,5,Delivered,Road,2025-07-20
+O011060,16/07/2025,Eastern Cape,Web,Tools,3,1936.90,581070,0,Delivered,Road,2025-07-20
+O011061,16/07/2025,Free State,Web,Garden,2,228.90,45780,15,Delivered,Road,2025-07-21
+O011062,16/07/2025,Western Cape,Store,Garden,6,114.90,68940,5,Delivered,Collect,2025-07-18
+O011063,16/07/2025,KwaZulu-Natal,App,Garden,5,196.90,98450,0,Cancelled,Road,
+O011064,16/07/2025,Western Cape,Store,Hardware,1,74.90,7490,5,Delivered,Collect,2025-07-20
+O011065,16/07/2025,Gauteng,Store,Hardware,2,274.90,54980,0,Delivered,Collect,2025-07-21
+O011066,16/07/2025,Eastern Cape,Store,Tools,1,182.90,18290,0,Delivered,Collect,2025-07-17
+O011067,16/07/2025,Free State,Web,Paint,4,527.90,211160,0,Delivered,Road,2025-07-19
+O011068,17/07/2025,Eastern Cape,Web,Paint,2,856.90,171380,0,Delivered,Road,2025-07-21
+O011069,17/07/2025,Eastern Cape,Store,Hardware,2,45.90,9180,0,Delivered,Collect,2025-07-19
+O011070,17/07/2025,KwaZulu-Natal,Web,Electrical,6,927.90,556740,0,Delivered,Road,2025-07-21
+O011071,17/07/2025,KwaZulu-Natal,Web,Plumbing,5,865.90,432950,0,Delivered,Road,2025-07-22
+O011072,17/07/2025,Western Cape,Phone,Paint,3,934.90,280470,10,Delivered,Road,2025-07-21
+O011073,17/07/2025,Western Cape,Store,Electrical,1,950.90,95090,0,Cancelled,Collect,
+O011074,17/07/2025,Gauteng,Web,Hardware,3,29.90,8970,5,Delivered,Road,2025-07-18
+O011075,17/07/2025,Free State,Store,Garden,4,533.90,213560,0,Returned,Collect,
+O011076,17/07/2025,Gauteng,Phone,Hardware,6,266.90,160140,0,Delivered,Road,2025-07-22
+O011077,17/07/2025,Eastern Cape,Phone,Garden,3,693.90,208170,0,Delivered,Road,2025-07-19
+O011078,17/07/2025,Western Cape,Web,Hardware,5,374.90,187450,0,Delivered,Air,2025-07-22
+O011079,17/07/2025,Western Cape,Phone,Electrical,2,1000.90,200180,5,Delivered,Road,2025-07-18
+O011080,17/07/2025,Gauteng,Store,Hardware,2,251.90,50380,5,Delivered,Collect,2025-07-19
+O011081,17/07/2025,Free State,Phone,Electrical,1,1710.90,171090,0,Delivered,Road,2025-07-21
+O011082,17/07/2025,Gauteng,Store,Hardware,1,81.90,8190,5,Delivered,Collect,2025-07-19
+O011083,17/07/2025,Free State,Phone,Electrical,1,1446.90,144690,5,Delivered,Road,2025-07-19
+O011084,17/07/2025,KwaZulu-Natal,Phone,Hardware,2,200.90,40180,0,Delivered,Road,2025-07-18
+O011085,17/07/2025,Gauteng,Web,Electrical,2,1074.90,214980,0,Delivered,Road,2025-07-19
+O011086,17/07/2025,Eastern Cape,Phone,Paint,2,987.90,197580,0,Delivered,Air,2025-07-20
+O011087,17/07/2025,Western Cape,Web,Paint,2,237.90,47580,0,Delivered,Air,2025-07-21
+O011088,17/07/2025,Gauteng,Store,Hardware,5,53.90,26950,15,Delivered,Collect,2025-07-21
+O011089,17/07/2025,Western Cape,Web,Paint,5,388.90,194450,0,Delivered,Road,2025-07-18
+O011090,17/07/2025,Western Cape,App,Paint,2,754.90,150980,0,Delivered,Road,2025-07-18
+O011091,17/07/2025,Western Cape,Store,Hardware,2,23.90,4780,0,Delivered,Collect,2025-07-22
+O011092,17/07/2025,Gauteng,App,Paint,2,940.90,188180,0,Delivered,Road,2025-07-21
+O011093,17/07/2025,Gauteng,Web,Hardware,2,251.90,50380,0,Delivered,Road,2025-07-20
+O011094,17/07/2025,Free State,App,Paint,2,928.90,185780,0,Lost,Road,
+O011095,17/07/2025,KwaZulu-Natal,Store,Plumbing,2,472.90,94580,5,Delivered,Collect,2025-07-20
+O011096,17/07/2025,KwaZulu-Natal,Web,Plumbing,2,258.90,51780,0,Delivered,Road,2025-07-18
+O011097,17/07/2025,KwaZulu-Natal,Web,Garden,5,738.90,369450,10,Returned,Air,
+O011098,17/07/2025,Western Cape,Web,Paint,3,800.90,240270,10,Returned,Road,
+O011099,17/07/2025,Western Cape,Phone,Paint,6,1216.90,730140,0,Delivered,Road,2025-07-20
+O011100,17/07/2025,Free State,Web,Plumbing,4,133.90,53560,0,Delivered,Road,2025-07-21
+O011101,17/07/2025,Gauteng,Web,Garden,5,339.90,169950,0,Delivered,Road,2025-07-21
+O011102,17/07/2025,Gauteng,Store,Garden,1,302.90,30290,10,Delivered,Collect,2025-07-19
+O011103,17/07/2025,KwaZulu-Natal,Web,Electrical,3,210.90,63270,0,Delivered,Road,2025-07-20
+O011104,17/07/2025,KwaZulu-Natal,Store,Hardware,2,122.90,24580,10,Delivered,Collect,2025-07-22
+O011105,17/07/2025,Western Cape,Store,Paint,2,1001.90,200380,,Delivered,Collect,2025-07-20
+O011106,17/07/2025,Gauteng,Phone,Tools,4,1750.90,700360,0,Delivered,Air,2025-07-20
+O011107,17/07/2025,KwaZulu-Natal,Web,Garden,3,240.90,72270,0,Delivered,Road,2025-07-21
+O011108,17/07/2025,KwaZulu-Natal,Web,Plumbing,3,280.90,84270,15,Returned,Air,
+O011109,17/07/2025,KwaZulu-Natal,App,Hardware,5,394.90,197450,10,Delivered,Road,2025-07-18
+O011110,17/07/2025,KwaZulu-Natal,Store,Hardware,3,394.90,118470,0,Delivered,Collect,2025-07-22
+O011111,18/07/2025,KwaZulu-Natal,Phone,Plumbing,3,655.90,196770,10,Returned,Road,
+O011112,18/07/2025,KwaZulu-Natal,App,Hardware,3,284.90,85470,5,Delivered,Road,2025-07-23
+O011113,18/07/2025,KwaZulu-Natal,Web,Electrical,3,959.90,287970,0,Delivered,Road,2025-07-22
+O011114,18/07/2025,Eastern Cape,Web,Garden,3,518.90,155670,5,Delivered,Road,2025-07-19
+O011115,18/07/2025,KwaZulu-Natal,Web,Hardware,4,292.90,117160,15,Delivered,Air,2025-07-21
+O011116,18/07/2025,Western Cape,Web,Hardware,2,251.90,50380,5,Delivered,Air,2025-07-20
+O011117,18/07/2025,Western Cape,Web,Garden,2,48.90,9780,0,Delivered,Road,2025-07-22
+O011118,18/07/2025,Western Cape,App,Electrical,3,1072.90,321870,0,Delivered,Air,2025-07-23
+O011119,18/07/2025,Gauteng,Web,Tools,4,461.90,184760,15,Delivered,Road,2025-07-22
+O011120,18/07/2025,Western Cape,Store,Garden,1,464.90,46490,0,Delivered,Collect,2025-07-23
+O011121,18/07/2025,KwaZulu-Natal,Web,Garden,6,191.90,115140,10,Delivered,Road,2025-07-20
+O011122,18/07/2025,Gauteng,Phone,Plumbing,6,890.90,534540,0,Delivered,Road,2025-07-20
+O011123,18/07/2025,Free State,Phone,Hardware,2,235.90,47180,0,Delivered,Road,2025-07-19
+O011124,18/07/2025,Eastern Cape,Store,Plumbing,1,765.90,76590,0,Returned,Collect,
+O011125,18/07/2025,Gauteng,Phone,Hardware,1,230.90,23090,20,Delivered,Road,2025-07-23
+O011126,18/07/2025,Gauteng,Web,Electrical,2,462.90,92580,0,Returned,Road,
+O011127,18/07/2025,Gauteng,App,Tools,6,456.90,274140,10,Returned,Road,
+O011128,18/07/2025,Gauteng,Store,Hardware,3,131.90,39570,15,Delivered,Collect,2025-07-20
+O011129,18/07/2025,KwaZulu-Natal,Phone,Paint,4,943.90,377560,0,Delivered,Road,2025-07-20
+O011130,18/07/2025,KwaZulu-Natal,App,Electrical,2,232.90,46580,0,Delivered,Road,2025-07-23
+O011131,18/07/2025,Gauteng,Web,Electrical,2,834.90,166980,0,Delivered,Road,2025-07-19
+O011132,18/07/2025,Western Cape,Web,Plumbing,5,863.90,431950,0,Delivered,Road,2025-07-23
+O011133,18/07/2025,Western Cape,Web,Paint,1,392.90,39290,10,Delivered,Road,2025-07-20
+O011134,18/07/2025,Western Cape,Web,Electrical,3,490.90,147270,0,Delivered,Road,2025-07-20
+O011135,18/07/2025,Gauteng,Store,Electrical,3,1298.90,389670,0,Delivered,Collect,2025-07-20
+O011136,18/07/2025,Western Cape,Store,Garden,3,634.90,190470,0,Delivered,Collect,2025-07-21
+O011137,18/07/2025,Gauteng,Web,Hardware,2,253.90,50780,0,Delivered,Road,2025-07-21
+O011138,18/07/2025,Gauteng,Phone,Hardware,2,187.90,37580,5,Delivered,Air,2025-07-23
+O011139,18/07/2025,Gauteng,Store,Paint,4,581.90,232760,5,Delivered,Collect,2025-07-22
+O011140,18/07/2025,Western Cape,App,Hardware,3,351.90,105570,0,Delivered,Air,2025-07-21
+O011141,18/07/2025,KwaZulu-Natal,Web,Plumbing,5,692.90,346450,15,Returned,Road,
+O011142,18/07/2025,Free State,Web,Hardware,1,154.90,15490,5,Delivered,Road,2025-07-20
+O011143,18/07/2025,Gauteng,Web,Hardware,1,88.90,8890,0,Delivered,Road,2025-07-23
+O011144,18/07/2025,KwaZulu-Natal,Phone,Paint,3,1024.90,307470,0,Delivered,Road,2025-07-19
+O011145,18/07/2025,Gauteng,Store,Hardware,4,233.90,93560,0,Delivered,Collect,2025-07-20
+O011146,18/07/2025,Western Cape,Web,Plumbing,5,103.90,51950,0,Delivered,Road,2025-07-23
+O011147,18/07/2025,Western Cape,Phone,Paint,2,866.90,173380,0,Delivered,Road,2025-07-23
+O011148,18/07/2025,Western Cape,Phone,Electrical,3,1536.90,461070,0,Delivered,Road,2025-07-19
+O011149,18/07/2025,Gauteng,Web,Hardware,6,381.90,229140,5,Delivered,Air,2025-07-19
+O011150,18/07/2025,Western Cape,Web,Plumbing,6,526.90,316140,15,Delivered,Road,2025-07-22
+O011151,18/07/2025,Gauteng,Web,Paint,1,203.90,20390,0,Delivered,Air,2025-07-23
+O011152,18/07/2025,Gauteng,Web,Garden,4,79.90,31960,0,Delivered,Air,2025-07-22
+O011153,18/07/2025,Free State,Store,Plumbing,2,405.90,81180,0,Delivered,Collect,2025-07-22
+O011154,18/07/2025,Gauteng,Store,Hardware,1,84.90,8490,0,Delivered,Collect,2025-07-20
+O011155,18/07/2025,Gauteng,Store,Garden,4,125.90,50360,10,Delivered,Collect,2025-07-23
+O011156,18/07/2025,Western Cape,Store,Electrical,3,198.90,59670,15,Delivered,Collect,2025-07-19
+O011157,18/07/2025,KwaZulu-Natal,Phone,Paint,3,1328.90,398670,10,Delivered,Road,2025-07-23
+O011158,18/07/2025,Free State,App,Hardware,2,59.90,11980,0,Delivered,Road,2025-07-20
+O011159,18/07/2025,KwaZulu-Natal,Store,Paint,2,1031.90,206380,0,Delivered,Collect,2025-07-23
+O011160,19/07/2025,Gauteng,Web,Electrical,1,536.90,53690,0,Cancelled,Air,
+O011161,19/07/2025,Gauteng,Phone,Paint,2,384.90,76980,5,Delivered,Road,2025-07-23
+O011162,19/07/2025,KwaZulu-Natal,Web,Plumbing,3,507.90,152370,5,Delivered,Road,2025-07-23
+O011163,19/07/2025,KwaZulu-Natal,Web,Electrical,2,554.90,110980,15,Delivered,Road,2025-07-23
+O011164,19/07/2025,KwaZulu-Natal,Store,Garden,4,898.90,359560,0,Delivered,Collect,2025-07-22
+O011165,19/07/2025,Gauteng,Phone,Garden,4,839.90,335960,10,Returned,Road,
+O011166,19/07/2025,Gauteng,Web,Hardware,4,375.90,150360,0,Delivered,Road,2025-07-22
+O011167,19/07/2025,Gauteng,Store,Paint,6,239.90,143940,0,Delivered,Collect,2025-07-22
+O011168,19/07/2025,Gauteng,Web,Hardware,2,132.90,26580,10,Delivered,Road,2025-07-20
+O011169,19/07/2025,Western Cape,Store,Paint,1,1085.90,108590,10,Delivered,Collect,2025-07-23
+O011170,19/07/2025,Gauteng,Phone,Hardware,3,101.90,30570,10,Delivered,Road,2025-07-23
+O011171,19/07/2025,Gauteng,Web,Paint,2,430.90,86180,0,Delivered,Road,2025-07-20
+O011172,19/07/2025,Western Cape,Phone,Electrical,6,1103.90,662340,15,Delivered,Road,2025-07-21
+O011173,19/07/2025,KwaZulu-Natal,Store,Paint,2,1279.90,255980,0,Delivered,Collect,2025-07-23
+O011174,19/07/2025,Gauteng,Store,Garden,6,71.90,43140,0,Delivered,Collect,2025-07-23
+O011175,19/07/2025,Western Cape,Phone,Garden,1,349.90,34990,5,Delivered,Road,2025-07-20
+O011176,19/07/2025,Western Cape,Web,Tools,2,1936.90,387380,0,Delivered,Road,2025-07-24
+O011177,19/07/2025,Eastern Cape,Web,Paint,1,107.90,10790,5,Delivered,Road,2025-07-21
+O011178,19/07/2025,Western Cape,Store,Paint,1,1080.90,108090,5,Delivered,Collect,2025-07-22
+O011179,19/07/2025,Gauteng,Phone,Paint,2,1097.90,219580,15,Delivered,Road,2025-07-23
+O011180,19/07/2025,Eastern Cape,Web,Garden,5,620.90,310450,20,Delivered,Air,2025-07-20
+O011181,19/07/2025,KwaZulu-Natal,Web,Hardware,1,80.90,8090,10,Returned,Road,
+O011182,19/07/2025,KwaZulu-Natal,Store,Paint,6,258.90,155340,20,Delivered,Collect,2025-07-21
+O011183,19/07/2025,KwaZulu-Natal,Phone,Paint,2,1124.90,224980,0,Delivered,Road,2025-07-23
+O011184,19/07/2025,Free State,Store,Plumbing,3,693.90,208170,0,Delivered,Collect,2025-07-20
+O011185,19/07/2025,Eastern Cape,Store,Plumbing,3,820.90,246270,0,Delivered,Collect,2025-07-23
+O011186,19/07/2025,Free State,App,Plumbing,1,446.90,44690,0,Returned,Road,
+O011187,19/07/2025,KwaZulu-Natal,Web,Paint,1,1155.90,115590,0,Delivered,Road,2025-07-21
+O011188,19/07/2025,Free State,Store,Garden,2,274.90,54980,5,Delivered,Collect,2025-07-23
+O011189,19/07/2025,Western Cape,Phone,Paint,1,200.90,20090,0,Delivered,Road,2025-07-22
+O011190,19/07/2025,Western Cape,Phone,Electrical,5,1007.90,503950,,Delivered,Road,2025-07-21
+O011191,19/07/2025,KwaZulu-Natal,Web,Hardware,2,33.90,6780,5,Delivered,Air,2025-07-22
+O011192,19/07/2025,Free State,Phone,Garden,2,770.90,154180,0,Delivered,Road,2025-07-23
+O011193,19/07/2025,Gauteng,Web,Paint,1,311.90,31190,0,Delivered,Road,2025-07-24
+O011194,19/07/2025,KwaZulu-Natal,Store,Paint,3,962.90,288870,0,Delivered,Collect,2025-07-24
+O011195,19/07/2025,Western Cape,Phone,Hardware,2,31.90,6380,0,Cancelled,Road,
+O011196,19/07/2025,Gauteng,App,Garden,4,767.90,307160,0,Delivered,Road,2025-07-23
+O011197,19/07/2025,Western Cape,Phone,Electrical,2,1389.90,277980,15,Delivered,Road,2025-07-20
+O011198,19/07/2025,Gauteng,App,Electrical,1,1247.90,124790,0,Delivered,Road,2025-07-23
+O011199,19/07/2025,Gauteng,Store,Garden,4,118.90,47560,5,Delivered,Collect,2025-07-23
+O011200,19/07/2025,Gauteng,Phone,Hardware,5,316.90,158450,5,Delivered,Road,2025-07-23
+O011201,19/07/2025,Gauteng,Web,Garden,2,477.90,95580,0,Delivered,Road,2025-07-22
+O011202,19/07/2025,Western Cape,Phone,Hardware,4,195.90,78360,0,Delivered,Road,2025-07-20
+O011203,19/07/2025,KwaZulu-Natal,Web,Plumbing,2,824.90,164980,10,Delivered,Road,2025-07-21
+O011204,19/07/2025,Western Cape,Store,Hardware,3,102.90,30870,0,Delivered,Collect,2025-07-22
+O011205,20/07/2025,Gauteng,Phone,Hardware,3,25.90,7770,0,Delivered,Air,2025-07-22
+O011206,20/07/2025,Eastern Cape,Store,Garden,4,519.90,207960,0,Delivered,Collect,2025-07-25
+O011207,20/07/2025,Western Cape,Store,Hardware,1,395.90,39590,5,Delivered,Collect,2025-07-25
+O011208,20/07/2025,Eastern Cape,Web,Tools,2,3028.90,605780,0,Delivered,Road,2025-07-23
+O011209,20/07/2025,Western Cape,Web,Paint,6,1155.90,693540,15,Delivered,Road,2025-07-23
+O011210,20/07/2025,Western Cape,Web,Hardware,6,257.90,154740,10,Delivered,Road,2025-07-25
+O011211,20/07/2025,Western Cape,Store,Plumbing,6,782.90,469740,15,Delivered,Collect,2025-07-25
+O011212,20/07/2025,Western Cape,Phone,Hardware,5,116.90,58450,0,Delivered,Air,2025-07-24
+O011213,20/07/2025,Eastern Cape,Store,Paint,1,122.90,12290,0,Delivered,Collect,2025-07-23
+O011214,20/07/2025,KwaZulu-Natal,App,Tools,6,190.90,114540,0,Delivered,Road,2025-07-22
+O011215,20/07/2025,KwaZulu-Natal,Store,Electrical,5,823.90,411950,0,Delivered,Collect,2025-07-25
+O011216,20/07/2025,Free State,Web,Paint,1,93.90,9390,5,Delivered,Road,2025-07-21
+O011217,20/07/2025,Free State,Web,Plumbing,1,128.90,12890,5,Delivered,Air,2025-07-21
+O011218,20/07/2025,Eastern Cape,Phone,Garden,1,702.90,70290,10,Delivered,Air,2025-07-24
+O011219,20/07/2025,KwaZulu-Natal,Web,Electrical,1,352.90,35290,5,Cancelled,Road,
+O011220,20/07/2025,Gauteng,Web,Hardware,4,66.90,26760,0,Delivered,Road,2025-07-23
+O011221,20/07/2025,Free State,Web,Paint,5,563.90,281950,0,Delivered,Road,2025-07-23
+O011222,20/07/2025,KwaZulu-Natal,Web,Hardware,5,179.90,89950,0,Delivered,Road,2025-07-21
+O011223,20/07/2025,Western Cape,Store,Hardware,3,198.90,59670,5,Delivered,Collect,2025-07-25
+O011224,20/07/2025,Gauteng,Web,Hardware,1,73.90,7390,0,Delivered,Road,2025-07-24
+O011225,20/07/2025,Gauteng,Web,Garden,3,49.90,14970,0,Delivered,Road,2025-07-21
+O011226,20/07/2025,Gauteng,Web,Hardware,1,245.90,24590,0,Delivered,Road,2025-07-23
+O011227,20/07/2025,Gauteng,Web,Electrical,6,332.90,199740,0,Delivered,Road,2025-07-25
+O011228,20/07/2025,Gauteng,Web,Plumbing,2,171.90,34380,0,Delivered,Road,2025-07-23
+O011229,20/07/2025,Eastern Cape,Web,Plumbing,1,477.90,47790,0,Delivered,Air,2025-07-21
+O011230,20/07/2025,KwaZulu-Natal,Web,Electrical,1,1243.90,124390,0,Delivered,Road,2025-07-24
+O011231,20/07/2025,Western Cape,Phone,Hardware,3,20.90,6270,10,Delivered,Road,2025-07-24
+O011232,20/07/2025,KwaZulu-Natal,Web,Hardware,4,314.90,125960,5,Delivered,Air,2025-07-24
+O011233,20/07/2025,Gauteng,Web,Garden,2,359.90,71980,0,Delivered,Road,2025-07-25
+O011234,20/07/2025,Western Cape,App,Paint,2,388.90,77780,0,Delivered,Road,2025-07-21
+O011235,20/07/2025,KwaZulu-Natal,Phone,Hardware,2,347.90,69580,5,Delivered,Air,2025-07-24
+O011236,20/07/2025,KwaZulu-Natal,Store,Garden,1,244.90,24490,5,Delivered,Collect,2025-07-24
+O011237,20/07/2025,KwaZulu-Natal,Web,Garden,2,860.90,172180,0,Cancelled,Road,
+O011238,20/07/2025,Eastern Cape,Store,Hardware,3,76.90,23070,10,Delivered,Collect,2025-07-25
+O011239,20/07/2025,Western Cape,Store,Plumbing,2,730.90,146180,0,Delivered,Collect,2025-07-22
+O011240,20/07/2025,Gauteng,Web,Hardware,1,21.90,2190,0,Delivered,Road,2025-07-21
+O011241,20/07/2025,Western Cape,Phone,Hardware,3,298.90,89670,10,Delivered,Road,2025-07-22
+O011242,20/07/2025,Western Cape,Phone,Garden,3,336.90,101070,5,Delivered,Road,2025-07-23
+O011243,20/07/2025,Free State,App,Garden,4,812.90,325160,0,Delivered,Road,2025-07-24
+O011244,20/07/2025,Gauteng,Web,Hardware,6,36.90,22140,0,Delivered,Road,2025-07-23
+O011245,20/07/2025,Western Cape,Store,Hardware,4,270.90,108360,10,Delivered,Collect,2025-07-24
+O011246,20/07/2025,KwaZulu-Natal,App,Electrical,2,947.90,189580,0,Delivered,Road,2025-07-22
+O011247,20/07/2025,Gauteng,Phone,Tools,4,950.90,380360,0,Delivered,Road,2025-07-22
+O011248,20/07/2025,KwaZulu-Natal,Store,Hardware,4,234.90,93960,0,Returned,Collect,
+O011249,21/07/2025,Eastern Cape,Store,Paint,3,855.90,256770,0,Delivered,Collect,2025-07-25
+O011250,21/07/2025,Western Cape,Store,Garden,5,668.90,334450,10,Delivered,Collect,2025-07-22
+O011251,21/07/2025,Western Cape,Web,Plumbing,3,136.90,41070,10,Returned,Road,
+O011252,21/07/2025,Gauteng,Web,Garden,2,685.90,137180,0,Delivered,Road,2025-07-22
+O011253,21/07/2025,Western Cape,App,Hardware,2,366.90,73380,5,Delivered,Road,2025-07-25
+O011254,21/07/2025,Gauteng,Web,Hardware,5,316.90,158450,5,Delivered,Road,2025-07-24
+O011255,21/07/2025,Western Cape,Web,Plumbing,1,472.90,47290,0,Returned,Road,
+O011256,21/07/2025,Western Cape,Web,Paint,1,1239.90,123990,0,Delivered,Air,2025-07-25
+O011257,21/07/2025,Western Cape,Store,Garden,1,793.90,79390,0,Delivered,Collect,2025-07-26
+O011258,21/07/2025,Western Cape,Phone,Paint,4,1209.90,483960,,Delivered,Road,2025-07-25
+O011259,21/07/2025,KwaZulu-Natal,Store,Hardware,3,293.90,88170,0,Delivered,Collect,2025-07-26
+O011260,21/07/2025,Western Cape,Store,Garden,2,440.90,88180,0,Delivered,Collect,2025-07-23
+O011261,21/07/2025,Western Cape,Store,Garden,3,798.90,239670,20,Delivered,Collect,2025-07-25
+O011262,21/07/2025,Eastern Cape,Web,Garden,3,893.90,268170,0,Delivered,Road,2025-07-22
+O011263,21/07/2025,Western Cape,Store,Paint,2,194.90,38980,0,Delivered,Collect,2025-07-25
+O011264,21/07/2025,Eastern Cape,Store,Electrical,6,211.90,127140,10,Delivered,Collect,2025-07-22
+O011265,21/07/2025,Gauteng,App,Garden,2,627.90,125580,0,Returned,Road,
+O011266,21/07/2025,Gauteng,Web,Hardware,3,134.90,40470,0,Delivered,Road,2025-07-26
+O011267,21/07/2025,Gauteng,Web,Paint,1,1392.90,139290,0,Delivered,Road,2025-07-26
+O011268,21/07/2025,KwaZulu-Natal,Web,Electrical,4,225.90,90360,0,Delivered,Road,2025-07-23
+O011269,21/07/2025,Gauteng,Web,Hardware,2,243.90,48780,0,Delivered,Air,2025-07-25
+O011270,21/07/2025,Gauteng,Web,Tools,6,1236.90,742140,5,Cancelled,Road,
+O011271,21/07/2025,Western Cape,Phone,Hardware,5,153.90,76950,5,Delivered,Road,2025-07-25
+O011272,21/07/2025,Gauteng,Store,Paint,1,787.90,78790,0,Delivered,Collect,2025-07-22
+O011273,21/07/2025,Eastern Cape,Web,Electrical,3,120.90,36270,0,Delivered,Road,2025-07-26
+O011274,21/07/2025,KwaZulu-Natal,Store,Tools,1,914.90,91490,10,Returned,Collect,
+O011275,21/07/2025,Eastern Cape,App,Plumbing,4,782.90,313160,0,Delivered,Road,2025-07-24
+O011276,21/07/2025,Western Cape,Store,Electrical,6,750.90,450540,0,Delivered,Collect,2025-07-23
+O011277,21/07/2025,Gauteng,Store,Tools,3,913.90,274170,0,Delivered,Collect,2025-07-23
+O011278,21/07/2025,Gauteng,Web,Paint,3,131.90,39570,0,Delivered,Road,2025-07-25
+O011279,21/07/2025,KwaZulu-Natal,Phone,Electrical,4,1445.90,578360,5,Delivered,Air,2025-07-24
+O011280,21/07/2025,Eastern Cape,Web,Plumbing,3,260.90,78270,0,Delivered,Road,2025-07-23
+O011281,21/07/2025,Gauteng,Store,Electrical,3,119.90,35970,0,Delivered,Collect,2025-07-23
+O011282,21/07/2025,Western Cape,Phone,Tools,6,2759.90,1655940,5,Delivered,Road,2025-07-26
+O011283,21/07/2025,Gauteng,Web,Plumbing,1,370.90,37090,10,Delivered,Air,2025-07-26
+O011284,21/07/2025,KwaZulu-Natal,Web,Garden,3,767.90,230370,0,Delivered,Air,2025-07-24
+O011285,21/07/2025,Western Cape,Web,Garden,2,228.90,45780,0,Delivered,Road,2025-07-25
+O011286,21/07/2025,Gauteng,App,Plumbing,2,338.90,67780,0,Delivered,Road,2025-07-22
+O011287,21/07/2025,Western Cape,Store,Tools,2,1615.90,323180,10,Delivered,Collect,2025-07-22
+O011288,21/07/2025,Eastern Cape,Store,Tools,2,2688.90,537780,0,Returned,Collect,
+O011289,21/07/2025,Eastern Cape,App,Garden,1,854.90,85490,15,Delivered,Air,2025-07-24
+O011290,21/07/2025,KwaZulu-Natal,Store,Hardware,4,332.90,133160,0,Delivered,Collect,2025-07-23
+O011291,21/07/2025,Free State,Web,Hardware,6,282.90,169740,10,Delivered,Road,2025-07-26
+O011292,21/07/2025,KwaZulu-Natal,Web,Paint,2,1107.90,221580,0,Delivered,Road,2025-07-24
+O011293,21/07/2025,Gauteng,Store,Hardware,6,95.90,57540,0,Delivered,Collect,2025-07-24
+O011294,21/07/2025,KwaZulu-Natal,Phone,Tools,1,884.90,88490,0,Delivered,Road,2025-07-25
+O011295,21/07/2025,Gauteng,App,Garden,1,676.90,67690,10,Delivered,Road,2025-07-24
+O011296,21/07/2025,KwaZulu-Natal,Web,Garden,2,821.90,164380,10,Delivered,Road,2025-07-22
+O011297,21/07/2025,KwaZulu-Natal,Phone,Garden,4,767.90,307160,0,Cancelled,Road,
+O011298,21/07/2025,Gauteng,Web,Paint,3,1192.90,357870,0,Delivered,Road,2025-07-25
+O011299,21/07/2025,Free State,Web,Paint,2,1026.90,205380,5,Delivered,Road,2025-07-23
+O011300,21/07/2025,Gauteng,Store,Garden,2,420.90,84180,0,Delivered,Collect,2025-07-24
+O011301,21/07/2025,Eastern Cape,Web,Electrical,3,1594.90,478470,0,Delivered,Road,2025-07-24
+O011302,21/07/2025,Gauteng,Web,Paint,5,779.90,389950,10,Delivered,Road,2025-07-24
+O011303,21/07/2025,Eastern Cape,Web,Hardware,6,132.90,79740,0,Delivered,Road,2025-07-26
+O011304,22/07/2025,Gauteng,Web,Hardware,1,55.90,5590,0,Delivered,Road,2025-07-27
+O011305,22/07/2025,KwaZulu-Natal,Phone,Electrical,5,1381.90,690950,10,Delivered,Road,2025-07-23
+O011306,22/07/2025,Gauteng,Web,Hardware,3,29.90,8970,0,Delivered,Road,2025-07-24
+O011307,22/07/2025,Gauteng,App,Garden,2,151.90,30380,0,Delivered,Air,2025-07-23
+O011308,22/07/2025,Western Cape,Web,Hardware,2,184.90,36980,0,Lost,Air,
+O011309,22/07/2025,Western Cape,App,Electrical,2,1280.90,256180,0,Delivered,Road,2025-07-26
+O011310,22/07/2025,Eastern Cape,Web,Paint,3,295.90,88770,0,Delivered,Road,2025-07-23
+O011311,22/07/2025,Gauteng,App,Hardware,5,34.90,17450,5,Delivered,Road,2025-07-25
+O011312,22/07/2025,KwaZulu-Natal,Store,Hardware,3,138.90,41670,0,Delivered,Collect,2025-07-23
+O011313,22/07/2025,Western Cape,Web,Hardware,5,266.90,133450,0,Delivered,Road,2025-07-27
+O011314,22/07/2025,Gauteng,Store,Electrical,1,641.90,64190,5,Delivered,Collect,2025-07-24
+O011315,22/07/2025,Eastern Cape,Web,Electrical,5,1703.90,851950,10,Delivered,Road,2025-07-23
+O011316,22/07/2025,KwaZulu-Natal,Web,Electrical,3,550.90,165270,0,Delivered,Air,2025-07-23
+O011317,22/07/2025,Western Cape,Phone,Paint,3,536.90,161070,0,Delivered,Road,2025-07-24
+O011318,22/07/2025,KwaZulu-Natal,Store,Plumbing,2,490.90,98180,5,Delivered,Collect,2025-07-27
+O011319,22/07/2025,Gauteng,Web,Hardware,2,283.90,56780,5,Delivered,Road,2025-07-25
+O011320,22/07/2025,KwaZulu-Natal,Web,Plumbing,6,326.90,196140,0,Delivered,Road,2025-07-27
+O011321,22/07/2025,Gauteng,Store,Tools,2,1931.90,386380,0,Delivered,Collect,2025-07-23
+O011322,22/07/2025,Free State,App,Hardware,2,377.90,75580,0,Delivered,Road,2025-07-26
+O011323,22/07/2025,KwaZulu-Natal,Web,Electrical,6,1354.90,812940,,Delivered,Road,2025-07-23
+O011324,22/07/2025,Gauteng,Phone,Hardware,3,61.90,18570,5,Delivered,Road,2025-07-25
+O011325,22/07/2025,Western Cape,Phone,Electrical,1,1773.90,177390,5,Delivered,Road,2025-07-27
+O011326,22/07/2025,Western Cape,Phone,Tools,2,626.90,125380,0,Delivered,Road,2025-07-23
+O011327,22/07/2025,KwaZulu-Natal,Store,Electrical,2,691.90,138380,0,Delivered,Collect,2025-07-23
+O011328,22/07/2025,Gauteng,Phone,Garden,5,880.90,440450,,Delivered,Air,2025-07-27
+O011329,22/07/2025,Western Cape,Web,Electrical,6,1087.90,652740,0,Delivered,Road,2025-07-27
+O011330,22/07/2025,Free State,Store,Hardware,1,201.90,20190,0,Delivered,Collect,2025-07-23
+O011331,22/07/2025,Gauteng,Web,Tools,2,3168.90,633780,5,Delivered,Road,2025-07-23
+O011332,22/07/2025,KwaZulu-Natal,Web,Hardware,1,380.90,38090,5,Delivered,Road,2025-07-27
+O011333,22/07/2025,Gauteng,Phone,Electrical,3,1209.90,362970,0,Delivered,Road,2025-07-24
+O011334,22/07/2025,Gauteng,Web,Garden,3,536.90,161070,0,Delivered,Road,2025-07-25
+O011335,22/07/2025,Western Cape,Store,Paint,6,804.90,482940,10,Cancelled,Collect,
+O011336,22/07/2025,KwaZulu-Natal,App,Garden,6,473.90,284340,0,Cancelled,Road,
+O011337,22/07/2025,Gauteng,App,Electrical,1,414.90,41490,0,Delivered,Road,2025-07-25
+O011338,22/07/2025,Gauteng,Web,Garden,1,434.90,43490,10,Delivered,Road,2025-07-24
+O011339,22/07/2025,KwaZulu-Natal,Web,Garden,2,412.90,82580,0,Delivered,Road,2025-07-24
+O011340,22/07/2025,Western Cape,App,Hardware,5,193.90,96950,0,Delivered,Road,2025-07-25
+O011341,22/07/2025,Eastern Cape,Web,Paint,6,1134.90,680940,5,Delivered,Road,2025-07-24
+O011342,22/07/2025,Western Cape,Web,Paint,3,1072.90,321870,0,Delivered,Road,2025-07-26
+O011343,22/07/2025,KwaZulu-Natal,Phone,Plumbing,3,188.90,56670,10,Returned,Road,
+O011344,22/07/2025,Western Cape,App,Electrical,1,354.90,35490,0,Returned,Road,
+O011345,22/07/2025,KwaZulu-Natal,Phone,Paint,1,977.90,97790,0,Delivered,Road,2025-07-27
+O011346,22/07/2025,Western Cape,Store,Garden,6,883.90,530340,0,Delivered,Collect,2025-07-27
+O011347,22/07/2025,KwaZulu-Natal,Web,Tools,4,799.90,319960,10,Delivered,Road,2025-07-27
+O011348,23/07/2025,Free State,Phone,Electrical,4,1559.90,623960,5,Delivered,Air,2025-07-25
+O011349,23/07/2025,Western Cape,Store,Electrical,6,979.90,587940,5,Delivered,Collect,2025-07-28
+O011350,23/07/2025,Gauteng,Web,Hardware,2,279.90,55980,0,Delivered,Road,2025-07-28
+O011351,23/07/2025,Eastern Cape,Phone,Hardware,2,157.90,31580,0,Delivered,Road,2025-07-25
+O011352,23/07/2025,Gauteng,Store,Tools,3,2968.90,890670,5,Cancelled,Collect,
+O011353,23/07/2025,KwaZulu-Natal,Store,Plumbing,1,668.90,66890,5,Delivered,Collect,2025-07-27
+O011354,23/07/2025,Western Cape,Store,Paint,2,431.90,86380,0,Delivered,Collect,2025-07-24
+O011355,23/07/2025,Gauteng,Store,Hardware,6,305.90,183540,0,Delivered,Collect,2025-07-27
+O011356,23/07/2025,Gauteng,Phone,Garden,6,798.90,479340,15,Delivered,Air,2025-07-25
+O011357,23/07/2025,Gauteng,Phone,Garden,1,828.90,82890,0,Delivered,Air,2025-07-24
+O011358,23/07/2025,Western Cape,Web,Garden,4,787.90,315160,0,Delivered,Road,2025-07-25
+O011359,23/07/2025,Free State,Store,Hardware,5,79.90,39950,0,Delivered,Collect,2025-07-24
+O011360,23/07/2025,Gauteng,Store,Garden,3,619.90,185970,5,Delivered,Collect,2025-07-24
+O011361,23/07/2025,Gauteng,Web,Paint,2,1085.90,217180,0,Delivered,Road,2025-07-26
+O011362,23/07/2025,Western Cape,Web,Hardware,1,158.90,15890,0,Delivered,Road,2025-07-26
+O011363,23/07/2025,Free State,Store,Garden,1,152.90,15290,10,Delivered,Collect,2025-07-26
+O011364,23/07/2025,Eastern Cape,Web,Tools,6,2607.90,1564740,10,Delivered,Road,2025-07-25
+O011365,23/07/2025,KwaZulu-Natal,Phone,Hardware,1,87.90,8790,10,Returned,Road,
+O011366,23/07/2025,Eastern Cape,Store,Electrical,2,326.90,65380,0,Delivered,Collect,2025-07-28
+O011367,23/07/2025,Gauteng,App,Electrical,1,132.90,13290,0,Delivered,Road,2025-07-24
+O011368,23/07/2025,Eastern Cape,Store,Garden,2,233.90,46780,0,Cancelled,Collect,
+O011369,23/07/2025,Gauteng,Web,Garden,6,644.90,386940,0,Delivered,Road,2025-07-24
+O011370,23/07/2025,Gauteng,Phone,Garden,3,669.90,200970,5,Delivered,Road,2025-07-27
+O011371,23/07/2025,Gauteng,Store,Hardware,3,53.90,16170,0,Delivered,Collect,2025-07-25
+O011372,23/07/2025,Gauteng,Web,Electrical,5,729.90,364950,,Delivered,Road,2025-07-25
+O011373,23/07/2025,Gauteng,Phone,Electrical,3,1027.90,308370,0,Delivered,Road,2025-07-25
+O011374,23/07/2025,Gauteng,Phone,Electrical,4,616.90,246760,0,Delivered,Road,2025-07-28
+O011375,23/07/2025,Gauteng,Web,Garden,3,270.90,81270,0,Cancelled,Road,
+O011376,23/07/2025,KwaZulu-Natal,Web,Paint,3,767.90,230370,5,Delivered,Air,2025-07-27
+O011377,23/07/2025,Western Cape,Store,Plumbing,5,213.90,106950,0,Delivered,Collect,2025-07-27
+O011378,23/07/2025,KwaZulu-Natal,Web,Electrical,1,1354.90,135490,,Delivered,Road,2025-07-24
+O011379,23/07/2025,KwaZulu-Natal,App,Tools,1,2867.90,286790,0,Delivered,Road,2025-07-25
+O011380,23/07/2025,Western Cape,Web,Paint,1,982.90,98290,0,Delivered,Road,2025-07-27
+O011381,23/07/2025,Western Cape,Web,Electrical,2,537.90,107580,15,Delivered,Road,2025-07-25
+O011382,23/07/2025,KwaZulu-Natal,Web,Paint,5,1141.90,570950,5,Returned,Road,
+O011383,23/07/2025,Western Cape,Store,Electrical,4,1480.90,592360,0,Delivered,Collect,2025-07-24
+O011384,23/07/2025,Western Cape,Phone,Hardware,3,359.90,107970,,Delivered,Road,2025-07-27
+O011385,23/07/2025,Western Cape,Phone,Hardware,6,282.90,169740,20,Delivered,Road,2025-07-27
+O011386,23/07/2025,Western Cape,Store,Hardware,2,150.90,30180,5,Delivered,Collect,2025-07-24
+O011387,23/07/2025,Western Cape,Phone,Hardware,1,310.90,31090,0,Delivered,Road,2025-07-25
+O011388,23/07/2025,KwaZulu-Natal,Web,Hardware,1,133.90,13390,10,Delivered,Road,2025-07-27
+O011389,23/07/2025,Gauteng,Phone,Paint,1,279.90,27990,10,Delivered,Air,2025-07-28
+O011390,23/07/2025,Western Cape,Store,Paint,4,783.90,313560,0,Delivered,Collect,2025-07-25
+O011391,23/07/2025,Western Cape,Phone,Hardware,1,110.90,11090,20,Delivered,Road,2025-07-28
+O011392,23/07/2025,Eastern Cape,Store,Paint,2,518.90,103780,0,Delivered,Collect,2025-07-27
+O011393,23/07/2025,Gauteng,Web,Garden,2,258.90,51780,0,Delivered,Road,2025-07-24
+O011394,23/07/2025,Gauteng,Store,Hardware,3,104.90,31470,0,Delivered,Collect,2025-07-27
+O011395,23/07/2025,KwaZulu-Natal,Phone,Electrical,1,645.90,64590,0,Delivered,Road,2025-07-24
+O011396,23/07/2025,Eastern Cape,Store,Paint,1,857.90,85790,5,Delivered,Collect,2025-07-28
+O011397,23/07/2025,KwaZulu-Natal,Store,Garden,4,107.90,43160,,Delivered,Collect,2025-07-24
+O011398,23/07/2025,KwaZulu-Natal,Phone,Electrical,1,243.90,24390,0,Delivered,Road,2025-07-25
+O011399,23/07/2025,Gauteng,Web,Tools,4,1249.90,499960,5,Delivered,Road,2025-07-28
+O011400,23/07/2025,Gauteng,Store,Garden,1,716.90,71690,5,Delivered,Collect,2025-07-27
+O011401,23/07/2025,Western Cape,Web,Hardware,2,312.90,62580,10,Delivered,Air,2025-07-26
+O011402,24/07/2025,Free State,Phone,Paint,5,1045.90,522950,0,Delivered,Road,2025-07-27
+O011403,24/07/2025,KwaZulu-Natal,Store,Hardware,3,241.90,72570,5,Delivered,Collect,2025-07-27
+O011404,24/07/2025,Western Cape,Web,Garden,3,549.90,164970,0,Delivered,Road,2025-07-25
+O011405,24/07/2025,Western Cape,Web,Paint,2,1191.90,238380,0,Delivered,Road,2025-07-25
+O011406,24/07/2025,Gauteng,Phone,Electrical,1,95.90,9590,0,Delivered,Road,2025-07-25
+O011407,24/07/2025,Gauteng,Web,Hardware,5,346.90,173450,5,Delivered,Air,2025-07-25
+O011408,24/07/2025,Gauteng,Phone,Plumbing,5,291.90,145950,10,Delivered,Road,2025-07-28
+O011409,24/07/2025,KwaZulu-Natal,Web,Electrical,2,80.90,16180,10,Delivered,Road,2025-07-25
+O011410,24/07/2025,Gauteng,Web,Hardware,1,120.90,12090,15,Delivered,Road,2025-07-26
+O011411,24/07/2025,Gauteng,Web,Garden,1,836.90,83690,5,Returned,Air,
+O011412,24/07/2025,Gauteng,Web,Garden,3,833.90,250170,5,Delivered,Air,2025-07-26
+O011413,24/07/2025,Western Cape,Phone,Paint,3,212.90,63870,10,Delivered,Road,2025-07-29
+O011414,24/07/2025,Western Cape,Phone,Hardware,1,221.90,22190,0,Delivered,Road,2025-07-29
+O011415,24/07/2025,Gauteng,App,Electrical,6,1579.90,947940,10,Delivered,Road,2025-07-26
+O011416,24/07/2025,Gauteng,Store,Paint,1,349.90,34990,0,Delivered,Collect,2025-07-26
+O011417,24/07/2025,Eastern Cape,Web,Paint,2,503.90,100780,10,Delivered,Air,2025-07-29
+O011418,24/07/2025,KwaZulu-Natal,Web,Garden,2,744.90,148980,0,Delivered,Road,2025-07-25
+O011419,24/07/2025,Gauteng,Web,Garden,1,736.90,73690,10,Delivered,Road,2025-07-26
+O011420,24/07/2025,KwaZulu-Natal,Store,Electrical,6,554.90,332940,10,Returned,Collect,
+O011421,24/07/2025,Western Cape,Web,Tools,3,3135.90,940770,0,Delivered,Air,2025-07-28
+O011422,24/07/2025,Gauteng,Store,Hardware,2,291.90,58380,0,Delivered,Collect,2025-07-26
+O011423,24/07/2025,Gauteng,App,Garden,3,359.90,107970,0,Delivered,Road,2025-07-28
+O011424,24/07/2025,KwaZulu-Natal,Phone,Garden,5,414.90,207450,0,Delivered,Road,2025-07-29
+O011425,24/07/2025,KwaZulu-Natal,Web,Paint,1,428.90,42890,0,Delivered,Road,2025-07-28
+O011426,24/07/2025,KwaZulu-Natal,Web,Electrical,1,1287.90,128790,10,Delivered,Road,2025-07-28
+O011427,24/07/2025,Eastern Cape,Store,Garden,4,884.90,353960,5,Cancelled,Collect,
+O011428,24/07/2025,Gauteng,Web,Hardware,3,282.90,84870,0,Delivered,Air,2025-07-26
+O011429,24/07/2025,Free State,Web,Hardware,1,311.90,31190,0,Delivered,Road,2025-07-27
+O011430,24/07/2025,Western Cape,Web,Hardware,5,103.90,51950,0,Delivered,Road,2025-07-27
+O011431,24/07/2025,Gauteng,Store,Garden,1,584.90,58490,0,Delivered,Collect,2025-07-26
+O011432,24/07/2025,Western Cape,Store,Tools,2,955.90,191180,10,Delivered,Collect,2025-07-27
+O011433,24/07/2025,Eastern Cape,Web,Garden,3,290.90,87270,5,Delivered,Road,2025-07-29
+O011434,24/07/2025,Western Cape,Store,Plumbing,3,374.90,112470,5,Returned,Collect,
+O011435,24/07/2025,Eastern Cape,Web,Tools,1,385.90,38590,15,Delivered,Road,2025-07-26
+O011436,24/07/2025,Western Cape,Store,Plumbing,2,292.90,58580,5,Delivered,Collect,2025-07-29
+O011437,24/07/2025,KwaZulu-Natal,Store,Electrical,4,59.90,23960,0,Delivered,Collect,2025-07-29
+O011438,24/07/2025,Gauteng,Store,Tools,2,2139.90,427980,0,Delivered,Collect,2025-07-25
+O011439,24/07/2025,KwaZulu-Natal,Phone,Hardware,4,155.90,62360,0,Delivered,Road,2025-07-29
+O011440,24/07/2025,KwaZulu-Natal,Web,Electrical,2,828.90,165780,10,Delivered,Road,2025-07-26
+O011441,24/07/2025,KwaZulu-Natal,Web,Electrical,2,789.90,157980,0,Delivered,Road,2025-07-29
+O011442,24/07/2025,Gauteng,Web,Tools,2,2532.90,506580,0,Delivered,Road,2025-07-28
+O011443,24/07/2025,Eastern Cape,App,Hardware,1,299.90,29990,,Delivered,Road,2025-07-29
+O011444,25/07/2025,Western Cape,Web,Garden,2,704.90,140980,10,Delivered,Air,2025-07-28
+O011445,25/07/2025,Western Cape,Phone,Electrical,2,1539.90,307980,0,Delivered,Road,2025-07-29
+O011446,25/07/2025,Western Cape,Web,Paint,1,298.90,29890,5,Delivered,Road,2025-07-30
+O011447,25/07/2025,Free State,Store,Garden,6,474.90,284940,0,Delivered,Collect,2025-07-29
+O011448,25/07/2025,KwaZulu-Natal,Store,Electrical,1,478.90,47890,5,Delivered,Collect,2025-07-30
+O011449,25/07/2025,Free State,Store,Hardware,3,358.90,107670,10,Delivered,Collect,2025-07-30
+O011450,25/07/2025,Eastern Cape,Store,Garden,4,524.90,209960,10,Delivered,Collect,2025-07-30
+O011451,25/07/2025,Gauteng,Store,Garden,4,73.90,29560,0,Delivered,Collect,2025-07-28
+O011452,25/07/2025,Gauteng,Phone,Paint,4,877.90,351160,0,Delivered,Road,2025-07-29
+O011453,25/07/2025,Eastern Cape,Phone,Plumbing,1,504.90,50490,0,Delivered,Road,2025-07-29
+O011454,25/07/2025,KwaZulu-Natal,App,Garden,4,571.90,228760,0,Delivered,Air,2025-07-29
+O011455,25/07/2025,Gauteng,Web,Garden,5,397.90,198950,0,Delivered,Air,2025-07-30
+O011456,25/07/2025,Gauteng,Phone,Plumbing,1,339.90,33990,0,Delivered,Road,2025-07-26
+O011457,25/07/2025,KwaZulu-Natal,Phone,Plumbing,2,102.90,20580,0,Delivered,Road,2025-07-30
+O011458,25/07/2025,KwaZulu-Natal,Store,Garden,1,699.90,69990,0,Delivered,Collect,2025-07-30
+O011459,25/07/2025,Gauteng,Web,Garden,1,883.90,88390,0,Delivered,Road,2025-07-28
+O011460,25/07/2025,Gauteng,Store,Electrical,3,451.90,135570,10,Delivered,Collect,2025-07-30
+O011461,25/07/2025,Eastern Cape,App,Electrical,1,747.90,74790,0,Delivered,Road,2025-07-29
+O011462,25/07/2025,KwaZulu-Natal,Store,Electrical,3,359.90,107970,5,Delivered,Collect,2025-07-28
+O011463,25/07/2025,Western Cape,Web,Tools,4,194.90,77960,10,Delivered,Road,2025-07-28
+O011464,25/07/2025,KwaZulu-Natal,Store,Paint,6,1005.90,603540,0,Delivered,Collect,2025-07-29
+O011465,25/07/2025,Gauteng,Web,Hardware,1,303.90,30390,0,Delivered,Road,2025-07-28
+O011466,25/07/2025,Gauteng,Web,Garden,5,544.90,272450,0,Delivered,Road,2025-07-27
+O011467,25/07/2025,Western Cape,Store,Hardware,2,210.90,42180,5,Cancelled,Collect,
+O011468,25/07/2025,Free State,Web,Tools,2,1650.90,330180,0,Delivered,Road,2025-07-28
+O011469,25/07/2025,Gauteng,Web,Garden,2,688.90,137780,0,Delivered,Air,2025-07-27
+O011470,25/07/2025,Western Cape,Web,Paint,2,623.90,124780,15,Delivered,Road,2025-07-26
+O011471,25/07/2025,Free State,Web,Garden,1,146.90,14690,15,Delivered,Road,2025-07-26
+O011472,25/07/2025,Western Cape,Web,Garden,2,815.90,163180,0,Delivered,Road,2025-07-26
+O011473,25/07/2025,Western Cape,Store,Paint,3,625.90,187770,5,Delivered,Collect,2025-07-29
+O011474,25/07/2025,Gauteng,Web,Hardware,1,250.90,25090,5,Delivered,Road,2025-07-27
+O011475,25/07/2025,Gauteng,Web,Plumbing,2,430.90,86180,5,Delivered,Road,2025-07-27
+O011476,25/07/2025,Western Cape,Web,Hardware,4,321.90,128760,5,Cancelled,Air,
+O011477,25/07/2025,Western Cape,App,Hardware,1,29.90,2990,10,Delivered,Road,2025-07-30
+O011478,25/07/2025,Gauteng,Phone,Hardware,4,22.90,9160,0,Delivered,Road,2025-07-26
+O011479,25/07/2025,Western Cape,Web,Hardware,4,95.90,38360,0,Delivered,Road,2025-07-29
+O011480,25/07/2025,Western Cape,Web,Electrical,5,948.90,474450,,Delivered,Air,2025-07-27
+O011481,25/07/2025,Gauteng,Store,Electrical,1,465.90,46590,0,Cancelled,Collect,
+O011482,25/07/2025,Western Cape,Store,Electrical,1,1184.90,118490,10,Delivered,Collect,2025-07-29
+O011483,25/07/2025,Gauteng,Store,Tools,1,2861.90,286190,,Delivered,Collect,2025-07-28
+O011484,25/07/2025,KwaZulu-Natal,Web,Garden,4,53.90,21560,,Delivered,Road,2025-07-26
+O011485,25/07/2025,Western Cape,Store,Tools,3,1259.90,377970,0,Delivered,Collect,2025-07-27
+O011486,25/07/2025,Gauteng,App,Electrical,2,551.90,110380,5,Delivered,Road,2025-07-28
+O011487,25/07/2025,KwaZulu-Natal,Store,Electrical,2,398.90,79780,20,Delivered,Collect,2025-07-28
+O011488,25/07/2025,Western Cape,Web,Hardware,3,389.90,116970,5,Delivered,Road,2025-07-26
+O011489,25/07/2025,Western Cape,Phone,Paint,2,1210.90,242180,0,Delivered,Road,2025-07-28
+O011490,25/07/2025,Gauteng,Web,Tools,1,2329.90,232990,0,Delivered,Road,2025-07-29
+O011491,25/07/2025,KwaZulu-Natal,Phone,Tools,4,1100.90,440360,5,Delivered,Road,2025-07-27
+O011492,25/07/2025,Gauteng,Web,Hardware,2,244.90,48980,0,Lost,Road,
+O011493,25/07/2025,KwaZulu-Natal,App,Paint,2,1053.90,210780,5,Returned,Road,
+O011494,25/07/2025,Gauteng,Web,Electrical,1,810.90,81090,10,Cancelled,Road,
+O011495,25/07/2025,Gauteng,Phone,Electrical,2,1148.90,229780,20,Delivered,Air,2025-07-27
+O011496,25/07/2025,Western Cape,Phone,Plumbing,2,213.90,42780,0,Delivered,Road,2025-07-27
+O011497,25/07/2025,Western Cape,Web,Hardware,2,71.90,14380,15,Delivered,Road,2025-07-29
+O011498,25/07/2025,Western Cape,App,Garden,1,338.90,33890,0,Delivered,Road,2025-07-26
+O011499,25/07/2025,Gauteng,Store,Hardware,3,84.90,25470,0,Delivered,Collect,2025-07-29
+O011500,25/07/2025,Gauteng,Phone,Tools,4,1352.90,541160,5,Delivered,Road,2025-07-26
+O011501,25/07/2025,Gauteng,Web,Hardware,2,56.90,11380,,Delivered,Road,2025-07-27
+O011502,25/07/2025,Gauteng,Web,Hardware,6,51.90,31140,0,Delivered,Road,2025-07-26
+O011503,26/07/2025,Gauteng,Web,Paint,5,946.90,473450,5,Delivered,Road,2025-07-31
+O011504,26/07/2025,Western Cape,Web,Garden,5,498.90,249450,0,Delivered,Road,2025-07-31
+O011505,26/07/2025,Eastern Cape,Store,Electrical,1,1249.90,124990,0,Delivered,Collect,2025-07-30
+O011506,26/07/2025,KwaZulu-Natal,Phone,Tools,1,2545.90,254590,5,Delivered,Road,2025-07-29
+O011507,26/07/2025,Western Cape,Web,Garden,1,640.90,64090,0,Delivered,Air,2025-07-28
+O011508,26/07/2025,Western Cape,Phone,Paint,2,731.90,146380,5,Delivered,Road,2025-07-27
+O011509,26/07/2025,Gauteng,Store,Plumbing,4,245.90,98360,5,Delivered,Collect,2025-07-28
+O011510,26/07/2025,Eastern Cape,Web,Electrical,3,1628.90,488670,0,Delivered,Road,2025-07-31
+O011511,26/07/2025,Western Cape,Web,Plumbing,2,680.90,136180,0,Delivered,Road,2025-07-29
+O011512,26/07/2025,Gauteng,Store,Hardware,1,256.90,25690,20,Delivered,Collect,2025-07-30
+O011513,26/07/2025,KwaZulu-Natal,Store,Hardware,2,63.90,12780,5,Delivered,Collect,2025-07-28
+O011514,26/07/2025,Free State,Store,Garden,4,616.90,246760,5,Delivered,Collect,2025-07-29
+O011515,26/07/2025,Gauteng,Web,Paint,5,1095.90,547950,0,Delivered,Road,2025-07-31
+O011516,26/07/2025,Western Cape,Web,Hardware,5,129.90,64950,0,Delivered,Road,2025-07-31
+O011517,26/07/2025,Western Cape,App,Hardware,4,380.90,152360,5,Delivered,Road,2025-07-28
+O011518,26/07/2025,Free State,Web,Plumbing,4,343.90,137560,15,Delivered,Road,2025-07-27
+O011519,26/07/2025,Gauteng,Store,Paint,5,178.90,89450,5,Delivered,Collect,2025-07-30
+O011520,26/07/2025,Gauteng,Web,Paint,3,1304.90,391470,5,Returned,Road,
+O011521,26/07/2025,Eastern Cape,Phone,Paint,2,894.90,178980,0,Delivered,Road,2025-07-31
+O011522,26/07/2025,Gauteng,Store,Tools,4,972.90,389160,0,Delivered,Collect,2025-07-29
+O011523,26/07/2025,Western Cape,Store,Tools,1,1707.90,170790,0,Delivered,Collect,2025-07-29
+O011524,26/07/2025,Gauteng,Store,Hardware,2,194.90,38980,0,Delivered,Collect,2025-07-31
+O011525,26/07/2025,Gauteng,Web,Electrical,2,797.90,159580,15,Delivered,Road,2025-07-28
+O011526,26/07/2025,KwaZulu-Natal,Web,Electrical,3,132.90,39870,0,Delivered,Road,2025-07-31
+O011527,26/07/2025,Gauteng,Phone,Plumbing,3,666.90,200070,0,Delivered,Road,2025-07-27
+O011528,26/07/2025,Free State,Web,Hardware,1,354.90,35490,15,Delivered,Road,2025-07-31
+O011529,26/07/2025,KwaZulu-Natal,Store,Hardware,3,73.90,22170,0,Delivered,Collect,2025-07-27
+O011530,26/07/2025,Western Cape,App,Paint,4,969.90,387960,0,Delivered,Road,2025-07-31
+O011531,26/07/2025,KwaZulu-Natal,Web,Paint,1,115.90,11590,0,Delivered,Road,2025-07-31
+O011532,26/07/2025,Gauteng,Web,Paint,3,348.90,104670,0,Delivered,Road,2025-07-27
+O011533,26/07/2025,Western Cape,Web,Hardware,5,310.90,155450,10,Returned,Road,
+O011534,26/07/2025,Gauteng,Web,Plumbing,3,454.90,136470,10,Delivered,Road,2025-07-29
+O011535,26/07/2025,Gauteng,Web,Hardware,1,29.90,2990,0,Delivered,Road,2025-07-28
+O011536,26/07/2025,KwaZulu-Natal,Store,Hardware,2,52.90,10580,,Delivered,Collect,2025-07-27
+O011537,26/07/2025,Gauteng,Phone,Paint,1,314.90,31490,0,Delivered,Road,2025-07-28
+O011538,26/07/2025,Free State,Web,Tools,1,2403.90,240390,10,Delivered,Road,2025-07-28
+O011539,26/07/2025,KwaZulu-Natal,Web,Garden,3,472.90,141870,0,Delivered,Road,2025-07-30
+O011540,26/07/2025,Eastern Cape,Web,Hardware,1,316.90,31690,10,Delivered,Road,2025-07-28
+O011541,26/07/2025,Gauteng,Web,Hardware,6,110.90,66540,10,Delivered,Road,2025-07-30
+O011542,26/07/2025,Gauteng,Web,Electrical,1,272.90,27290,20,Delivered,Road,2025-07-30
+O011543,26/07/2025,Western Cape,Web,Garden,5,250.90,125450,5,Delivered,Road,2025-07-27
+O011544,26/07/2025,Gauteng,Store,Hardware,1,284.90,28490,0,Delivered,Collect,2025-07-28
+O011545,26/07/2025,Gauteng,Store,Tools,1,2100.90,210090,0,Delivered,Collect,2025-07-27
+O011546,26/07/2025,Free State,Web,Hardware,6,102.90,61740,5,Delivered,Road,2025-07-31
+O011547,26/07/2025,Western Cape,Web,Electrical,5,1604.90,802450,15,Delivered,Road,2025-07-29
+O011548,26/07/2025,KwaZulu-Natal,Phone,Electrical,4,513.90,205560,10,Delivered,Road,2025-07-29
+O011549,26/07/2025,Gauteng,Store,Electrical,3,545.90,163770,5,Delivered,Collect,2025-07-27
+O011550,26/07/2025,Western Cape,Web,Plumbing,3,397.90,119370,5,Delivered,Road,2025-07-29
+O011551,26/07/2025,Western Cape,Store,Paint,2,1145.90,229180,10,Delivered,Collect,2025-07-31
+O011552,26/07/2025,Gauteng,Store,Electrical,3,1031.90,309570,0,Delivered,Collect,2025-07-27
+O011553,26/07/2025,Western Cape,Web,Hardware,3,355.90,106770,0,Returned,Road,
+O011554,26/07/2025,KwaZulu-Natal,Phone,Electrical,3,1769.90,530970,15,Delivered,Road,2025-07-30
+O011555,26/07/2025,Gauteng,Web,Hardware,1,76.90,7690,10,Delivered,Road,2025-07-27
+O011556,26/07/2025,Gauteng,Web,Plumbing,2,825.90,165180,0,Delivered,Road,2025-07-31
+O011557,26/07/2025,Western Cape,Phone,Electrical,1,1263.90,126390,10,Delivered,Road,2025-07-29
+O011558,26/07/2025,KwaZulu-Natal,Web,Paint,3,882.90,264870,5,Delivered,Road,2025-07-28
+O011559,26/07/2025,Gauteng,Web,Electrical,1,152.90,15290,15,Delivered,Road,2025-07-29
+O011560,26/07/2025,Gauteng,Web,Hardware,1,170.90,17090,0,Delivered,Road,2025-07-27
+O011561,26/07/2025,Western Cape,Web,Garden,3,181.90,54570,5,Delivered,Road,2025-07-31
+O011562,26/07/2025,Western Cape,Web,Plumbing,2,113.90,22780,0,Delivered,Road,2025-07-27
+O011563,27/07/2025,Eastern Cape,Store,Hardware,1,234.90,23490,5,Delivered,Collect,2025-07-28
+O011564,27/07/2025,Gauteng,Phone,Hardware,4,103.90,41560,0,Delivered,Air,2025-07-30
+O011565,27/07/2025,KwaZulu-Natal,Store,Paint,2,599.90,119980,5,Delivered,Collect,2025-08-01
+O011566,27/07/2025,Gauteng,Store,Paint,4,1155.90,462360,5,Delivered,Collect,2025-07-31
+O011567,27/07/2025,KwaZulu-Natal,Web,Hardware,3,180.90,54270,0,Delivered,Road,2025-08-01
+O011568,27/07/2025,Free State,Phone,Hardware,2,217.90,43580,0,Delivered,Road,2025-07-29
+O011569,27/07/2025,Gauteng,Web,Electrical,2,496.90,99380,0,Delivered,Road,2025-07-31
+O011570,27/07/2025,Gauteng,Phone,Hardware,2,247.90,49580,0,Delivered,Road,2025-07-29
+O011571,27/07/2025,Gauteng,Web,Plumbing,5,547.90,273950,0,Delivered,Road,2025-08-01
+O011572,27/07/2025,Western Cape,Store,Hardware,4,203.90,81560,5,Delivered,Collect,2025-07-28
+O011573,27/07/2025,Gauteng,Web,Tools,1,353.90,35390,5,Delivered,Road,2025-07-28
+O011574,27/07/2025,Gauteng,Web,Hardware,2,274.90,54980,0,Delivered,Road,2025-07-28
+O011575,27/07/2025,Eastern Cape,App,Hardware,3,219.90,65970,0,Delivered,Road,2025-07-29
+O011576,27/07/2025,Eastern Cape,Phone,Paint,2,282.90,56580,5,Delivered,Air,2025-07-30
+O011577,27/07/2025,Western Cape,Store,Hardware,2,63.90,12780,10,Delivered,Collect,2025-08-01
+O011578,27/07/2025,KwaZulu-Natal,App,Hardware,1,341.90,34190,5,Delivered,Road,2025-07-31
+O011579,27/07/2025,Gauteng,Phone,Tools,3,2532.90,759870,10,Delivered,Road,2025-07-31
+O011580,27/07/2025,KwaZulu-Natal,Web,Hardware,2,235.90,47180,0,Delivered,Road,2025-07-31
+O011581,27/07/2025,KwaZulu-Natal,Phone,Hardware,1,259.90,25990,0,Delivered,Air,2025-08-01
+O011582,27/07/2025,Gauteng,Phone,Paint,1,375.90,37590,0,Cancelled,Road,
+O011583,27/07/2025,Gauteng,Store,Paint,4,973.90,389560,0,Delivered,Collect,2025-07-28
+O011584,27/07/2025,Western Cape,Store,Garden,2,473.90,94780,10,Delivered,Collect,2025-08-01
+O011585,27/07/2025,KwaZulu-Natal,Web,Garden,3,536.90,161070,0,Delivered,Air,2025-08-01
+O011586,27/07/2025,KwaZulu-Natal,Store,Electrical,1,1298.90,129890,0,Delivered,Collect,2025-07-29
+O011587,27/07/2025,Free State,Web,Hardware,3,141.90,42570,0,Delivered,Road,2025-07-29
+O011588,27/07/2025,KwaZulu-Natal,Web,Garden,3,747.90,224370,20,Delivered,Road,2025-07-30
+O011589,27/07/2025,Western Cape,Phone,Hardware,1,384.90,38490,0,Delivered,Air,2025-07-29
+O011590,27/07/2025,Gauteng,Web,Paint,1,202.90,20290,0,Delivered,Road,2025-07-29
+O011591,27/07/2025,Western Cape,Web,Tools,1,1322.90,132290,0,Delivered,Road,2025-07-29
+O011592,27/07/2025,Gauteng,Web,Paint,1,333.90,33390,15,Delivered,Road,2025-07-30
+O011593,27/07/2025,KwaZulu-Natal,Web,Paint,2,1241.90,248380,0,Delivered,Road,2025-07-29
+O011594,27/07/2025,Gauteng,Phone,Tools,2,763.90,152780,0,Delivered,Road,2025-08-01
+O011595,27/07/2025,Eastern Cape,Phone,Plumbing,4,187.90,75160,0,Delivered,Air,2025-08-01
+O011596,27/07/2025,Gauteng,Phone,Garden,5,155.90,77950,0,Delivered,Road,2025-08-01
+O011597,27/07/2025,Gauteng,Web,Hardware,2,220.90,44180,15,Delivered,Road,2025-07-28
+O011598,27/07/2025,KwaZulu-Natal,Web,Electrical,3,1317.90,395370,10,Delivered,Road,2025-07-29
+O011599,27/07/2025,Gauteng,Phone,Hardware,1,139.90,13990,5,Returned,Air,
+O011600,27/07/2025,Gauteng,Web,Hardware,1,27.90,2790,20,Delivered,Road,2025-08-01
+O011601,27/07/2025,KwaZulu-Natal,Web,Plumbing,3,477.90,143370,0,Delivered,Road,2025-07-28
+O011602,27/07/2025,Gauteng,Store,Hardware,2,33.90,6780,15,Returned,Collect,
+O011603,27/07/2025,Eastern Cape,Phone,Paint,1,951.90,95190,15,Delivered,Road,2025-07-31
+O011604,27/07/2025,Free State,Phone,Tools,4,3142.90,1257160,0,Returned,Air,
+O011605,27/07/2025,Western Cape,Store,Garden,2,484.90,96980,0,Delivered,Collect,2025-07-28
+O011606,27/07/2025,Gauteng,Store,Hardware,2,57.90,11580,0,Delivered,Collect,2025-07-31
+O011607,27/07/2025,Gauteng,Web,Hardware,1,210.90,21090,15,Delivered,Road,2025-07-29
+O011608,27/07/2025,Gauteng,App,Garden,2,592.90,118580,0,Delivered,Road,2025-07-31
+O011609,27/07/2025,KwaZulu-Natal,Web,Plumbing,3,711.90,213570,0,Delivered,Road,2025-07-29
+O011610,28/07/2025,Western Cape,Phone,Hardware,1,269.90,26990,0,Delivered,Road,2025-07-31
+O011611,28/07/2025,Gauteng,Web,Tools,3,1729.90,518970,5,Delivered,Air,2025-08-01
+O011612,28/07/2025,Gauteng,Phone,Hardware,3,326.90,98070,10,Delivered,Air,2025-08-01
+O011613,28/07/2025,Western Cape,Phone,Paint,3,414.90,124470,0,Delivered,Road,2025-08-02
+O011614,28/07/2025,Western Cape,Store,Plumbing,3,469.90,140970,0,Delivered,Collect,2025-08-02
+O011615,28/07/2025,Western Cape,Store,Tools,3,1035.90,310770,10,Delivered,Collect,2025-07-30
+O011616,28/07/2025,Eastern Cape,Store,Paint,3,160.90,48270,10,Delivered,Collect,2025-07-30
+O011617,28/07/2025,Gauteng,Web,Hardware,1,252.90,25290,10,Delivered,Road,2025-07-30
+O011618,28/07/2025,Gauteng,Web,Electrical,2,321.90,64380,0,Delivered,Air,2025-07-30
+O011619,28/07/2025,Gauteng,Store,Paint,5,900.90,450450,0,Delivered,Collect,2025-07-31
+O011620,28/07/2025,Western Cape,Phone,Hardware,3,64.90,19470,0,Delivered,Road,2025-08-02
+O011621,28/07/2025,KwaZulu-Natal,Web,Hardware,2,231.90,46380,0,Delivered,Road,2025-07-30
+O011622,28/07/2025,Gauteng,Web,Electrical,3,944.90,283470,5,Delivered,Road,2025-07-29
+O011623,28/07/2025,Gauteng,Store,Hardware,2,32.90,6580,0,Delivered,Collect,2025-07-29
+O011624,28/07/2025,Western Cape,Store,Garden,1,637.90,63790,0,Delivered,Collect,2025-07-31
+O011625,28/07/2025,Gauteng,Store,Paint,2,1265.90,253180,15,Delivered,Collect,2025-07-29
+O011626,28/07/2025,Gauteng,Web,Electrical,6,1210.90,726540,10,Delivered,Road,2025-08-02
+O011627,28/07/2025,Gauteng,Phone,Electrical,4,686.90,274760,0,Delivered,Road,2025-08-02
+O011628,28/07/2025,Western Cape,Web,Hardware,1,250.90,25090,0,Delivered,Road,2025-07-31
+O011629,28/07/2025,Free State,Web,Garden,2,619.90,123980,10,Delivered,Road,2025-08-02
+O011630,28/07/2025,KwaZulu-Natal,Store,Tools,1,167.90,16790,0,Delivered,Collect,2025-08-01
+O011631,28/07/2025,Eastern Cape,Web,Hardware,5,345.90,172950,0,Delivered,Road,2025-08-02
+O011632,28/07/2025,Western Cape,App,Hardware,2,120.90,24180,0,Delivered,Road,2025-08-01
+O011633,28/07/2025,Gauteng,App,Garden,5,572.90,286450,10,Delivered,Road,2025-08-01
+O011634,28/07/2025,Gauteng,Store,Paint,1,1327.90,132790,10,Delivered,Collect,2025-07-30
+O011635,28/07/2025,Free State,Web,Electrical,3,301.90,90570,5,Delivered,Road,2025-07-31
+O011636,28/07/2025,Western Cape,Web,Plumbing,2,809.90,161980,0,Delivered,Road,2025-08-02
+O011637,28/07/2025,Gauteng,Web,Hardware,1,262.90,26290,0,Delivered,Road,2025-07-31
+O011638,28/07/2025,Western Cape,Web,Hardware,5,256.90,128450,10,Delivered,Road,2025-08-01
+O011639,28/07/2025,Western Cape,Store,Garden,4,122.90,49160,20,Delivered,Collect,2025-08-02
+O011640,28/07/2025,Western Cape,Phone,Electrical,3,911.90,273570,10,Delivered,Road,2025-08-01
+O011641,28/07/2025,KwaZulu-Natal,Web,Plumbing,6,450.90,270540,5,Delivered,Road,2025-07-31
+O011642,28/07/2025,Gauteng,Store,Paint,2,1216.90,243380,5,Delivered,Collect,2025-08-02
+O011643,28/07/2025,Eastern Cape,Web,Garden,1,79.90,7990,20,Delivered,Road,2025-08-01
+O011644,28/07/2025,Gauteng,Web,Garden,3,294.90,88470,10,Delivered,Road,2025-07-29
+O011645,28/07/2025,Western Cape,Phone,Paint,6,404.90,242940,5,Delivered,Road,2025-07-29
+O011646,28/07/2025,Western Cape,Web,Hardware,1,382.90,38290,,Delivered,Road,2025-07-29
+O011647,28/07/2025,Gauteng,Phone,Paint,1,245.90,24590,5,Delivered,Road,2025-07-30
+O011648,28/07/2025,KwaZulu-Natal,Phone,Hardware,1,320.90,32090,10,Delivered,Road,2025-07-31
+O011649,28/07/2025,Western Cape,Web,Paint,2,979.90,195980,20,Returned,Road,
+O011650,28/07/2025,Gauteng,Phone,Electrical,6,715.90,429540,0,Delivered,Road,2025-08-01
+O011651,28/07/2025,KwaZulu-Natal,Store,Plumbing,1,143.90,14390,0,Delivered,Collect,2025-07-29
+O011652,28/07/2025,Gauteng,Phone,Electrical,1,1461.90,146190,0,Delivered,Air,2025-08-01
+O011653,28/07/2025,KwaZulu-Natal,Phone,Garden,4,881.90,352760,0,Delivered,Road,2025-07-29
+O011654,28/07/2025,KwaZulu-Natal,App,Hardware,1,92.90,9290,0,Delivered,Road,2025-07-29
+O011655,28/07/2025,Eastern Cape,Web,Electrical,4,1613.90,645560,,Delivered,Road,2025-08-02
+O011656,28/07/2025,KwaZulu-Natal,Web,Garden,3,174.90,52470,15,Delivered,Road,2025-08-01
+O011657,28/07/2025,Gauteng,Web,Paint,1,427.90,42790,0,Delivered,Road,2025-07-30
+O011658,28/07/2025,KwaZulu-Natal,Web,Paint,2,725.90,145180,10,Delivered,Road,2025-08-02
+O011659,28/07/2025,Western Cape,Phone,Hardware,2,306.90,61380,5,Delivered,Road,2025-07-30
+O011660,28/07/2025,Gauteng,App,Paint,6,886.90,532140,5,Delivered,Road,2025-08-01
+O011661,28/07/2025,Gauteng,App,Garden,1,219.90,21990,0,Delivered,Road,2025-07-30
+O011662,28/07/2025,Western Cape,Phone,Electrical,3,665.90,199770,15,Delivered,Road,2025-07-31
+O011663,28/07/2025,KwaZulu-Natal,Web,Plumbing,1,97.90,9790,15,Delivered,Road,2025-08-02
+O011664,28/07/2025,Gauteng,Web,Paint,2,733.90,146780,,Delivered,Road,2025-07-29
+O011665,28/07/2025,Western Cape,Store,Paint,2,1133.90,226780,0,Delivered,Collect,2025-07-30
+O011666,29/07/2025,Gauteng,Web,Hardware,2,327.90,65580,10,Delivered,Road,2025-07-30
+O011667,29/07/2025,KwaZulu-Natal,App,Hardware,1,212.90,21290,0,Delivered,Road,2025-08-01
+O011668,29/07/2025,Western Cape,Store,Tools,3,1148.90,344670,0,Delivered,Collect,2025-08-03
+O011669,29/07/2025,Western Cape,Web,Garden,4,213.90,85560,0,Delivered,Road,2025-07-31
+O011670,29/07/2025,Western Cape,Store,Tools,2,348.90,69780,0,Delivered,Collect,2025-08-02
+O011671,29/07/2025,Free State,Web,Electrical,1,29.90,2990,0,Delivered,Road,2025-08-02
+O011672,29/07/2025,KwaZulu-Natal,Web,Tools,5,1429.90,714950,0,Delivered,Road,2025-07-30
+O011673,29/07/2025,Western Cape,Web,Garden,1,504.90,50490,0,Delivered,Road,2025-08-03
+O011674,29/07/2025,Gauteng,Store,Plumbing,2,285.90,57180,0,Delivered,Collect,2025-07-30
+O011675,29/07/2025,KwaZulu-Natal,Store,Tools,6,307.90,184740,,Delivered,Collect,2025-08-01
+O011676,29/07/2025,Gauteng,Phone,Paint,6,570.90,342540,10,Delivered,Road,2025-08-01
+O011677,29/07/2025,Gauteng,Web,Plumbing,1,394.90,39490,5,Returned,Road,
+O011678,29/07/2025,KwaZulu-Natal,Web,Garden,2,264.90,52980,5,Delivered,Road,2025-07-30
+O011679,29/07/2025,KwaZulu-Natal,Phone,Hardware,2,97.90,19580,10,Delivered,Road,2025-08-01
+O011680,29/07/2025,Western Cape,Phone,Paint,2,1241.90,248380,5,Delivered,Road,2025-08-02
+O011681,29/07/2025,Western Cape,Web,Paint,5,1183.90,591950,20,Delivered,Road,2025-07-30
+O011682,29/07/2025,KwaZulu-Natal,Store,Plumbing,1,845.90,84590,0,Delivered,Collect,2025-07-31
+O011683,29/07/2025,Western Cape,Web,Hardware,3,36.90,11070,0,Delivered,Road,2025-07-31
+O011684,29/07/2025,KwaZulu-Natal,Web,Paint,1,474.90,47490,0,Delivered,Road,2025-07-31
+O011685,29/07/2025,KwaZulu-Natal,Store,Paint,1,113.90,11390,15,Delivered,Collect,2025-07-31
+O011686,29/07/2025,Eastern Cape,Web,Hardware,5,95.90,47950,0,Delivered,Road,2025-07-31
+O011687,29/07/2025,Western Cape,Web,Hardware,5,389.90,194950,0,Delivered,Air,2025-08-03
+O011688,29/07/2025,Gauteng,Web,Paint,1,1317.90,131790,0,Delivered,Road,2025-07-30
+O011689,29/07/2025,KwaZulu-Natal,Store,Plumbing,4,708.90,283560,0,Delivered,Collect,2025-08-01
+O011690,29/07/2025,KwaZulu-Natal,Web,Hardware,3,359.90,107970,10,Delivered,Road,2025-08-01
+O011691,29/07/2025,Gauteng,Store,Paint,3,1210.90,363270,0,Delivered,Collect,2025-07-30
+O011692,29/07/2025,Gauteng,App,Plumbing,1,874.90,87490,0,Returned,Road,
+O011693,29/07/2025,Western Cape,Phone,Paint,3,1333.90,400170,0,Returned,Road,
+O011694,29/07/2025,Western Cape,Store,Hardware,4,32.90,13160,20,Delivered,Collect,2025-07-30
+O011695,29/07/2025,Western Cape,App,Paint,1,958.90,95890,5,Delivered,Road,2025-08-02
+O011696,29/07/2025,Gauteng,Web,Paint,3,430.90,129270,0,Delivered,Road,2025-08-03
+O011697,29/07/2025,Western Cape,App,Paint,2,579.90,115980,0,Delivered,Road,2025-08-03
+O011698,29/07/2025,KwaZulu-Natal,Web,Plumbing,1,164.90,16490,10,Delivered,Air,2025-08-03
+O011699,29/07/2025,Western Cape,Store,Paint,2,1322.90,264580,5,Delivered,Collect,2025-08-03
+O011700,29/07/2025,Western Cape,Store,Garden,2,62.90,12580,0,Delivered,Collect,2025-07-31
+O011701,29/07/2025,Western Cape,Web,Electrical,5,604.90,302450,,Delivered,Road,2025-08-01
+O011702,29/07/2025,Western Cape,Store,Tools,1,1744.90,174490,5,Delivered,Collect,2025-08-01
+O011703,29/07/2025,Western Cape,Web,Paint,2,215.90,43180,10,Delivered,Road,2025-08-01
+O011704,29/07/2025,Gauteng,Web,Garden,1,798.90,79890,10,Returned,Air,
+O011705,29/07/2025,Gauteng,Store,Electrical,3,1364.90,409470,0,Delivered,Collect,2025-08-03
+O011706,30/07/2025,Gauteng,Web,Plumbing,3,78.90,23670,0,Lost,Road,
+O011707,30/07/2025,Western Cape,Store,Paint,2,414.90,82980,0,Delivered,Collect,2025-08-02
+O011708,30/07/2025,KwaZulu-Natal,Store,Hardware,5,50.90,25450,5,Delivered,Collect,2025-07-31
+O011709,30/07/2025,KwaZulu-Natal,Web,Plumbing,1,624.90,62490,,Delivered,Road,2025-08-03
+O011710,30/07/2025,Gauteng,Web,Electrical,2,743.90,148780,5,Returned,Air,
+O011711,30/07/2025,KwaZulu-Natal,App,Electrical,3,722.90,216870,0,Delivered,Road,2025-08-01
+O011712,30/07/2025,Western Cape,Store,Electrical,3,1082.90,324870,5,Delivered,Collect,2025-08-02
+O011713,30/07/2025,Free State,Web,Electrical,1,1173.90,117390,10,Delivered,Road,2025-08-01
+O011714,30/07/2025,Western Cape,Web,Garden,3,157.90,47370,0,Delivered,Road,2025-08-04
+O011715,30/07/2025,Western Cape,App,Hardware,3,133.90,40170,5,Delivered,Air,2025-08-03
+O011716,30/07/2025,Gauteng,Phone,Hardware,1,24.90,2490,,Delivered,Road,2025-07-31
+O011717,30/07/2025,Eastern Cape,Web,Hardware,2,267.90,53580,0,Delivered,Road,2025-07-31
+O011718,30/07/2025,Gauteng,Store,Plumbing,2,532.90,106580,0,Delivered,Collect,2025-08-03
+O011719,30/07/2025,Eastern Cape,Web,Electrical,3,696.90,209070,5,Delivered,Road,2025-08-02
+O011720,30/07/2025,Western Cape,Store,Paint,2,1174.90,234980,0,Delivered,Collect,2025-08-02
+O011721,30/07/2025,Gauteng,Store,Electrical,3,1156.90,347070,0,Delivered,Collect,2025-07-31
+O011722,30/07/2025,Western Cape,Store,Hardware,4,229.90,91960,15,Delivered,Collect,2025-08-02
+O011723,30/07/2025,KwaZulu-Natal,Web,Plumbing,6,500.90,300540,0,Delivered,Road,2025-07-31
+O011724,30/07/2025,Western Cape,Web,Tools,2,2905.90,581180,0,Delivered,Road,2025-08-04
+O011725,30/07/2025,Gauteng,App,Plumbing,4,542.90,217160,5,Delivered,Road,2025-07-31
+O011726,30/07/2025,Western Cape,Web,Hardware,4,44.90,17960,0,Delivered,Road,2025-08-01
+O011727,30/07/2025,Gauteng,Web,Garden,6,280.90,168540,10,Delivered,Road,2025-08-04
+O011728,30/07/2025,Western Cape,Store,Hardware,1,255.90,25590,,Delivered,Collect,2025-08-01
+O011729,30/07/2025,KwaZulu-Natal,Store,Electrical,1,1564.90,156490,0,Returned,Collect,
+O011730,30/07/2025,Gauteng,Store,Hardware,1,334.90,33490,10,Delivered,Collect,2025-08-01
+O011731,30/07/2025,Western Cape,Phone,Plumbing,3,487.90,146370,0,Delivered,Road,2025-08-03
+O011732,30/07/2025,Gauteng,Web,Paint,3,278.90,83670,0,Delivered,Road,2025-08-04
+O011733,30/07/2025,Eastern Cape,Phone,Garden,6,877.90,526740,0,Delivered,Road,2025-07-31
+O011734,30/07/2025,Gauteng,Phone,Tools,3,3055.90,916770,20,Delivered,Road,2025-08-01
+O011735,30/07/2025,Gauteng,Phone,Hardware,3,112.90,33870,5,Delivered,Road,2025-08-03
+O011736,30/07/2025,Western Cape,Web,Hardware,6,176.90,106140,0,Delivered,Road,2025-08-03
+O011737,30/07/2025,Gauteng,Phone,Electrical,5,1249.90,624950,0,Delivered,Road,2025-08-03
+O011738,30/07/2025,Western Cape,App,Hardware,1,68.90,6890,0,Delivered,Road,2025-08-04
+O011739,30/07/2025,Gauteng,Web,Hardware,4,328.90,131560,0,Delivered,Road,2025-08-04
+O011740,30/07/2025,Eastern Cape,Phone,Electrical,4,282.90,113160,0,Delivered,Road,2025-08-02
+O011741,30/07/2025,Western Cape,Phone,Hardware,4,169.90,67960,0,Delivered,Road,2025-08-02
+O011742,30/07/2025,Gauteng,Store,Paint,3,1257.90,377370,0,Delivered,Collect,2025-08-01
+O011743,30/07/2025,Western Cape,Phone,Paint,2,141.90,28380,15,Delivered,Air,2025-08-03
+O011744,30/07/2025,Western Cape,Phone,Electrical,6,798.90,479340,5,Delivered,Road,2025-08-01
+O011745,30/07/2025,Western Cape,Phone,Hardware,4,159.90,63960,0,Delivered,Road,2025-08-03
+O011746,30/07/2025,KwaZulu-Natal,Store,Electrical,4,1156.90,462760,0,Delivered,Collect,2025-08-03
+O011747,30/07/2025,Gauteng,Web,Garden,6,826.90,496140,0,Delivered,Road,2025-07-31
+O011748,30/07/2025,Western Cape,Phone,Tools,5,2953.90,1476950,0,Delivered,Road,2025-08-02
+O011749,30/07/2025,Western Cape,Phone,Tools,2,699.90,139980,0,Delivered,Road,2025-08-04
+O011750,30/07/2025,Gauteng,Web,Plumbing,1,417.90,41790,0,Delivered,Road,2025-08-03
+O011751,30/07/2025,Western Cape,Web,Electrical,3,1173.90,352170,10,Delivered,Road,2025-07-31
+O011752,30/07/2025,KwaZulu-Natal,Phone,Tools,3,1508.90,452670,5,Delivered,Road,2025-08-03
+O011753,30/07/2025,Gauteng,Phone,Hardware,4,261.90,104760,20,Delivered,Road,2025-08-01
+O011754,30/07/2025,Gauteng,Phone,Plumbing,1,745.90,74590,0,Delivered,Road,2025-08-02
+O011755,30/07/2025,KwaZulu-Natal,Store,Paint,3,505.90,151770,0,Delivered,Collect,2025-08-02
+O011756,30/07/2025,Western Cape,Store,Tools,2,2083.90,416780,10,Returned,Collect,
+O011757,30/07/2025,Gauteng,Store,Garden,1,674.90,67490,0,Delivered,Collect,2025-08-03
+O011758,30/07/2025,Western Cape,Phone,Plumbing,1,201.90,20190,0,Cancelled,Road,
+O011759,31/07/2025,Eastern Cape,Web,Paint,5,574.90,287450,0,Delivered,Road,2025-08-01
+O011760,31/07/2025,Western Cape,Store,Electrical,1,126.90,12690,5,Delivered,Collect,2025-08-04
+O011761,31/07/2025,Gauteng,Web,Hardware,2,271.90,54380,0,Delivered,Road,2025-08-05
+O011762,31/07/2025,Gauteng,Web,Paint,2,1334.90,266980,5,Delivered,Road,2025-08-03
+O011763,31/07/2025,KwaZulu-Natal,Web,Paint,3,1209.90,362970,0,Delivered,Road,2025-08-02
+O011764,31/07/2025,Eastern Cape,App,Paint,2,323.90,64780,0,Returned,Road,
+O011765,31/07/2025,Gauteng,Web,Hardware,2,213.90,42780,0,Delivered,Road,2025-08-05
+O011766,31/07/2025,Western Cape,Web,Electrical,1,212.90,21290,5,Delivered,Road,2025-08-02
+O011767,31/07/2025,Western Cape,Web,Tools,3,1035.90,310770,0,Delivered,Road,2025-08-05
+O011768,31/07/2025,Gauteng,Web,Garden,1,627.90,62790,0,Delivered,Road,2025-08-03
+O011769,31/07/2025,Gauteng,Phone,Paint,2,395.90,79180,0,Delivered,Road,2025-08-01
+O011770,31/07/2025,Western Cape,Web,Electrical,1,1235.90,123590,0,Delivered,Road,2025-08-03
+O011771,31/07/2025,Gauteng,Web,Garden,5,515.90,257950,5,Delivered,Road,2025-08-03
+O011772,31/07/2025,Free State,App,Hardware,1,215.90,21590,0,Delivered,Road,2025-08-02
+O011773,31/07/2025,Gauteng,Web,Hardware,1,348.90,34890,0,Cancelled,Road,
+O011774,31/07/2025,Western Cape,Store,Tools,2,1770.90,354180,5,Delivered,Collect,2025-08-01
+O011775,31/07/2025,Gauteng,Web,Hardware,2,194.90,38980,0,Delivered,Road,2025-08-04
+O011776,31/07/2025,KwaZulu-Natal,Store,Plumbing,6,316.90,190140,0,Delivered,Collect,2025-08-01
+O011777,31/07/2025,Free State,Web,Electrical,4,448.90,179560,5,Delivered,Road,2025-08-04
+O011778,31/07/2025,KwaZulu-Natal,Store,Hardware,2,322.90,64580,0,Delivered,Collect,2025-08-05
+O011779,31/07/2025,Gauteng,Store,Garden,3,622.90,186870,5,Returned,Collect,
+O011780,31/07/2025,Gauteng,App,Electrical,4,1064.90,425960,5,Returned,Air,
+O011781,31/07/2025,Gauteng,Web,Garden,1,404.90,40490,5,Delivered,Road,2025-08-01
+O011782,31/07/2025,Western Cape,App,Electrical,1,170.90,17090,0,Delivered,Road,2025-08-05
+O011783,31/07/2025,KwaZulu-Natal,Web,Electrical,5,500.90,250450,0,Delivered,Road,2025-08-04
+O011784,31/07/2025,KwaZulu-Natal,Web,Plumbing,2,700.90,140180,0,Delivered,Road,2025-08-02
+O011785,31/07/2025,Western Cape,Web,Tools,1,2350.90,235090,0,Returned,Road,
+O011786,31/07/2025,Gauteng,Web,Paint,4,504.90,201960,0,Delivered,Road,2025-08-02
+O011787,31/07/2025,KwaZulu-Natal,Store,Garden,6,253.90,152340,10,Delivered,Collect,2025-08-02
+O011788,31/07/2025,Western Cape,Web,Hardware,1,387.90,38790,10,Delivered,Road,2025-08-03
+O011789,31/07/2025,Free State,Phone,Electrical,4,1788.90,715560,10,Returned,Road,
+O011790,31/07/2025,Gauteng,Web,Tools,1,204.90,20490,5,Cancelled,Road,
+O011791,31/07/2025,Western Cape,App,Electrical,6,1206.90,724140,15,Delivered,Road,2025-08-05
+O011792,31/07/2025,Western Cape,App,Paint,1,842.90,84290,20,Returned,Road,
+O011793,31/07/2025,Gauteng,App,Tools,3,398.90,119670,10,Delivered,Road,2025-08-02
+O011794,31/07/2025,Eastern Cape,Phone,Paint,1,1175.90,117590,0,Delivered,Road,2025-08-03
+O011795,31/07/2025,Western Cape,Web,Paint,2,558.90,111780,0,Delivered,Road,2025-08-02
+O011796,31/07/2025,KwaZulu-Natal,Web,Tools,1,1875.90,187590,10,Delivered,Road,2025-08-02
+O011797,31/07/2025,Gauteng,Phone,Tools,6,1725.90,1035540,5,Delivered,Road,2025-08-01
+O011798,31/07/2025,Western Cape,App,Hardware,3,367.90,110370,15,Delivered,Road,2025-08-01
+O011799,31/07/2025,KwaZulu-Natal,Store,Paint,1,571.90,57190,0,Delivered,Collect,2025-08-05
+O011800,31/07/2025,KwaZulu-Natal,Store,Hardware,1,256.90,25690,15,Delivered,Collect,2025-08-02
+O011801,31/07/2025,Gauteng,Web,Hardware,6,91.90,55140,0,Delivered,Air,2025-08-04
+O011802,31/07/2025,Gauteng,Web,Hardware,2,324.90,64980,0,Delivered,Road,2025-08-04
+O011803,31/07/2025,Western Cape,Web,Paint,3,633.90,190170,15,Delivered,Road,2025-08-05
+O011804,31/07/2025,Gauteng,Web,Hardware,6,52.90,31740,15,Cancelled,Road,
+O011805,31/07/2025,KwaZulu-Natal,Web,Electrical,3,387.90,116370,10,Delivered,Road,2025-08-02
+O011806,31/07/2025,KwaZulu-Natal,Phone,Hardware,1,233.90,23390,0,Delivered,Road,2025-08-03
+O011807,31/07/2025,KwaZulu-Natal,Web,Electrical,4,302.90,121160,0,Delivered,Road,2025-08-01
+O011808,31/07/2025,Gauteng,Web,Electrical,2,1146.90,229380,5,Delivered,Air,2025-08-01
+O011809,31/07/2025,KwaZulu-Natal,Phone,Hardware,1,387.90,38790,0,Delivered,Road,2025-08-05
+O011810,31/07/2025,Gauteng,Web,Hardware,5,320.90,160450,0,Delivered,Road,2025-08-03
+O011811,31/07/2025,Gauteng,Web,Paint,2,1011.90,202380,10,Delivered,Road,2025-08-04

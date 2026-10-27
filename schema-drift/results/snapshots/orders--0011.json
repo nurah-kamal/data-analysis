@@ -1,0 +1,280 @@
+{
+  "tool": "schema-drift",
+  "version": 1,
+  "name": "orders",
+  "asOf": "2025-11",
+  "source": "orders-2025-11.csv",
+  "rows": 2452,
+  "columns": [
+    {
+      "name": "order_id",
+      "position": 0,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 2452,
+      "examples": [
+        "O017591",
+        "O017592",
+        "O017593"
+      ],
+      "text": {
+        "pattern": "A999999",
+        "patternShare": 1,
+        "minLength": 7,
+        "maxLength": 7
+      }
+    },
+    {
+      "name": "order_date",
+      "position": 1,
+      "type": "date",
+      "formats": [
+        "DD/MM/YYYY"
+      ],
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 30,
+      "examples": [
+        "01/11/2025",
+        "02/11/2025",
+        "03/11/2025"
+      ],
+      "dates": {
+        "min": "2025-11-01",
+        "max": "2025-11-30"
+      }
+    },
+    {
+      "name": "province",
+      "position": 2,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 5,
+      "examples": [
+        "Gauteng",
+        "Western Cape",
+        "Eastern Cape"
+      ],
+      "categories": {
+        "Eastern Cape": 258,
+        "Free State": 122,
+        "Gauteng": 838,
+        "KwaZulu-Natal": 483,
+        "Western Cape": 751
+      },
+      "text": {
+        "pattern": "AAAAAAA AAAA",
+        "patternShare": 0.4115,
+        "minLength": 7,
+        "maxLength": 13
+      }
+    },
+    {
+      "name": "channel",
+      "position": 3,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 4,
+      "examples": [
+        "Web",
+        "Phone",
+        "Store"
+      ],
+      "categories": {
+        "App": 247,
+        "Phone": 454,
+        "Store": 642,
+        "Web": 1109
+      },
+      "text": {
+        "pattern": "AAA",
+        "patternShare": 0.553,
+        "minLength": 3,
+        "maxLength": 5
+      }
+    },
+    {
+      "name": "category",
+      "position": 4,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 6,
+      "examples": [
+        "Hardware",
+        "Electrical",
+        "Paint"
+      ],
+      "categories": {
+        "Electrical": 366,
+        "Garden": 371,
+        "Hardware": 749,
+        "Paint": 493,
+        "Plumbing": 225,
+        "Tools": 248
+      },
+      "text": {
+        "pattern": "AAAAAAAA",
+        "patternShare": 0.3972,
+        "minLength": 5,
+        "maxLength": 10
+      }
+    },
+    {
+      "name": "quantity",
+      "position": 5,
+      "type": "integer",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 6,
+      "examples": [
+        "2",
+        "5",
+        "4"
+      ],
+      "numbers": {
+        "min": 1,
+        "p25": 1,
+        "median": 2,
+        "p75": 4,
+        "max": 6,
+        "mean": 2.772,
+        "sd": 1.5587
+      }
+    },
+    {
+      "name": "unit_price",
+      "position": 6,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 1185,
+      "examples": [
+        "R 291.90",
+        "R 628.90",
+        "R 1089.90"
+      ],
+      "text": {
+        "pattern": "A 999.99",
+        "patternShare": 0.7149,
+        "minLength": 7,
+        "maxLength": 9
+      }
+    },
+    {
+      "name": "amount",
+      "position": 7,
+      "type": "integer",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 2041,
+      "examples": [
+        "58380",
+        "314450",
+        "435960"
+      ],
+      "numbers": {
+        "min": 2090,
+        "p25": 44737.5,
+        "median": 99320,
+        "p75": 227945,
+        "max": 1875540,
+        "mean": 174418.9356,
+        "sd": 207163.1844
+      }
+    },
+    {
+      "name": "discount_pct",
+      "position": 8,
+      "type": "integer",
+      "nulls": 869,
+      "nullRate": 0.3544,
+      "distinct": 5,
+      "examples": [
+        "10",
+        "0",
+        "5"
+      ],
+      "numbers": {
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 5,
+        "max": 20,
+        "mean": 3.8282,
+        "sd": 5.2482
+      }
+    },
+    {
+      "name": "status",
+      "position": 9,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 3,
+      "examples": [
+        "Delivered",
+        "Cancelled",
+        "Lost"
+      ],
+      "categories": {
+        "Cancelled": 95,
+        "Delivered": 2347,
+        "Lost": 10
+      },
+      "text": {
+        "pattern": "AAAAAAAAA",
+        "patternShare": 0.9959,
+        "minLength": 4,
+        "maxLength": 9
+      }
+    },
+    {
+      "name": "delivered_on",
+      "position": 10,
+      "type": "date",
+      "formats": [
+        "YYYY-MM-DD"
+      ],
+      "nulls": 105,
+      "nullRate": 0.0428,
+      "distinct": 34,
+      "examples": [
+        "2025-11-05",
+        "2025-11-06",
+        "2025-11-04"
+      ],
+      "dates": {
+        "min": "2025-11-02",
+        "max": "2025-12-05"
+      }
+    },
+    {
+      "name": "warehouse",
+      "position": 11,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 3,
+      "examples": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban"
+      ],
+      "categories": {
+        "Cape Town": 1009,
+        "Durban": 483,
+        "Johannesburg": 960
+      },
+      "text": {
+        "pattern": "AAAA AAAA",
+        "patternShare": 0.4115,
+        "minLength": 6,
+        "maxLength": 12
+      }
+    }
+  ]
+}

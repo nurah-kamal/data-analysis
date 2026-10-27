@@ -1,0 +1,17 @@
+{
+  "name": "schema-drift",
+  "version": "1.0.0",
+  "description": "Watches a recurring export and reports when its shape or meaning changes, before the report downstream goes wrong.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "drift": "node schema-drift.js",
+    "demo": "node scripts/make-demo.js && node scripts/run-demo.js",
+    "test": "node --test",
+    "check": "node scripts/check.js"
+  }
+}

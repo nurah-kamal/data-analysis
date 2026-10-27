@@ -1,0 +1,284 @@
+{
+  "tool": "schema-drift",
+  "version": 1,
+  "name": "orders",
+  "asOf": "2025-08",
+  "source": "orders-2025-08.csv",
+  "rows": 1741,
+  "columns": [
+    {
+      "name": "order_id",
+      "position": 0,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 1741,
+      "examples": [
+        "O011812",
+        "O011813",
+        "O011814"
+      ],
+      "text": {
+        "pattern": "A999999",
+        "patternShare": 1,
+        "minLength": 7,
+        "maxLength": 7
+      }
+    },
+    {
+      "name": "order_date",
+      "position": 1,
+      "type": "date",
+      "formats": [
+        "DD/MM/YYYY"
+      ],
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 31,
+      "examples": [
+        "01/08/2025",
+        "02/08/2025",
+        "03/08/2025"
+      ],
+      "dates": {
+        "min": "2025-08-01",
+        "max": "2025-08-31"
+      }
+    },
+    {
+      "name": "province",
+      "position": 2,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 5,
+      "examples": [
+        "KwaZulu-Natal",
+        "Gauteng",
+        "Western Cape"
+      ],
+      "categories": {
+        "Eastern Cape": 202,
+        "Free State": 94,
+        "Gauteng": 631,
+        "KwaZulu-Natal": 322,
+        "Western Cape": 492
+      },
+      "text": {
+        "pattern": "AAAAAAA AAAA",
+        "patternShare": 0.3986,
+        "minLength": 7,
+        "maxLength": 13
+      }
+    },
+    {
+      "name": "channel",
+      "position": 3,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 4,
+      "examples": [
+        "Phone",
+        "Web",
+        "Store"
+      ],
+      "categories": {
+        "App": 192,
+        "Phone": 328,
+        "Store": 434,
+        "Web": 787
+      },
+      "text": {
+        "pattern": "AAA",
+        "patternShare": 0.5623,
+        "minLength": 3,
+        "maxLength": 5
+      }
+    },
+    {
+      "name": "category",
+      "position": 4,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 6,
+      "examples": [
+        "Tools",
+        "Garden",
+        "Paint"
+      ],
+      "categories": {
+        "Electrical": 261,
+        "Garden": 255,
+        "Hardware": 509,
+        "Paint": 346,
+        "Plumbing": 180,
+        "Tools": 190
+      },
+      "text": {
+        "pattern": "AAAAAAAA",
+        "patternShare": 0.3957,
+        "minLength": 5,
+        "maxLength": 10
+      }
+    },
+    {
+      "name": "quantity",
+      "position": 5,
+      "type": "integer",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 6,
+      "examples": [
+        "1",
+        "4",
+        "2"
+      ],
+      "numbers": {
+        "min": 1,
+        "p25": 2,
+        "median": 3,
+        "p75": 4,
+        "max": 6,
+        "mean": 2.8576,
+        "sd": 1.5673
+      }
+    },
+    {
+      "name": "unit_price",
+      "position": 6,
+      "type": "decimal",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 1006,
+      "examples": [
+        "2682.90",
+        "290.90",
+        "753.90"
+      ],
+      "numbers": {
+        "min": 21.9,
+        "p25": 230.9,
+        "median": 428.9,
+        "p75": 880.9,
+        "max": 3184.9,
+        "mean": 642.6645,
+        "sd": 585.9627
+      }
+    },
+    {
+      "name": "amount",
+      "position": 7,
+      "type": "integer",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 1526,
+      "examples": [
+        "268290",
+        "116360",
+        "150780"
+      ],
+      "numbers": {
+        "min": 2190,
+        "p25": 48580,
+        "median": 109170,
+        "p75": 225450,
+        "max": 1847340,
+        "mean": 182291.2407,
+        "sd": 222319.8351
+      }
+    },
+    {
+      "name": "discount_pct",
+      "position": 8,
+      "type": "integer",
+      "nulls": 610,
+      "nullRate": 0.3504,
+      "distinct": 5,
+      "examples": [
+        "15",
+        "0",
+        "10"
+      ],
+      "numbers": {
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 10,
+        "max": 20,
+        "mean": 4.443,
+        "sd": 5.7581
+      }
+    },
+    {
+      "name": "status",
+      "position": 9,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 4,
+      "examples": [
+        "Delivered",
+        "Cancelled",
+        "Returned"
+      ],
+      "categories": {
+        "Cancelled": 67,
+        "Delivered": 1582,
+        "Lost": 3,
+        "Returned": 89
+      },
+      "text": {
+        "pattern": "AAAAAAAAA",
+        "patternShare": 0.9472,
+        "minLength": 4,
+        "maxLength": 9
+      }
+    },
+    {
+      "name": "courier",
+      "position": 10,
+      "type": "text",
+      "nulls": 0,
+      "nullRate": 0,
+      "distinct": 3,
+      "examples": [
+        "Air",
+        "Road",
+        "Collect"
+      ],
+      "categories": {
+        "Air": 170,
+        "Collect": 434,
+        "Road": 1137
+      },
+      "text": {
+        "pattern": "AAAA",
+        "patternShare": 0.6531,
+        "minLength": 3,
+        "maxLength": 7
+      }
+    },
+    {
+      "name": "delivered_on",
+      "position": 11,
+      "type": "date",
+      "formats": [
+        "YYYY-MM-DD"
+      ],
+      "nulls": 159,
+      "nullRate": 0.0913,
+      "distinct": 35,
+      "examples": [
+        "2025-08-03",
+        "2025-08-04",
+        "2025-08-06"
+      ],
+      "dates": {
+        "min": "2025-08-02",
+        "max": "2025-09-05"
+      }
+    }
+  ]
+}
